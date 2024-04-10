@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: TechiDaily
+title: Bypass Frp
 subtitle: 'Enjoy life easier but more creative!'
-description: 'TechiDaily is the largest, most trusted online solution for everyone to learn, share their knowledge, and help other people.'
-keywords: 'Tools, File explorer, Convert, Repair tools, data recovery'
-author: Nova
+description: 'Bypass Frp is the largest, most trusted online solution for everyone to learn, share their knowledge, and help other people.'
+keywords: 'unlock android, android bypass frp, frp bypass, bypass frp, bypass frp tool, Tools, File explorer, Convert, Repair tools, data recovery'
+author: Lynn
 language: en
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://android-transfer.techidaily.com
+url: https://bypass-frp.techidaily.com
 permalink: :title/
 permalink_defaults:
 pretty_urls:
@@ -112,10 +112,10 @@ sitemap:
 ## 执行 hexo clean && hexo deploy 。
 ## 如果提交失败
 ## cd .deploy_git
-## git push -u https://$GITHUB_DEPLOY_TOKEN@github.com/techidaily/site-android-transfer.git HEAD:gh-pages --force
+## git push -u https://$GITHUB_DEPLOY_TOKEN@github.com/techidaily/site-bypass-frp.git HEAD:gh-pages --force
 deploy:
   type: git
   repo:  
-    url: https://github.com/techidaily/site-android-transfer.git
+    url: https://github.com/techidaily/site-bypass-frp.git
     branch: gh-pages
     token: $GITHUB_DEPLOY_TOKEN

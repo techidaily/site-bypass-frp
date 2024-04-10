@@ -11,11 +11,11 @@
 # Docs: https://redefine-docs.ohevan.com/basic/info
 info:
   # Site title
-  title: TechiDaily
+  title: Bypass Frp
   # Author name
-  author: Nova
+  author: Lynn
   # Site URL
-  url: https://android-transfer.techidaily.com
+  url: https://bypass-frp.techidaily.com
 # BASIC INFORMATION <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
 
@@ -338,7 +338,7 @@ comment:
   config:
     # Waline comment system. See https://waline.js.org/
     waline:
-      serverUrl: https://android-transfer.techidaily.com # Waline server URL. e.g. https://android-transfer.techidaily.com
+      serverUrl: https://bypass-frp.techidaily.com # Waline server URL. e.g. https://bypass-frp.techidaily.com
       lang: en-US # Waline language. e.g. zh-CN, en-US. See https://waline.js.org/guide/client/i18n.html
       emoji: [] # Waline emojis, see https://waline.js.org/guide/features/emoji.html
       recaptchaV3Key: wasd # Google reCAPTCHA v3 key. See https://waline.js.org/reference/client/props.html#recaptchav3key
@@ -353,7 +353,7 @@ comment:
     # Twikoo comment system. See https://twikoo.js.org/
     twikoo:
       version: 1.6.10 # Twikoo version, do not modify if you dont know what it is
-      server_url: # Twikoo server URL. e.g. https://android-transfer.techidaily.com
+      server_url: # Twikoo server URL. e.g. https://bypass-frp.techidaily.com
       region: # Twikoo region. can be empty
     # Giscus comment system. See https://giscus.app/
     giscus:

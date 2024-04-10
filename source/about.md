@@ -3,7 +3,7 @@ title: About
 date: 2024-01-31 15:11:56
 ---
 
-[https://android-transfer.techidaily.com](https://android-transfer.techidaily.com)
+[https://bypass-frp.techidaily.com](https://bypass-frp.techidaily.com)
 
 ## About us
 
@@ -21,4 +21,4 @@ We believe in honesty, integrity, and hard work. We are committed to providing t
 
 If you are interested in working with us, please [get in touch](email:support@techidaily.com). We would love to hear from you! 
 
-[https://android-transfer.techidaily.com](https://android-transfer.techidaily.com)
+[https://bypass-frp.techidaily.com](https://bypass-frp.techidaily.com)
