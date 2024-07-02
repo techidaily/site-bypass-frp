@@ -1,0 +1,27 @@
+.article-copyright-info-container
+  font-family $english-font-family, sans-serif
+  
+  position relative
+  width 100%
+  box-sizing border-box
+  padding 10px 6px
+  font-size 1rem
+  background var(--third-background-color)
+  border-radius 14px
+  border 1px solid var(--shadow-color-1)
+
+  ul
+    margin-left 10px
+
+    li
+      margin-bottom 5px
+      overflow hidden
+      text-overflow ellipsis
+      white-space nowrap
+      color var(--default-text-color)
+
+      .license
+        font-weight bold
+
+      &:last-child
+        margin-bottom 0

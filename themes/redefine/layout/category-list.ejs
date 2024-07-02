@@ -1,0 +1,15 @@
+<div class="category-list-container">
+	<div >
+		<h1 class="category-header">
+			<%- __('categories') %>
+		</h1>
+	</div>
+	<div class="category-list-content">
+		<%- list_categories(site.categories, { class: 'all-category', depth: 5,
+		style: 'list', }) %>
+	</div>
+	<div class="category-comments">
+		<% if (page.comment) { %> <%- partial('_partials/comments/comment') %>
+		<% } %>
+	</div>
+</div>

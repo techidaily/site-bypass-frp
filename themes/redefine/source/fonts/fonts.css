@@ -1,0 +1,9 @@
+
+/* ubuntu-mono-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "Ubuntu Mono";
+  font-style: normal;
+  font-weight: 400;
+  src: url("./ubuntu-mono-v15-latin-regular.woff2") format("woff2");
+}

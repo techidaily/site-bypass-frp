@@ -1,0 +1,93 @@
+# ----------------------------------------
+# Site Translation
+# ----------------------------------------
+search: Search...
+toc: On this page
+prev: Prev
+next: Next
+prev_posts: Prev posts
+next_posts: Next posts
+page: Page %d
+recent_posts: Recent Posts
+share: Share
+powered_by: "POWERED BY %s"
+theme: THEME
+rss_feed: RSS Feed
+category: Category
+categories: Categories
+tag: Tag
+tags: Tags
+post: Post
+posts: Posts
+tagcloud: Tag Cloud
+comment: Comment
+comments: Comments
+home: Home
+archive: Archive
+archives: Archives
+top: TOP
+sticky: Sticky
+
+
+# ----------------------------------------
+# Menu Translation
+# ----------------------------------------
+about: About
+changelog: Changelog
+status: Status
+links: Links
+link: Link
+friends: Friends
+friend: Friend
+timeline: Timeline
+shuoshuo: Shuoshuo
+
+# ----------------------------------------
+# Website count
+# ----------------------------------------
+site_uv: VISITOR COUNT
+site_pv: TOTAL PAGE VIEWS
+read_more: Read more
+wordcount: Words
+min2read: Mins
+
+
+# ----------------------------------------
+# Footer
+# ----------------------------------------
+runtime: Up for
+days: days
+hours: hrs
+minutes: Min
+seconds: Sec
+optimized_by: and Optimized by Evan
+rights: All Rights Reserved
+site_posts: "%s posts in total"
+site_wordcount: "%s words in total"
+
+# ----------------------------------------
+# Post
+# ----------------------------------------
+copyright:
+  author: Author
+  title: Title
+  link: Link
+  create_time: Created at
+  update_time: Updated at
+  license_title: License
+  license_content: "This work is licensed under %s."
+  all_rights_reserved: "All Rights Reserved &#169; %s"
+  public_domain: "This work is in the public domain."
+
+ago:
+  second: "%s seconds ago"
+  minute: "%s minutes ago"
+  hour: "%s hours ago"
+  day: "%s days ago"
+  week: "%s weeks ago"
+  month: "%s months ago"
+  year: "%s years ago"
+
+create_time: Created
+update_time: Updated
+expired: "This post is written %s days ago, and the content may not be up to date."

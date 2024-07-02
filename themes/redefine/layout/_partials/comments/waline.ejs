@@ -1,0 +1,32 @@
+<% if(theme.comment.system === 'waline' && theme.comment.config.waline.serverUrl && theme.comment.config.waline.lang) { %>
+    <div id="waline"></div>
+    <script type="module" data-swup-reload-script>
+      import { init } from '<%= url_for('js/libs/waline.mjs') %>';
+
+      function loadWaline() {
+        init({
+          el: '#waline',
+          serverURL: '<%= theme.comment.config.waline.serverUrl %>',
+          lang: '<%= theme.comment.config.waline.lang %>',
+          dark: 'body[class~="dark-mode"]',
+          requiredMeta: ['nick', 'mail'],
+          emoji: [<%- theme.comment.config.waline.emoji && theme.comment.config.waline.emoji.map(
+            (item) => `'${item}'`
+          ).join(','
+          ) %>],
+          <%- theme.comment.config.waline.recaptchaV3Key &&
+              `recaptchaV3Key: "${theme.comment.config.waline.recaptchaV3Key}",`;
+          %>
+          <%- theme.comment.config.waline.turnstileKey &&
+              `turnstileKey: "${theme.comment.config.waline.turnstileKey}",`;
+          %>
+        });
+      }
+
+      if (typeof swup !== 'undefined') {
+        loadWaline();
+      } else {
+        window.addEventListener('DOMContentLoaded', loadWaline);
+      }
+    </script>
+<% } %>

@@ -1,0 +1,15 @@
+<!-- google ads -->
+<% if (theme.google_ads.enable) { %>
+    <ul class="ads">
+        <% for (var i in theme.google_ads.head_ads){ %>
+            <li>
+                <ins class="adsbygoogle"
+                    style="<%= theme.google_ads.head_ads[i].style %>"
+                    data-ad-client="<%= theme.google_ads.client %>"
+                    data-ad-slot="<%= theme.google_ads.head_ads[i].slot %>"
+                    data-ad-format="auto"
+                    data-full-width-responsive="true"></ins>
+            </li>
+        <% } %>
+    </ul>
+<% } %>
