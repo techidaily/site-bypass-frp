@@ -1,7 +1,7 @@
 ---
 title: Easy Guide How To Bypass Vivo X90S FRP Android 10/11/12/13
-date: 2024-05-19T04:55:50.935Z
-updated: 2024-05-20T04:55:50.935Z
+date: 2024-07-15T09:13:46.784Z
+updated: 2024-07-16T09:13:46.784Z
 tags: 
   - unlock
   - bypass android frp
@@ -10,7 +10,7 @@ categories:
 description: This article describes Easy Guide How To Bypass Vivo X90S FRP Android 10/11/12/13
 excerpt: This article describes Easy Guide How To Bypass Vivo X90S FRP Android 10/11/12/13
 keywords: addrom bypass,Vivo X90S frp bypass android,frp hijacker download,frp bypass,Vivo X90S frp bypass guide,frp tools,bypass android frp,Vivo X90S easy guide how to bypass frp android,adb format tool,Vivo X90S addrom bypass,Vivo X90S guid for frp bypass,gsm flasher tool,Vivo X90S remove frp via adb fastboot,Vivo X90S frp bypass,bypass frp,Vivo X90S about frp bypass,how to bypass frp tool,Vivo X90S how to bypass frp without computer,frp bypass guide,Vivo X90S pro frp bypass,about frp bypass,pro frp bypass,Vivo X90S adb format tool,guide to frp bypass,easy guide how to bypass frp android,Vivo X90S guide to frp bypass,Vivo X90S frp tools,Vivo X90S gsm flasher tool,best frp bypass,Vivo X90S bypass android frp,Vivo X90S how to bypass frp tool,easy guide how to bypass frp android device,Vivo X90S best frp bypass,remove frp via adb fastboot
-thumbnail: https://www.lifewire.com/thmb/9P6TB9sqO-6Yq23O2BOj91c-Cvg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-541365354-5c8ad42246e0fb00014a9687.jpg
+thumbnail: https://thmb.techidaily.com/bfe8f97d519484170998bced830c25ea7c96c9f9fefb2b304db02c765d66484d.jpg
 ---
 
 ## Easy Guide How To Bypass Vivo X90S FRP Android 10/11/12/13
@@ -23,6 +23,9 @@ This tutorial will guide you through a step-by-step **Vivo FRP bypass Android 10
 
 Before going after **Vivo FRP bypassing Android 12**, it is important to understand what FRP is. Knowing what it is and how it works will help you bypass this lock. Factory Reset Protection (FRP) is a powerful security feature developed and implemented by Google for all Android smartphone companies. It works on Android devices starting from Android 5.1 Lollipop and above.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![what is Vivo frp](https://images.wondershare.com/drfone/article/2023/07/vivo-frp-bypass-1.jpg)
 
 ### Working of FRP
@@ -41,16 +44,25 @@ By implementing FRP, Google aims to enhance the overall security of Android devi
 
 It is crucial to make sure you're prepared before you go after the **Vivo FRP bypass the Android 13**. This section will guide you through the essential steps to ensure a successful bypass process. Following these measures will reduce the chances of encountering any obstacles. So, let's get started by taking care of a few key aspects before proceeding with the FRP bypass.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Ensuring Device Compatibility
 
 First, verify that your Vivo smartphone is running one of the supported Android versions, specifically Android 11, 12, or 13. This tutorial is specifically tailored to these versions. Attempting to bypass FRP on incompatible devices may lead to unexpected results. Confirming device compatibility will ensure that the provided instructions are relevant. It will also ensure the given instructions are applicable to your specific situation.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Backup Important Data
 
 Backing up data can be possible even in this case; however, you should not have factory reset your Vivo before backing up your data. This is because the FRP lock gets enabled after factory resetting the Vivo X90S device. While using your Vivo with a Google account logged in, you will have to take the services of a third-party tool.
 
 Wondershare Dr.Fone – Phone Backup turns out to be an assistance in this case. The service can be utilized to back up all necessary data before the FRP lock is removed from the Vivo.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Charging the Vivo X90S device Adequately
 
 Ensure that your phone has enough charge to avoid any complications during the FRP bypass process. It is recommended to charge your Vivo device to at least 50%. The ideal way is to connect it to a power source during the procedure. This will prevent any unexpected shutdowns that could potentially disrupt the bypass process.
@@ -59,6 +71,9 @@ Ensure that your phone has enough charge to avoid any complications during the F
 
 A stable and reliable internet connection is crucial for a successful FRP bypass. Ensure your phone is connected to a secure Wi-Fi network or stable cellular data connection. A strong internet connection is required to download necessary files or tools during the FRP bypass process. By ensuring a stable connection, you'll avoid potential delays or complications.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 3. Method 1: Using Official Google Account
 
 The FRP lock on your Vivo smartphone is directly linked to your Google account. The reason you find yourself in this situation is due to the inability to recall your Google account password. However, there is a solution — by recovering your Google account, you can successfully bypass the FRP lock.
@@ -71,23 +86,35 @@ This process will only work if you at least remember the Gmail ID. Follow the st
 
 - **Step 2:** To verify your identity, utilize the phone number or recovery email associated with your Google account. You will receive a verification code on the phone number or recovery email. Once received, enter the code provided.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![add the verification code](https://images.wondershare.com/drfone/article/2023/07/vivo-frp-bypass-3.jpg)
 
 - **Step 3:** After completing the verification process, you can create a new password for your Google account. Take note that it may take approximately 24 hours for Google to synchronize the new password across all your devices. Once the new password has been synced, you can sign into your Google account on your Vivo smartphone, successfully bypassing the FRP lock.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![login into google account](https://images.wondershare.com/drfone/article/2023/07/vivo-frp-bypass-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4. Method 2: Using FRP Bypass Tools
 
 One way to **Vivo Y20 FRP bypass Android 12** is to use a specialized FRP bypass tool. Among the various tools available, we highly recommend using [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/). It is a reputable and reliable tool for FRP bypass on Android devices from all major brands. These include over 15 brands with 2000+ Android devices where Dr.Fone can do its magic.
 
 
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 Bypass Vivo Google FRP in a Flash
 
 - Pattern, PIN, password, fingerprints & face screen lock can all be unlocked.
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 - Bypass Android FRP lock without a PIN or Google account.![New icon](https://images.wondershare.com/drfone/others/new_23.png)
 - Unlock mainstream Android brands like Samsung, Vivo, Xiaomi, etc.
 - No tech knowledge required, Simple, click-through, process.
@@ -100,6 +127,9 @@ Wondershare Dr.Fone is trusted by users worldwide for its effectiveness in bypas
 
 Install the latest Wondershare Dr.Fone phone toolkit from the official website on your computer and launch it. Now move the “Toolbox” tab and go for “Screen Unlock”. As Vivo is an Android brand, on the next screen, click "Android". Among the various available option for screen unlocking, choose “Remove Google FRP Lock”.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ![lchoose remove google frp](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
 - Step 2: Choose Vivo As the Brand
@@ -112,9 +142,12 @@ The next step is to choose the targeted phone brand, which in this case is “Vi
 
 After downloading the driver, move to your Vivo smartphone and turn it off. Connect the turned-off device to the computer while pressing both volume keys for at least 3 seconds. It will kickstart the [Vivo FRP bypassing process](https://drfone.wondershare.com/reset-android/vivo-y11-hard-reset.html), which will take a few minutes.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![removing the google frp](https://images.wondershare.com/drfone/guide/remove-android-frp-lock-4.png)
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## Part 5. Method 3: Contacting Vivo Support
 
@@ -122,6 +155,9 @@ In specific scenarios, all methods at hand can be unsuccessful in Vivo FRP bypas
 
 ![contact Vivo customer support](https://images.wondershare.com/drfone/article/2023/07/vivo-frp-bypass-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### When to Consider Contacting Vivo Support
 
 You may consider contacting Vivo Support in the following situations:
@@ -139,6 +175,9 @@ Vivo offers various support channels to cater to the needs of its users. These c
 3. **Email Support:** Send an email to Vivo's support team detailing your issue and request for help. They will respond to your inquiry accordingly.
 4. **Live Chat:** Vivo websites offer a live chat feature where you can interact with a support agent in real time.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Steps To Follow When Seeking Help From Vivo Support
 
 When contacting Vivo Support for FRP bypass help, follow these general steps:
@@ -151,16 +190,19 @@ When contacting Vivo Support for FRP bypass help, follow these general steps:
 
 ### _You might also interest:_
 
-_[The Complete Guide to Unlock Mi Account Without Password](https://drfone.wondershare.com/unlock/guide-to-unlock-mi-account-without-password.html)_
+_ [The Complete Guide to Unlock Mi Account Without Password](https://drfone.wondershare.com/unlock/guide-to-unlock-mi-account-without-password.html) _
 
-_[Ultimate Guide to Bypass FRP with PC](https://drfone.wondershare.com/google-frp-unlock/bypass-frp-with-computer.html)_
+_ [Ultimate Guide to Bypass FRP with PC](https://drfone.wondershare.com/google-frp-unlock/bypass-frp-with-computer.html) _
 
-_[Complete Method: How to bypass Xiaomi FRP](https://drfone.wondershare.com/bypass-android-frp/how-to-bypass-xiaomi-redmi-frp.html)_
+_ [Complete Method: How to bypass Xiaomi FRP](https://drfone.wondershare.com/bypass-android-frp/how-to-bypass-xiaomi-redmi-frp.html) _
 
 ## Part 6. Troubleshooting and Tips
 
 You may encounter certain issues or errors during the FRP bypass process on your Vivo device. This section will address some common problems that users may face and provide ways to help you resolve them:
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ### Common Issues and Their Solutions
 
 Before we lead into an assessment of the tips that one can follow to avoid issues with their Vivo FRP bypass process, it is necessary to guide users with the problems involving the process. However, along with the issues, all the required solutions are associated with them.
@@ -233,6 +275,18 @@ Factory Reset Protection is one of the security measures available on Android 5.
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/WXFUGH1uMcI"></iframe>
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: Quick Overview of ADB and Fastboot Commands
 
 ### 1\. What are ADB and Fastboot?
@@ -243,6 +297,9 @@ Several issues can be resolved, and multiple functions can be performed using th
 
 For specific brands of Android phones, specific utility tools are available like the **Vivo ADB format tool** and the **Samsung ADB format tool**, which are used explicitly for Vivo and Samsung phones, respectively.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. How Do ADB and Fastboot Bypass FRP?
 
 Using the versatile ADB command-line tool and Fastboots, the Google FRP lock can be removed using several commands depending on the OS version. This is a client-server program that includes a client who sends the commands, a daemon used to run the commands on the Vivo X90S device, and a server that facilitates communication between the client and the daemon.
@@ -258,12 +315,15 @@ The Android versions on which ADB and Fastboot commands can be used are as follo
 - `_Android 7 – Nougat_`
 - `_Android 8- Oreo_`
 - `_Android 9- Pie_`
-- `_Android 10 – Q ( expected to work though not tested as yet)_`
+- `_Android 10 – Q (expected to work though not tested as yet)_`
 
 ## Part 2: How to Set Up ADB and Fastboot Commands to Remove FRP Lock on Android?
 
 To remove FRP lock using ADB, you first need to install and set up ADB and then remove them using the command. The steps for the same are enlisted below.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Steps to remove FRP using ADB
 
 ![adb install](https://images.wondershare.com/drfone/article/2022/04/adb-install.jpg)
@@ -290,7 +350,7 @@ After the execution of the commands, the FRP lock will be removed from your Andr
 
 ### Steps to remove FRP using Fastboot
 
-- **Step 1.** Put the Android device into the bootloader or fastboot mode. ( depending on the model and brand of your Android device, the process of entering into the fastboot will differ).
+- **Step 1.** Put the Android device into the bootloader or fastboot mode. (depending on the model and brand of your Android device, the process of entering into the fastboot will differ).
 - **Step 2.** Connect your phone to your PC using a USB cable.
 - **Step 3.** Next, depending on the system, enter the following command in the CMD window:
 
@@ -328,13 +388,21 @@ ADB is a command-based method, and thus it is important that the commands are en
 
 ADB is a technical process aimed toward the geeks, and thus the overall process is not user-friendly and complicated.
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4: The Best ADB Alternative to Bypass FRP Lock on Android Phones
 
 Considering the several limitations of the ADB and Fastboot command method, the need for a simple, user-friendly, and workable solution for removing FRP lock on Android devices arises. One of the best software here that we recommend is [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) which helps in removing and bypassing many Android phone screen locks including the one appearing due to FRP lock.
 
 
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 Remove Google FRP on Samsung without PIN code or Google accounts.
 
@@ -384,6 +452,18 @@ You can choose between tools without a computer as well as PC-based programs to 
 - Once the lock is removed, it will completely de-link from the previous Google account and hence cannot be blocked or traced by the previous owner.
 - You can permanently delete the Google account.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2. How to Bypass Google Lock on Vivo  Without Computer? (30 Min & Free)
 
 To remove the Vivo  FRP bypass without using a system, the EMERGENCY CALL method can be used. Though this method is free, it is lengthy and complicated.
@@ -393,6 +473,9 @@ Steps for **Vivo  FRP bypass without computer**
 - **Step 1.** Connect your Vivo  phone to a Wi-Fi and then switch it on for the HELLO screen to appear. Next, select the Emergency Call option and then click on Emergency Information two times.
 - **Step 2.** On the Emergency Information page, tap on the Pencil icon and Name. Next, click o the profile icon and select the option of changing an image.
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Vivo frp bypass](https://images.wondershare.com/drfone/article/2022/05/frp-motorola-emergency-call-2.jpg)
 
 - **Step 3.** Next click on **Menu > Photos > Permissions**. Click on the Contacts options and select See All apps with this permission.
@@ -410,6 +493,9 @@ Steps for **Vivo  FRP bypass without computer**
 - **Step 15.** At the Set Screen Lock, click **Skip > Skip > OK > Accept & Continue** and then go to the home screen.
 - **Step 16.** Finally, to **bypass google lock on Vivo  without pc**, go to **Settings > System > Advanced > Reset** Option and here choose to **Erase All Data** options 3 times.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3. How to Bypass Google Lock on Vivo  with Computer? (15 Min but Paid)
 
 If you have access to a computer, Motoreaper is a decent **Vivo  FRP tool** for **Vivo  FRP bypass with computer**. Developed by the Phonlab team, Motoreaper is a Windows-based tool that works on the majority of Vivo  devices including Moto E, Moto X, Moto G, Droid Turbo, Droid Maxx2, and others.
@@ -418,11 +504,17 @@ Steps for **Vivo  FRP bypass** using Motoreaper
 
 - **Step 1.** Download and install the Motoreaper software on your system and launch the same.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![motoreaper frp bypass](https://images.wondershare.com/drfone/article/2022/05/frp-motorola-motoreaper-1.jpg)
 
 - **Step 2.** Now you need to get your Vivo  phone into bootloader mode and for this, you need to power off your device and then turn it on by pressing and holding the power and volume down buttons together for a few seconds.
 - **Step 3.** Next, connect your phone to your PC using a USB cable and the software will successfully show the connected device.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![motoreaper frp bypass](https://images.wondershare.com/drfone/article/2022/05/frp-motorola-motoreaper-3.jpg)
 
 - **Step 4.** Next, unplug your Vivo  phone and boot it into the factory model using the bootloader mode by pressing the power and volume down button. When the factory mode appears, use the power button to select it.
@@ -433,13 +525,22 @@ Steps for **Vivo  FRP bypass** using Motoreaper
 
 ![motoreaper frp bypass](https://images.wondershare.com/drfone/article/2022/05/frp-motorola-motoreaper-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4. How to Unlock Vivo  Phone Passcode? (5 Min)
 
 Besides FRP lock, the screen lock of your Android phones including Vivo  is one of the most common situations. So, if to have forgotten your screen lock code or have a device with a locked screen, the best tool we reconned is [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/). This simple system-based software will let you remove all types of screen locks – PIN, password, pattern, as well as a fingerprint in a few simple and quick steps. The software is reliable and safe without causing any harm to your device.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Dr.Fone - Screen Unlock (Android)
 
 Get into Locked Vivo  within Minutes
 
@@ -454,21 +555,30 @@ Get into Locked Vivo  within Minutes
 
 - **Step 2.** Using a USB cable, connect your phone to your system and then select Unlock Android Screen option on the software interface.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![connect device to remove android lock screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
 - **Step 3.** From the supported list on the software interface, select Vivo .
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select device model](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
 - **Step 4.** Your Vivo  phone will enter into a dedicated mode. Once in this mode, Dr.Fone will initiate the Vivo  screen unlock process.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![begin to remove android lock screen](https://images.wondershare.com/drfone/guide/unlock-android-screen-google.png)
 
 - **Step 5.** When the process is complete, you can access your Vivo  device without any need for a password.
 
 ![prepare to remove android lock screen](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## Conclusion
 
@@ -487,3 +597,68 @@ Vivo  FRP lock can be removed using the Emergency Call option or the above-menti
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-to-samsung-galaxy-a05s-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Samsung Galaxy A05s FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-complete-guide-to-samsung-galaxy-a05s-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Samsung Galaxy A05s FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-samsung-galaxy-a05s-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Samsung Galaxy A05s ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-samsung-galaxy-a05s-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Samsung Galaxy A05s FRP Without Computer</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-a05sfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy A05sFRP Lock</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-samsung-galaxy-a05s-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Samsung Galaxy A05s Phones with/without a PC</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-a05s-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy A05s Phone FRP Lock</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-updated-method-to-bypass-samsung-galaxy-a05s-frp-by-drfone-android/"><u>The Updated Method to Bypass Samsung Galaxy A05s FRP</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-the-art-of-photo-retouching/"><u>In 2024, Mastering the Art of Photo Retouching</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/begin-with-class-in-every-screen-best-intro-editor-app/"><u>Begin with Class in Every Screen  Best Intro Editor App</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/reinvent-your-digital-presence-top-5-platforms-beyond-tiktok-for-2024/"><u>Reinvent Your Digital Presence  Top 5 Platforms Beyond TikTok for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-earhearer-live-sound-critique-for-2024/"><u>[Updated] EarHearer  Live Sound Critique for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-unleash-your-creativity-top-highlight-video-editors-for-desktop-and-mobile-devices/"><u>New 2024 Approved Unleash Your Creativity Top Highlight Video Editors for Desktop and Mobile Devices</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-samsung-galaxy-a05s-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Samsung Galaxy A05s Phones with/without a PC</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-achieving-excellence-in-android-video-production-using-obs/"><u>2024 Approved  Achieving Excellence in Android Video Production Using OBS</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-samsung-galaxy-a05s-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Samsung Galaxy A05s FRP</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-on-samsung-galaxy-a05s-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Samsung Galaxy A05s FRP Bypass</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-samsung-galaxy-a05s-by-drfone-android/"><u>In 2024, How to Bypass FRP from Samsung Galaxy A05s?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-samsung-galaxy-a05s-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Samsung Galaxy A05s FRP Bypass</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-samsung-galaxy-a05s-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Samsung Galaxy A05s</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fine-tune-your-prints-install-new-v305-driver-in-win7/"><u>Fine-Tune Your Prints: Install New V305 Driver in Win7</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-can-we-bypass-samsung-galaxy-a05s-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Samsung Galaxy A05s FRP?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-about-samsung-galaxy-a05s-frp-bypass-by-drfone-android/"><u>In 2024, About Samsung Galaxy A05s FRP Bypass</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-updated-method-to-bypass-samsung-galaxy-a05s-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Samsung Galaxy A05s FRP</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-from-samsung-galaxy-a05s-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Samsung Galaxy A05s FRP Bypass</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-samsung-galaxy-a05s-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Samsung Galaxy A05s FRP</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-transforming-youtube-content-advanced-strategies-to-perfect-videos-after-publishing/"><u>[New] In 2024, Transforming YouTube Content  Advanced Strategies to Perfect Videos After Publishing</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/creative-content-concepts-for-vlogs-for-2024/"><u>Creative Content Concepts for Vlogs for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/activating-full-gaming-potential-ps5s-assist-controller/"><u>Activating Full Gaming Potential: PS5's Assist Controller</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/whatsapp-status-video-editing-apps-for-2024/"><u>WhatsApp Status Video Editing Apps for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-samsung-galaxy-a05s-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Samsung Galaxy A05s Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-crop-videos-in-windows-media-player/"><u>Updated 2024 Approved How to Crop Videos in Windows Media Player</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-samsung-galaxy-a05s-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Samsung Galaxy A05s</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-samsung-galaxy-a05s-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Samsung Galaxy A05s FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/elevating-your-instagram-presence-a-guide-to-smart-hashtag-use/"><u>Elevating Your Instagram Presence  A Guide to Smart Hashtag Use</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-samsung-galaxy-a05s-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Samsung Galaxy A05s</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-complete-guide-to-samsung-galaxy-a05s-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Samsung Galaxy A05s FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-samsung-galaxy-a05s-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Samsung Galaxy A05s Devices</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-samsung-galaxy-a05s-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Samsung Galaxy A05s</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/latest-guide-how-to-bypass-samsung-galaxy-a05s-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Samsung Galaxy A05s FRP Without Computer</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-samsung-galaxy-a05swithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Samsung Galaxy A05swith/without a PC</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/avoid-interrupting-allow-the-speaker-to-finish-their-thoughts-before-responding-or-asking-questions-for-2024/"><u>Avoid Interrupting  Allow the Speaker to Finish Their Thoughts Before Responding or Asking Questions for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-on-samsung-galaxy-a05s-by-drfone-android/"><u>In 2024, How to Bypass FRP on Samsung Galaxy A05s?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-samsung-galaxy-a05s-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Samsung Galaxy A05s FRP In 3 Different Ways</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-samsung-galaxy-a05s-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Samsung Galaxy A05s FRP</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-samsung-galaxy-a05s-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Samsung Galaxy A05s FRP Locks</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-samsung-galaxy-a05s-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Samsung Galaxy A05s FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-a05s-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy A05s Phone FRP Lock</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/in-2024-10-essential-aspect-ratio-resizer-tools-you-need/"><u>In 2024, 10 Essential Aspect Ratio Resizer Tools You Need</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-samsung-galaxy-a05s-by-drfone-android/"><u>How to Bypass FRP from Samsung Galaxy A05s?</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/in-2024-the-ultimate-list-of-free-video-stabilizer-apps-for-android-users/"><u>In 2024, The Ultimate List of Free Video Stabilizer Apps for Android Users</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-gionee-f3-pro-to-mac-drfone-by-drfone-android/"><u>How to Mirror Gionee F3 Pro to Mac? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-full-guide-to-bypass-samsung-galaxy-a05s-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Samsung Galaxy A05s FRP</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-samsung-galaxy-a05s-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Samsung Galaxy A05s FRP Bypass Instantly</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-samsung-galaxy-a05s-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Samsung Galaxy A05s Phones with/without a PC</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-facebook-cover-video-introduction-size-format-and-time/"><u>[New] 2024 Approved  Facebook Cover Video  Introduction, Size, Format & Time</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>How to Change/Add Location Filters on Snapchat For your Apple iPhone 15 Pro | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/popularitys-palette-ig-story-filter-guide/"><u>Popularity's Palette  IG Story Filter Guide</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-samsung-galaxy-a05s-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Samsung Galaxy A05s Devices</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Lava Yuva 2 | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-apple-iphone-14-pro-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>In 2024, Apple iPhone 14 Pro Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
+</ul></div>

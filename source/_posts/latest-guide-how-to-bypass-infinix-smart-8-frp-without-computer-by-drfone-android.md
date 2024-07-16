@@ -1,7 +1,7 @@
 ---
 title: Latest Guide How To Bypass Infinix Smart 8 FRP Without Computer
-date: 2024-04-09T09:49:56.448Z
-updated: 2024-04-10T09:49:56.448Z
+date: 2024-07-15T10:45:23.411Z
+updated: 2024-07-16T10:45:23.411Z
 tags: 
   - unlock
   - bypass android frp
@@ -10,7 +10,7 @@ categories:
 description: This article describes Latest Guide How To Bypass Infinix Smart 8 FRP Without Computer
 excerpt: This article describes Latest Guide How To Bypass Infinix Smart 8 FRP Without Computer
 keywords: Infinix Smart 8 gsm flasher tool,Infinix Smart 8 best frp bypass,frp bypass android,Infinix Smart 8 frp bypass android,Infinix Smart 8 frp hijacker download,Infinix Smart 8 frp bypass,pangu frp bypass review,frp bypass quickly,how to bypass frp tool,remove frp via adb fastboot,about frp bypass,addrom bypass,Infinix Smart 8 remove frp via adb fastboot,Infinix Smart 8 frp bypass guide
-thumbnail: https://www.lifewire.com/thmb/CRTquSF_UbubOfDqEN31hiqf2eI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/internet-archive-logo-5980e6f0845b340011748640.png
+thumbnail: https://thmb.techidaily.com/b4ed3f08ab6e820bb58ff66c5f5e67696c65d753e22482d093bffe3ae2ca67e1.png
 ---
 
 ## Latest Guide: How To Bypass Infinix Smart 8 FRP Without Computer
@@ -22,6 +22,9 @@ Smartphones, whether iPhone or Android, are really important in our daily lives 
 Even though this is an important security measure, it can sometimes be annoying. This is true for Infinix smartphone users who can't access their phones because they forgot their login details. Fortunately, there are ways for ****Infinix Smart 8 FRP bypass without a PC****. This article will present you with the latest guide on how to [bypass Infinix Smart 8 FRP](https://drfone.wondershare.com/unlock/vivo-screen-lock.html).
 
 - [Part 1: What’s Infinix Smart 8 FRP Code and How To Use It](https://drfone.wondershare.com/bypass-android-frp/how-to-bypass-vivo-frp-without-computer.html#Part1)
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 - [Part 2: How To Bypass Infinix Smart 8 FRP With Other Methods](https://drfone.wondershare.com/bypass-android-frp/how-to-bypass-vivo-frp-without-computer.html#Part2)![hot icon](https://images.wondershare.com/drfone/2022/images/hot-icon.gif)
 - [Part 3: How To Disable Infinix Smart 8 FRP Easily](https://drfone.wondershare.com/bypass-android-frp/how-to-bypass-vivo-frp-without-computer.html#Part3)
 
@@ -31,7 +34,7 @@ Infinix smartphones incorporate a security measure called the FRP (Factory Reset
 
 The ****Infinix Smart 8 FRP code**** serves as a protective barrier. It prevents unauthorized individuals from utilizing the Infinix Smart 8 device after it has been reset. By requesting the Google account credentials tied to the Infinix Smart 8 device, it acts as an extra layer of security. This ensures that only authorized users can access and operate the Infinix Smart 8 device. In essence, the Infinix Smart 8 FRP code is an integral security feature that reinforces user authentication.
 
-It prevents unauthorized access to the Infinix Smart 8 device, providing additional protection. Each [Infinix device](https://drfone.wondershare.com/unlock/vivo-screen-lock.html)possesses a distinct FRP (Factory Reset Protection) code. It is linked to the Google account that was previously synchronized with the Infinix Smart 8 device. It activates when you perform a factory reset on your Infinix smartphone without signing out of the associated Google account.
+It prevents unauthorized access to the Infinix Smart 8 device, providing additional protection. Each [Infinix device](https://drfone.wondershare.com/unlock/vivo-screen-lock.html) possesses a distinct FRP (Factory Reset Protection) code. It is linked to the Google account that was previously synchronized with the Infinix Smart 8 device. It activates when you perform a factory reset on your Infinix smartphone without signing out of the associated Google account.
 
 ### Usage of Infinix Smart 8 FRP Code
 
@@ -53,6 +56,9 @@ After entering the FRP code, the Infinix Smart 8 device undergoes a verification
 
 Remember that FRP codes can differ based on your Infinix smartphone model and software version. Recognizing that using an FRP code obtained from unofficial sources can pose security risks is crucial. To ensure the safety of your device, it is recommended that you get the FRP code from trusted sources.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: How To Bypass Infinix Smart 8 FRP With Other Methods
 
 Apart from the ****Infinix Smart 8 FRP bypass code****, other methods are available to bypass the FRP lock. These methods range from using built-in tools within Infinix phones to using third-party software. Given below are three alternative ways to bypass Infinix Smart 8 FRP:
@@ -63,10 +69,16 @@ The FRP lock on your Infinix smartphone is closely linked to the Google account.
 
 - ****Step 1:**** On your computer, use a browser to access the Google Sign-in page. Here, type your Google account email, and when it comes to password, choose "Forget Password."
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![tap on forgot password](https://images.wondershare.com/drfone/article/2023/07/bypass-vivo-frp-without-computer-1.jpg)
 
 - ****Step 2:**** Now, use the recovery phone number or email associated with your Google account to receive the verification code. Afterward, create a new password and wait for around 24 hours. Once Google has synced the new password across devices, you can sign in and bypass the FRP lock.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![add the google account details](https://images.wondershare.com/drfone/article/2023/07/bypass-vivo-frp-without-computer-2.jpg)
 
 ### Method 2: Using Third-Party FRP Bypass Apps
@@ -77,7 +89,10 @@ Wondershare Dr.Fone also supports over 2000 Android devices from 15+ brands for 
 
 
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Dr.Fone - Screen Unlock (Android)
 
 New method Bypass Google Account All VIVO Devices
 
@@ -98,6 +113,9 @@ After launching Wondershare Dr.Fone on your computer, move to the "Toolbox" tab.
 
 The next option you need to select is "Remove Google FRP Lock". Afterward, choose "Infinix" as the brand and click "Start". Now the program will download the relative driver.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![proceed with vivo](https://images.wondershare.com/drfone/guide/remove-android-frp-lock-1.png)
 
 - Step 3: Bypass the Infinix Smart 8 FRP Lock
@@ -106,7 +124,10 @@ Once the driver is downloaded, switch off your Infinix device. Now connect it to
 
 ![remove the vivo frp lock](https://images.wondershare.com/drfone/guide/remove-android-frp-lock-4.png)
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## Part 3: How To Disable Infinix Smart 8 FRP Easily
 
@@ -116,12 +137,26 @@ In this section, we will guide you through the process of disabling Infinix Smar
 
 - ****Step 1:**** On your Infinix smartphone, access Settings and scroll down to the last option, "Account & Sync." Tap "Accounts & Sync," and on the following screen, find the Google Account you want to remove.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![choose accounts and sync](https://images.wondershare.com/drfone/article/2023/07/bypass-vivo-frp-without-computer-6.jpg)
 
 - ****Step 2:**** Here, tap the Google account and choose “Delete Account” on the next screen. Confirm your action by tapping "OK," and the Google account will be removed.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![tap on the delete account option](https://images.wondershare.com/drfone/article/2023/07/bypass-vivo-frp-without-computer-7.jpg)
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 In this comprehensive guide, we have explored various methods for ****Infinix Smart 8 FRP bypass without a PC****. We discussed the Infinix Smart 8 FRP code method, followed by three alternative techniques. These included built-in Infinix tools, an official Google account, and Wondershare Dr.Fone. These methods provide viable options for Infinix smartphone users locked out of their devices.
@@ -136,6 +171,9 @@ Each method has its own merits and limitations. However, we recommend considerin
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## The Complete Guide to Infinix Smart 8 FRP Bypass: Everything You Need to Know
 
 If you are looking for **Infinix FRP bypass** tools then it means that either you have forgotten your Google ID and password details or have purchased a refurbished device having FRP lock. So, now when you have already landed in a situation the only thing you can now do is find the solution and for this core purpose, we are here to help you. To **bypass the Google account Infinix**, you would a tool or a program specially designed for the task.
@@ -144,8 +182,14 @@ There are many ways in which you can bypass the FRP lock. Some of these techniqu
 
 With so many variations, settling down with only one option is challenging. For this reason, we have curated a complete guide on this to avoid further complications.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![bypass frp on Infinix](https://images.wondershare.com/drfone/article/2023/09/huawei-frp-bypass.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: What is FRP lock on Infinix?
 
 Almost all smartphones come with multiple built-in security and protection features to ensure no 3<sup>rd</sup> party operator or tool can access the data stored in the system memory or the Infinix Smart 8 device. However, if someone initiates the factory reset in your Infinix smartphone, the person will easily access everything in the Infinix Smart 8 device and the system.
@@ -156,6 +200,9 @@ As a result, the user cannot restore the Infinix Smart 8 device to its default m
 
 The FRP program is not available on all smartphones from Infinix. Suppose you want to check whether it is compatible with your smartphone model, open settings from your phone, and go to the Infinix Smart 8 device information section. There, you will be able to see the factory reset option.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: 8 Ways to bypass Google locks on Infinix phone
 
 Although the factory reset protection program and the lock are beneficial to keep your device safe from other people's hands, sometimes it can cause problems for you also. For example, if you forget the Google account credentials, you won't be allowed to access a device due to the activation of the FRP lock.
@@ -176,6 +223,9 @@ That's why it's better to use the bypassing concept of FRP lock in your Infinix 
 
 If you are looking for a solution to bypass Google Account on your Infinix device without a PC, there are 4 ways that will work as decent solutions. These methods all have their limitations, you can choose the one that is most suitable for you.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Reset all your settings in Safe Mode
 
 One of the easiest and most basic ways of bypassing the FRP lock is by enabling the safe mode on your mobile and proceeding with a factory reset of all the settings. This will erase the data, especially the current Google account, which is incorporated within the phone. Once everything is related, the settings will be restored to their original form or the default value. This will allow you to have unhindered access to the Infinix Smart 8 device, as the FRP lock will get disabled due to settings reset.
@@ -198,6 +248,9 @@ This method is possible only if you can access the safe mode of the mobile or yo
 
 _**Tips:** Are you struggling to unlock your Infinix device? [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) is the solution you need. With the ability to remove pattern, PIN, password, and fingerprint locks, it's user-friendly for everyone. Easily bypass your Infinix lock screen, whether you've forgotten your password or have a locked second-hand Infinix device. Plus, it works even when your screen is broken. Get access now!_
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Emergency Call
 
 Another standard method of bypassing the factory reset program on the mobile is through an emergency dialer. It is very easy to use, and you don't require any technical knowledge. However, there are certain limitations that you should be aware of before you use the emergency dialer to bypass the FRP lock and gain access to the Infinix Smart 8 device.
@@ -206,7 +259,7 @@ Another standard method of bypassing the factory reset program on the mobile is 
 
 - **Step 1:** Click on the emergency dialer option from your home screen to show that the number pad comes into view. Once you have access to the numbers, dial \* or any other numeral multiple times.
 
-![ emergency dialer](https://images.wondershare.com/drfone/article/2022/09/emergency-dialer.jpg)
+![emergency dialer](https://images.wondershare.com/drfone/article/2022/09/emergency-dialer.jpg)
 
 - **Step 2:** Repeat the process multiple times till you fail to watch the series anymore on the emergency dialer.
 
@@ -241,6 +294,9 @@ Another method of bypassing your device's FRP lock is using the [QuickShortcutMa
 
 - **Step 1:**Switch on your FRP device and connect it to the WiFi network. This way you can have access to the Internet.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![switch on your frp device](https://images.wondershare.com/drfone/article/2022/09/switch-on-your-frp-device.jpg)
 
 - **Step 2**: Open the quick shortcut maker apk and search for Google account manager.
@@ -254,15 +310,24 @@ Another method of bypassing your device's FRP lock is using the [QuickShortcutMa
 
 - **Step 5:** Once done, a new window will open where you need to click on Try.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![click on try](https://images.wondershare.com/drfone/article/2022/09/new-window-will-open.jpg)
 
 - **Step 6:** When the white page appears for re-typing the password, click on the 3 dots present at the top right corner.
 - **Step 7:** Select the browser sign-in option and enter your Google ID with the password. Finish the entire process and then restart your Android device.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select the browser sign in option](https://images.wondershare.com/drfone/article/2022/09/select-the-browser-sign-in-option.jpg)
 
 - **Step 8:** Once you restart the Infinix Smart 8 device and the Google account is added, the FRP lock will automatically get bypassed.
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![restart the Infinix Smart 8 device](https://images.wondershare.com/drfone/article/2022/09/restart-the-device.jpg)
 
 #### Pros
@@ -310,9 +375,15 @@ Talkback is another beautiful application through which you can unlock the FRP p
 
 It is a bit difficult, and you won't be able to access it in any recent Android version. Also, the mobile needs to be connected to the WiFi network for the Talkback feature to work seamlessly.
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2.2. How to Bypass Google Account on Infinix with PC ？
 
-### 1. [Infinix FRP Tool](https://pcsuite.net/huawei-frp-bypass-tool/)
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### 1. Infinix FRP Tool
 
 One of the best tools that you can use to bypass the Factory Reset Protection lock is the Infinix FRP Tool. It is easy to use and doesn't involve too many complicated steps. Plus, it is compatible with most Infinix models, giving you the leverage to access your device without removing or deleting any further data.
 
@@ -321,6 +392,9 @@ One of the best tools that you can use to bypass the Factory Reset Protection lo
 - **Step 1:**The first step is to put your device in fast boot mode. To do so, face down the volume down button for a couple of seconds, automatically initiating the fast boot mode.
 - **Step 2:**Now, you have to extract the zip file of the Infinix FRP Tool and then open the tool.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![extract the zip file](https://images.wondershare.com/drfone/article/2022/09/extract-the-zip-file.jpg)
 
 - **Step 3:** It needs to display a comment-like device connected. If you see the comment, click on it as FRP, and the block will get disabled in the fast boot mode.
@@ -339,7 +413,7 @@ One of the best tools that you can use to bypass the Factory Reset Protection lo
 
 You cannot use this tool until you put the Infinix Smart 8 device on the fast boot mode.
 
-### 2\. [Infinix FRP Eraser](https://www.imei.info/huawei_frp_remove/)
+### 2\. Infinix FRP Eraser
 
 This is probably the most accessible tool to remove the FRP lock from your Infinix smartphone.
 
@@ -366,7 +440,10 @@ This is probably the most accessible tool to remove the FRP lock from your Infin
 
 You need to get the key after purchasing it.
 
-### 3\. [Infinix FRP & ID Bypass Tool](https://gsmfixes.com/huawei-frp-id-bypass-tool-latest/)
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### 3\. Infinix FRP & ID Bypass Tool
 
 This is a free application from Infinix. You can easily bypass the FRP lock and access your device. However, you will require your PC to download the lock tool, especially the latest version.
 
@@ -375,6 +452,9 @@ This is a free application from Infinix. You can easily bypass the FRP lock and 
 - **Step 1:**Open your PC and extract the Infinix FRP and ID lock tool. Now run InfinixFRP&IDBypassTool.xe as the admin.
 - **Step 2**: Once the program launches, connect your phone to the PC through a USB cable. Then, open the tool.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![extract the Infinix frp](https://images.wondershare.com/drfone/article/2022/09/extract-the-huawei-frp.jpg)
 
 - **Step 3**: As the tool opens, click on read info and enable the ADB option. It usually takes around 22 seconds maximum to allow the ADB to function on your smartphone, automatically rebooting the entire device.
@@ -384,6 +464,9 @@ This is a free application from Infinix. You can easily bypass the FRP lock and 
 - **Step 4**: A pop-up option will show where you need to click on allow USB debugging.
 - **Step 5**: Click on the check device from the bypass tool on your PC.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![click on check device](https://images.wondershare.com/drfone/article/2022/09/click-on-check-device.jpg)
 
 - **Step 6**:Then, select the Bypass FRP and ID option. Once done, you can access your phone because the FRP lock will get bypassed.
@@ -410,19 +493,34 @@ One of the best ways to bypass FRP lock is to disable it beforehand. To do so, g
 
 ![bypass frp and id](https://images.wondershare.com/drfone/article/2022/09/automatically-disable-the-frp-lock.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Bonus Tip: How to Unlock Infinix Screen Lock without Google Account?
 
 The above-listed methods in part 2 as well as part 3 are not only lengthy but also quite complicated. Moreover, the different way has different limitation and the process of bypassing the lock is complicated and lengthy.
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/QWpE8NykOWc" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 So, for the users who are having issues with Android screen lock, but looking for a simpler yet functional tool, we recommend Dr. Fone-Screen Unlock as the best option. This Windows and Mac-based software is trusted by people across the globe as it helps remove all types of screen locks PIN, password, pattern, as well as a fingerprint in a hassle-free quick manner.
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
+### Dr.Fone - Screen Unlock (Android)
 
 Get into Locked Infinix Phones within Minutes
 
@@ -442,6 +540,9 @@ The program can be used without worrying about any malware or virus. Steps for r
 
 - **Step 3.** Select Infinix from the list of the supported devices.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![select device model](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
 - **Step 4.** Choose "100% Remove Screen lock" after taping Infinix icon. Dr.Fone will start to unlock your Infinix phone screen after getting into the specific mode. And then wait for the unlock process to complete.
@@ -480,7 +581,10 @@ Wondershare [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/won
 
 
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
+### Dr.Fone - Screen Unlock (Android)
 
 Infinix Smart 8 FRP Lock Removal Made Easy
 
@@ -505,6 +609,9 @@ Step 3: Choose Infinix among the Infinix Smart 8 device brands.
 
 Step 4: Dr.Fone will start to download driver. And then turn off the Infinix Smart 8 device and connect to the computer. During the connecting process, please keep pressing Volume Up and Down button simultaneously for around 3 seconds.
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![press volume up and down button](https://images.wondershare.com/drfone/guide/remove-android-frp-lock-3.png)
 
 Step 5: Wait for a few minutes and when it’s done, click Done button.
@@ -522,6 +629,9 @@ With each phone, operating system, and version of Android having its own techniq
 
 - In the SSID field, type any random text you like and long-press to pick it. To share it with Gmail, tap the share icon. Tap Notifications > Additional Settings on the App Info screen.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![add network options](https://images.wondershare.com/drfone/article/2023/05/how-to-bypass-xiaomi-redmi-frp-2.jpg)
 
 - Click the three dots in the top right corner and select "Help and Feedback."
@@ -534,6 +644,18 @@ With each phone, operating system, and version of Android having its own techniq
 
 - Enable the Accessibility Menu Shortcut by selecting Settings > Additional Settings > Accessibility > Accessibility menu.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![app info and accessibility menu](https://images.wondershare.com/drfone/article/2023/05/how-to-bypass-xiaomi-redmi-frp-5.jpg)
 
 - Repeat the back button to go back to the App info screen. Click More, then select Show System.
@@ -546,20 +668,41 @@ With each phone, operating system, and version of Android having its own techniq
 
 - Return to the App info screen and select Carrier Services. Then, select Disable and Disable app. Finally, select Force to stop and OK.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![carrier services](https://images.wondershare.com/drfone/article/2023/05/how-to-bypass-xiaomi-redmi-frp-8.jpg)
 
 - Go back to the App info screen, choose Google Play Services, and then touch Disable to remove the app. Click OK after tapping Force Stop.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![google play services](https://images.wondershare.com/drfone/article/2023/05/how-to-bypass-xiaomi-redmi-frp-9.jpg)
 
 - To get back to the Connect to the Network screen, press the back button and the Next icon.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![settings](https://images.wondershare.com/drfone/article/2023/05/how-to-bypass-xiaomi-redmi-frp-10.jpg)
 
 - Tap the person icon in the lower-right corner of the screen to access Google Assistant > Settings on the Checking for Updates page. To access the Google Play services App information page, repeat this process numerous times. To enable Google Play Services, select Enable.
 - Wait until the procedure is finished before going back to the Checking for Updates page. When the procedure is finished, select More, then select Accept.
 - You can finally disable Xiaomi's Google account verification when the Setup Complete page appears.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4: How To Bypass Infinix Smart 8 FRP With ADB Command on a PC?
 
 ADB and Fastboots, which stand for Android Debug Bridge and Android Debug Bridge, respectively, are two ways that a computer can communicate with an Android smartphone. The commands and actions delivered by the system are carried out on your Android device using this technique.
@@ -576,6 +719,9 @@ Depending on the OS version, the Google FRP lock can be removed using a variety 
 - Then, while holding down the Shift key, right-click somewhere that is empty in the ADB folder and select the Open command window here.
 - Then, to delete the FRP, run the following lines one at a time at the command prompt, pressing enter after each line. Below is the code for CMD.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![code for cmd](https://images.wondershare.com/drfone/article/2022/04/adb-frp-command.jpg)
 
 - Your Android device's FRP lock will be removed following the execution of the commands.
@@ -592,6 +738,9 @@ Disabling FRP on Infinix Smart 8/Poco devices is relatively simple. Once you've 
 - To delete a Google account, tap on it.
 - Confirm your selection of "Remove Account" by clicking.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![disable frp step 2](https://images.wondershare.com/drfone/article/2023/05/how-to-bypass-xiaomi-redmi-frp-22.jpg)
 
 - You might be asked to enter your device password or PIN to finish the process.
@@ -611,3 +760,38 @@ In conclusion, unlocking Infinix Smart 8 FRP can be difficult, but it can be don
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://bypass-frp.techidaily.com/latest-guide-how-to-bypass-infinix-hot-40i-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Infinix Hot 40i FRP Without Computer</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-infinix-hot-40i-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Infinix Hot 40i</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-infinix-hot-40i-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Infinix Hot 40i FRP Locks</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-mastering-sound-silence-in-imovie-on-macos-a-step-by-step-tutorial/"><u>In 2024, Mastering Sound Silence in iMovie on macOS A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-infinix-hot-40i-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Infinix Hot 40i FRP Bypass Instantly</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-infinix-hot-40i-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Infinix Hot 40i</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-on-infinix-hot-40i-by-drfone-android/"><u>How to Bypass FRP on Infinix Hot 40i?</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-dynamic-images-made-simple-in-illustrator/"><u>In 2024, Dynamic Images Made Simple in Illustrator</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-infinix-hot-40i-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Infinix Hot 40i FRP</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-honor-play-7t-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Honor Play 7T Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/long-exposure-iphone-shots-step-by-step-guide-for-2024/"><u>Long-Exposure iPhone Shots  Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-infinix-hot-40i-frp-by-drfone-android/"><u>Full Guide to Bypass Infinix Hot 40i FRP</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-can-we-bypass-infinix-hot-40i-frp-by-drfone-android/"><u>How Can We Bypass Infinix Hot 40i FRP?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-complete-guide-to-infinix-hot-40i-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Infinix Hot 40i FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-infinix-hot-40i-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Infinix Hot 40i Phone FRP Lock</u></a></li>
+<li><a href="https://facebook.techidaily.com/social-network-fact-check-busting-top-10-facebook-myths/"><u>Social Network Fact Check: Busting Top 10 Facebook Myths</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-updated-method-to-bypass-infinix-hot-40i-frp-by-drfone-android/"><u>The Updated Method to Bypass Infinix Hot 40i FRP</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Nokia C02? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-infinix-hot-40i-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Infinix Hot 40i FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-streamlining-youtube-content-onto-insta-feed/"><u>In 2024, Streamlining YouTube Content Onto Insta Feed</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-infinix-hot-40i-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Infinix Hot 40i Phones with/without a PC</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-infinix-hot-40i-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Infinix Hot 40i Devices</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-vdq-quickscreen-recorder-report-in-depth-analysis/"><u>[New] In 2024, VDQ QuickScreen Recorder Report  In-Depth Analysis</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-how-to-bypass-infinix-hot-40i-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Infinix Hot 40i FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-nokia-g22-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Nokia G22 | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-infinix-hot-40i-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Infinix Hot 40i FRP</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-infinix-hot-40i-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Infinix Hot 40i FRP In 3 Different Ways</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-youtube-audio-made-easy-a-quick-start-guide-to-downloading/"><u>New In 2024, YouTube Audio Made Easy A Quick Start Guide to Downloading</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/top-5-infinix-hot-40i-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Infinix Hot 40i Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-on-infinix-hot-40i-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Infinix Hot 40i FRP Bypass</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/isual-guide-to-mastering-aspect-ratios-on-youtube/"><u>The Visual Guide to Mastering Aspect Ratios on YOUTUBE</u></a></li>
+</ul></div>

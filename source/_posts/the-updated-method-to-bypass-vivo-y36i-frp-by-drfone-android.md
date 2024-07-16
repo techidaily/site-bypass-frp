@@ -1,7 +1,7 @@
 ---
 title: The Updated Method to Bypass Vivo Y36i FRP
-date: 2024-05-19T04:56:05.312Z
-updated: 2024-05-20T04:56:05.312Z
+date: 2024-07-15T09:34:07.441Z
+updated: 2024-07-16T09:34:07.441Z
 tags: 
   - unlock
   - bypass android frp
@@ -10,7 +10,7 @@ categories:
 description: This article describes The Updated Method to Bypass Vivo Y36i FRP
 excerpt: This article describes The Updated Method to Bypass Vivo Y36i FRP
 keywords: Vivo Y36i frp bypass android,Vivo Y36i frp bypass quickly,Vivo Y36i frp bypass easy,easy guide how to bypass frp android,Vivo Y36i addrom bypass,how to bypass frp,about frp bypass,Vivo Y36i pangu frp bypass review,android frp bypass,Vivo Y36i how to bypass frp,Vivo Y36i bypass android frp,android device frp bypass,adb format tool,Vivo Y36i guid for frp bypass,frp tools,Vivo Y36i easy guide how to bypass frp android,addrom bypass,bypass android device frp,frp bypass android,Vivo Y36i frp tools,Vivo Y36i best frp bypass,Vivo Y36i frp hijacker download,Vivo Y36i remove frp via adb fastboot,Vivo Y36i about frp bypass,remove frp via adb fastboot,Vivo Y36i bypass frp,guide to frp bypass,frp bypass,how to bypass frp without computer
-thumbnail: https://www.lifewire.com/thmb/1giCJ_GI0g5IPS2wzD1NWNQqoBs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-see-who-shared-your-tiktok-5271091-8fc5445938ed433d830a2b5275079c62.jpg
+thumbnail: https://thmb.techidaily.com/526587f9f9083224ba90b469fae9f684a8ef66dad7a99594a73a26d6b57f4450.jpg
 ---
 
 ## The Updated Method to Bypass Vivo Y36i FRP
@@ -39,11 +39,14 @@ Wondershare [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/won
 
 
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 Vivo Y36i FRP Lock Removal Made Easy
 
 - Pattern, PIN, password, fingerprints & face screen lock can all be unlocked.
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 - Bypass Android FRP lock without a PIN or Google account.![New icon](https://images.wondershare.com/drfone/others/new_23.png)
 - Unlock mainstream Android brands like Samsung, Redmi, Xiaomi, etc.
 - No tech knowledge required, Simple, click-through, process.
@@ -68,6 +71,9 @@ Step 4: Dr.Fone will start to download driver. And then turn off the Vivo Y36i 
 
 Step 5: Wait for a few minutes and when it’s done, click Done button.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![remove frp successfully](https://images.wondershare.com/drfone/guide/remove-android-frp-lock-5.png)
 
 
@@ -77,6 +83,9 @@ With each phone, operating system, and version of Android having its own techniq
 
 - Click Add Network at the bottom of the screen in network settings.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![add network settings](https://images.wondershare.com/drfone/article/2023/05/how-to-bypass-xiaomi-redmi-frp-1.jpg)
 
 - In the SSID field, type any random text you like and long-press to pick it. To share it with Gmail, tap the share icon. Tap Notifications > Additional Settings on the App Info screen.
@@ -97,6 +106,9 @@ With each phone, operating system, and version of Android having its own techniq
 
 - Repeat the back button to go back to the App info screen. Click More, then select Show System.
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![show system](https://images.wondershare.com/drfone/article/2023/05/how-to-bypass-xiaomi-redmi-frp-6.jpg)
 
 - Tap Disable and Disable app after choosing Android setup, then tap Force stop and OK.
@@ -105,10 +117,16 @@ With each phone, operating system, and version of Android having its own techniq
 
 - Return to the App info screen and select Carrier Services. Then, select Disable and Disable app. Finally, select Force to stop and OK.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![carrier services](https://images.wondershare.com/drfone/article/2023/05/how-to-bypass-xiaomi-redmi-frp-8.jpg)
 
 - Go back to the App info screen, choose Google Play Services, and then touch Disable to remove the app. Click OK after tapping Force Stop.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![google play services](https://images.wondershare.com/drfone/article/2023/05/how-to-bypass-xiaomi-redmi-frp-9.jpg)
 
 - To get back to the Connect to the Network screen, press the back button and the Next icon.
@@ -119,6 +137,9 @@ With each phone, operating system, and version of Android having its own techniq
 - Wait until the procedure is finished before going back to the Checking for Updates page. When the procedure is finished, select More, then select Accept.
 - You can finally disable Xiaomi's Google account verification when the Setup Complete page appears.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4: How To Bypass Vivo Y36i FRP With ADB Command on a PC?
 
 ADB and Fastboots, which stand for Android Debug Bridge and Android Debug Bridge, respectively, are two ways that a computer can communicate with an Android smartphone. The commands and actions delivered by the system are carried out on your Android device using this technique.
@@ -135,6 +156,18 @@ Depending on the OS version, the Google FRP lock can be removed using a variety 
 - Then, while holding down the Shift key, right-click somewhere that is empty in the ADB folder and select the Open command window here.
 - Then, to delete the FRP, run the following lines one at a time at the command prompt, pressing enter after each line. Below is the code for CMD.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![code for cmd](https://images.wondershare.com/drfone/article/2022/04/adb-frp-command.jpg)
 
 - Your Android device's FRP lock will be removed following the execution of the commands.
@@ -183,6 +216,9 @@ The use of OTG for bypassing the Google FRP lock on Vivo Y36i  after a hard rese
 
 Before we get to the guide, you need an Android OTG cable, fast Wi-Fi, and a PC.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![otg cable](https://images.wondershare.com/drfone/article/2022/08/google-pixel-frp-bypass-1.jpg)
 
 If you do, follow these steps to start bypassing your Google account:
@@ -203,8 +239,14 @@ If you do, follow these steps to start bypassing your Google account:
 
 **Step 8.** Your Pixel phone will reboot, and you won't see the FRP lock.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![factory reset](https://images.wondershare.com/drfone/article/2022/08/google-pixel-frp-bypass-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ### 2\. Use Pin Lock Sim to Access Chrome
 
 **Step 1:** Start the cycle by eliminating the SIM card from your Pixel device. Presently connect it to Wi-Fi.
@@ -217,6 +259,9 @@ If you do, follow these steps to start bypassing your Google account:
 
 **Step 5:** Select the See All options. Search for the YouTube App and afterward go to Settings and open History and Privacy to access the Youtube ToS.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![youtube terms of service](https://images.wondershare.com/drfone/article/2022/08/google-pixel-frp-bypass-3.jpg)
 
 **Step 6:** This will open the Chrome Browser, where you select Accept and Continue. Then, at that point, pick Next > No Thanks.
@@ -225,6 +270,9 @@ If you do, follow these steps to start bypassing your Google account:
 
 **Step 8:** Restart your device after setting up a PIN code. You can utilize your Pixel without marking into your underlying Google account.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ### Bonus Tip. Use Dr.Fone-Screen Unlock (For Other Android phones)
 
 We have presented numerous FRP methods in this guide. Nonetheless, they might fail to tackle the issue some of the time. There is no question that a bypass tool will be a lot more straightforward and speedier. Therefore, we strongly recommend you use the Wondershare Dr.Fone Bypass FRP tool for a less complex and quicker strategy. [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is a speedy, easy-to-use FRP bypass for you to get rid of the Google issue. It lets you access your home screen once more. Here are the needed steps for bypassing the Google FRP lock:
@@ -245,14 +293,35 @@ We have presented numerous FRP methods in this guide. Nonetheless, they might fa
 
 ![complete installation](https://images.wondershare.com/drfone/guide/remove-android-frp-lock-4.png)
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2: Definition of Vivo Y36i  FRP
 
 Factory Reset Protection (FRP) includes security on Android gadgets with OS Version 5.1 and higher. The FRP gives an underlying security highlight you can utilize that safeguards your gadget and data, including screen locks and data encryptions. The FRP automatically works once a Google account has been logged in on the phone. However, it will stop working when the Google account is removed from the Pixel phone preceding the Factory Data Reset. When the FRP has been enacted, it will not let others use your phone after a Factory Reset in an untrusted environment. It implies that the FRP Lock will come into play if your Pixel gets Factory Reset in an unrecognized way.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![pixel frp](https://images.wondershare.com/drfone/article/2022/08/google-pixel-frp-bypass-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: Can factory reset really remove FRP?
 
 To remove FRP, you must remove all Google accounts from your Pixel phone. After doing so, you can factory reset it to clear all your data. So technically, you need to remove all the accounts, and yes, a factory reset will work.
@@ -264,22 +333,34 @@ This **Vivo Y36i  FRP bypass** article gives an insight into the methods you can
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Bypass Google FRP Lock on Vivo Y36i Devices
 
 Technological advancements in the IT and telecommunication industry simplify your tasks and provide security against cyber malpractices. The advantages are numerous and appealing, but there are downsides too. One such inconvenience is caused by Google FRP lock in Vivo Y36i smartphones. The facility keeps your device information safe against unauthorized access. However, users often report issues like lockouts not being removed due to several causes. Such scenarios raise the demand for **Vivo Y36i Nord FRP bypass** solutions for seamless device access.
 
 ![google frp bypass in oneplus phones](https://images.wondershare.com/drfone/article/2022/08/how-to-bypass-google-frp-lock-on-any-oneplus-phones-01.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1. What Is Google FRP and How Does It Work?
 
 Google Factory Reset Protection (FRP) is an in-built security function in Android 5.1 and later versions. The feature protects these devices against intentional data loss on unauthorized access. The utility does not allow a factory reset of your device in case it is lost or stolen. Your data is hence, safe from unwanted mishandling. The feature also protects the Vivo Y36i device's data encryptions and screen locks. The functionality gets enabled when you register a Google account on your Android device. As is obvious, the feature gets disabled when the Google account is removed before beginning the Factory Data Reset process.
 
 If your device is under untrusted access and the FRP lock is enabled, the latter will prevent the factory reset of your phone. It is because; the active FRP lock requires entering the Google account credentials registered with the Vivo Y36i device. Therefore, unwanted users will not be possible to factory reset the Vivo Y36i phone. However, there may be instances when you need to factory reset your FRP-enabled device to its default settings. Ensure that the registered Google account credentials are available to you under such circumstances.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2. How to Remove Google FRP Lock on Any Vivo Y36i Phone?
 
 To remove the Google FRP lock on your Vivo Y36i device, you can follow any of the methods discussed below:
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Bypass Google FRP Lock on Your Vivo Y36i Phone
 
 - Switch on the Wi-Fi network of the Vivo Y36i phone and head to the 'Hello' screen.
@@ -287,6 +368,9 @@ To remove the Google FRP lock on your Vivo Y36i device, you can follow any of th
 
 _**Emergency Call> Emergency Rescue> Add Contact**_
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![emergency rescue interface of oneplus phones](https://images.wondershare.com/drfone/article/2022/08/how-to-bypass-google-frp-lock-on-any-oneplus-phones-02.jpg)
 
 - When the permission prompt pops up, click on 'Deny' and tap "Go to Settings".
@@ -307,6 +391,9 @@ _**Start> Agree> Agree> Skip> Don't Copy> Ok> Agree**_
 
 - Skip the 'Set Screen Lock' task for completing the setup.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Using FRP Bypass APK
 
 This is a quick and smart way to address the FRP lock removal issue within several minutes. Here's what you need to do:
@@ -330,14 +417,23 @@ Removing the Google FRP lock using a computer is impossible in some instances. D
 
 - Launch the "Settings" app on your Vivo Y36i device.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ![launching the 'settings' application on oneplus phone](https://images.wondershare.com/drfone/article/2022/08/how-to-bypass-google-frp-lock-on-any-oneplus-phones-05.jpg)
 
 - In the app's opening interface, click on the 'Accounts' tab to open the section.
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![opening the 'accounts' tab in oneplus phone](https://images.wondershare.com/drfone/article/2022/08/how-to-bypass-google-frp-lock-on-any-oneplus-phones-06.jpg)
 
 - A list of all the accounts linked to your Vivo Y36i device will be displayed. Tap on the desired Gmail account to unlink it from your phone.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![google account selection for quick removal](https://images.wondershare.com/drfone/article/2022/08/how-to-bypass-google-frp-lock-on-any-oneplus-phones-07.jpg)
 
 - The device data linked with the selected account will appear on the screen. Click on 'Remove Account' to proceed further.
@@ -346,6 +442,9 @@ Removing the Google FRP lock using a computer is impossible in some instances. D
 
 - A confirmation prompt will pop up to ensure a willful deletion of the account from the Vivo Y36i device. Tap on 'Remove Account' to confirm the action. This will cause all data linked with the account to get deleted from the phone.
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ![confirmation of the google account removal](https://images.wondershare.com/drfone/article/2022/08/how-to-bypass-google-frp-lock-on-any-oneplus-phones-09.jpg)
 
 ## FAQs about Google Lock Bypass
@@ -354,6 +453,9 @@ Removing the Google FRP lock using a computer is impossible in some instances. D
 
 There may be instances when you require wiping out smartphone data to keep it safe against unauthorized access. Maybe you wish to pass on your device to another user or migrate to a different device. It is important to make sure that all accounts linked to the phone are deleted from the Vivo Y36i device. It should be understood here that a factory reset will not remove Google or other accounts from the Vivo Y36i device. The process restores the default factory settings of the phone that you got at the first purchase.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. How to Enable Factory Reset Protection?
 
 Enabling the Factory Reset protection feature is a smart way to protect the important data on your phone. However, issues of unethical access in cases of theft or loss are quite prominent. You can enable the FRP functionality by taking the following steps:
@@ -363,13 +465,19 @@ Enabling the Factory Reset protection feature is a smart way to protect the impo
 
 These steps will cause the automatic configuration of the Factory Reset Protection feature. The invader will be prompted to enter the registered Google account credentials on every attempt to access the phone.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 Developments in electronic technology have brought a series of benefits, covering easy access, security, and everything in between. One such feature is the Google Factory Reset Protection to protect your device data against untrusted access. The feature is undoubtedly credible, but there may be situations that require bypassing the FRP lock. For affordable solutions to address the concern on Vivo Y36i phones, pick the one that corresponds to your specific situation.
 
 
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Dr.Fone - Screen Unlock (Android)
 
 Unlock Your Vivo Y36i Phone in a Flash
 
@@ -391,3 +499,46 @@ Unlock Your Vivo Y36i Phone in a Flash
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-infinix-hot-40-pro-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Infinix Hot 40 Pro Phone FRP Lock</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-how-to-bypass-infinix-hot-40-pro-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Infinix Hot 40 Pro FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-infinix-hot-40-pro-by-drfone-android/"><u>How to Bypass FRP from Infinix Hot 40 Pro?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-updated-method-to-bypass-infinix-hot-40-pro-frp-by-drfone-android/"><u>The Updated Method to Bypass Infinix Hot 40 Pro FRP</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-infinix-hot-40-pro-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Infinix Hot 40 Pro FRP</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-the-ultimate-guide-to-video-editing-for-kids-free-and-paid-apps/"><u>Updated In 2024, The Ultimate Guide to Video Editing for Kids Free and Paid Apps</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-on-infinix-hot-40-pro-by-drfone-android/"><u>How to Bypass FRP on Infinix Hot 40 Pro?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-comprehensive-guide-to-android-screenshotting-for-2024/"><u>[Updated] Comprehensive Guide to Android Screenshotting for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-infinix-hot-40-pro-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Infinix Hot 40 Pro</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-infinix-hot-40-pro-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Infinix Hot 40 Pro FRP</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-infinix-hot-40-pro-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Infinix Hot 40 Pro FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/expert-strategies-for-efficient-video-editing-with-gopro-studio/"><u>Expert Strategies for Efficient Video Editing with GoPro Studio</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/top-5-infinix-hot-40-pro-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Infinix Hot 40 Pro Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-honor-magic-vs-2-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Honor Magic Vs 2?</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-nokia-g42-5g-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Nokia G42 5G? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-your-samsung-galaxy-z-fold-5-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Samsung Galaxy Z Fold 5 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-lava-yuva-2-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Lava Yuva 2 without App | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-from-iphone-12-pro-by-drfone-ios/"><u>How to Fix when Apple Account Locked From iPhone 12 Pro?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-complete-guide-to-infinix-hot-40-pro-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Infinix Hot 40 Pro FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/new-secrets-to-make-2d-game-animation-for-2024/"><u>New Secrets to Make 2D Game Animation for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/zenith-of-the-slopes-x-racing-highlights-22/"><u>Zenith of the Slopes - X-Racing Highlights, '22</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-excel-files-on-mac-complete-guide-stellar-by-stellar-guide/"><u>How to Recover Deleted Excel Files on Mac Complete Guide | Stellar</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/document-total-screen-content/"><u>Document Total Screen Content</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-infinix-hot-40-pro-frp-by-drfone-android/"><u>Full Guide to Bypass Infinix Hot 40 Pro FRP</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-evaluating-the-boundaries-of-hero5-sessions/"><u>[New] Evaluating the Boundaries of Hero5 Sessions</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-on-infinix-hot-40-pro-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Infinix Hot 40 Pro FRP Bypass</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-copy-pasting-issues-across-chrome-edge-and-firefox-on-win/"><u>Troubleshooting Copy-Pasting Issues Across Chrome, Edge, & Firefox on Win</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/2024-approved-a-complete-guideline-to-better-use-quicktime-player/"><u>2024 Approved A Complete Guideline To Better Use QuickTime Player</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-network-locked-vivo-s17t-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Vivo S17t Phone?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-infinix-hot-40-pro-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Infinix Hot 40 Pro Devices</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-infinix-hot-40-prowithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Infinix Hot 40 Prowith/without a PC</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-infinix-hot-40-pro-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Infinix Hot 40 Pro Phones with/without a PC</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-motorola-edge-2023-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Motorola Edge 2023 Phone Screen?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/latest-guide-how-to-bypass-infinix-hot-40-pro-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Infinix Hot 40 Pro FRP Without Computer</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-infinix-hot-40-pro-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Infinix Hot 40 Pro Phones with/without a PC</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/the-essential-guide-to-premium-discord-emoji-tools-for-2024/"><u>The Essential Guide to Premium Discord Emoji Tools for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-infinix-hot-40-pro-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Infinix Hot 40 Pro Devices</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-webinar-series-the-complete-guide-unpacked/"><u>Updated Webinar Series The Complete Guide Unpacked</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-infinix-hot-40-pro-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Infinix Hot 40 Pro FRP Locks</u></a></li>
+</ul></div>
