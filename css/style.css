@@ -939,6 +939,7 @@ button {
   cursor: pointer;
   box-sizing: border-box;
   padding-bottom: 2px;
+  margin-left: 4px;
 }
 .markdown-body a .fas,
 .markdown-body a .far,
