@@ -1,0 +1,205 @@
+---
+title: "The Hidden Costs of AI: Understanding Why Generative Models May Not Fit Messaging Applications"
+date: 2024-08-09T11:54:09.494Z
+updated: 2024-08-10T11:54:09.494Z
+tags:
+  - chatgpt
+  - open-ai
+categories:
+  - openAI
+  - chatgpt
+description: "This Article Describes The Hidden Costs of AI: Understanding Why Generative Models May Not Fit Messaging Applications"
+excerpt: "This Article Describes The Hidden Costs of AI: Understanding Why Generative Models May Not Fit Messaging Applications"
+thumbnail: https://thmb.techidaily.com/d50bbc29912cb43ec93cd3720edb01228fbd6306ec3185b1604a33af30298ce1.jpg
+---
+
+## Exploring the Versat Challenging World: 6 Innovative Applications for ChatGPT's Coding Interpreter
+
+ ChatGPT’s Code Interpreter is by far the single most powerful feature available on the ChatGPT platform. Though many don't realize it, this tool has numerous exciting uses and can do far more than the handful of tasks it's currently being used for.
+
+ So, what exactly can you do with ChatGPT's Code Interpreter plugin? We’ve put together some of the most useful ways you can use the Code Interpreter plugin right now.
+
+## 1\. Create and Edit Images
+
+ You can pull off a lot of interesting image manipulation tricks with[ChatGPT's Code Interpreter](https://www.makeuseof.com/what-is-chatgpt-code-interpreter/) . The best part is that you don't need any special skills to do so, all you need to do is simply describe what you want to do in plain language. The results and options might not be Photoshop grade, but they are usually quite interesting and worth the efforts.
+
+ Do you want to change an image to grayscale? Need to split an image into quadrants? How about inverting the colors of an image? There is a long list of interesting things you can try.
+
+ All you need to do is upload the image to the Code Interpreter interface and describe in plain language what you want to do. Here are some prompts you can try out for some interesting results:
+
+* Extract a color palette of all the dominant colors from the attached image.
+* [Add the word "Confidential" as a watermark](https://www.makeuseof.com/how-to-add-watermark-to-photos/) to the top-left corner of the attached image.
+* Detect the faces in the attached image and overlay with a transparent crosshair image.
+* Split the attached image into four quadrants, inverse the colors in the last quadrant, and then put the image back together as one.
+* Animate the attached image with a zoom-in and zoom-out effect.
+* Combine the three attached images into a GIF and add a Zoom-out effect
+* Run face detection on the image and pixelate any face present.
+
+ In the example below, we asked ChatGPT to split an image into quadrants and invert the colors on the last quadrant.
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Split image into quadrants](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/split-image-into-quadrants.jpg)
+
+ In this other example, we uploaded an image and asked ChatGPT to blur out the face in the picture.
+
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
+![Blurring a face using ChatGPT Code Interpreter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/blurring-a-face-using-chatgpt-code-interpreter.jpg)
+
+ Apart from these editing tricks, you can also extract relevant metadata from an image as well. You can specify the specific metadata you want to extract, or you can simply prompt ChatGPT to extract all relevant metadata from the attached image. That's not all. You can also create an image from scratch using the plugin.
+
+ In the example below, we asked ChatGPT via the Code Interpreter to create a word cloud image containing the first names of the last 20 US presidents. It's not the best of examples, but it gives you an idea of what you can do.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
+![Word cloud created with ChatGPT Code Interpreter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/word-cloud-created-with-chatgpt-code-interpreter.jpg)
+
+ Of course, you can ask it to change the background color or use a different font. There are a lot of ways you play around with images using the Code Interpreter plugin. If you are short of ideas, just upload an image and ask ChatGPT to tell you what tasks it can perform on the image.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
+## 2\. Create and Edit Videos
+
+ Just like images, ChatGPT's Code Interpreter can also perform manipulation tasks on videos. You can perform simple tasks like extracting metadata from video files or grabbing the frame from a particular timestamp. You can also:
+
+* Convert videos to GIF.
+* Create a video file with sound from a combination of image files.
+* Split video files into chunks that meet certain specifications.
+* Extract audio from a video file
+* Extract subtitles from a video
+* Compress a video
+* Convert a video from one format to another (e.g from AVI to MP4)
+
+ Here's a snapshot of some of the things you can do with a video using the ChatGPT code interpreter:
+
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Things you can do with a video using ChatGPT Code Interpreter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/things-you-can-do-with-a-video-using-chatgpt-code-interpreter.jpg)
+
+ In the example below, we asked ChatGPT to extract the audio from a small video file, and it did so in just a few seconds. The resulting audio file which was available for download was very crisp and clear.
+
+![Extracting audio from a video file with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/extracting-audio-from-a-video-file.jpg)
+
+ While the Code Interpreter plugin can perform a lot of video-related operations, practical usage, at least for now, is quite limited due to the limited size of video it can handle. It's not very clear the maximum size of video files Code Interpreter can handle, but you'll typically run into memory issues with larger videos. For the best results, use smaller video files, with lower resolutions whenever possible.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 3\. Create and Modify Audio Files
+
+ ChatGPT's Code Interpreter also has a[built-in text-to-speech feature](https://www.makeuseof.com/best-chrome-text-to-speech-extensions/) . This means you can write a piece of text and have ChatGPT to convert it to an audio file. Besides that, you can also perform several interesting actions on audio files using the Code Interpreter plugin. You can:
+
+* Convert audio files from one from format to the other (e.g WAV to MP3)
+* Read and edit metadata/tags of the audio file (like title, artist, album)
+* Change the pitch of an audio file
+* Stitch two audio files together
+* Adjust the sample rate, bit rate, or channels of an audio file
+* Trim an audio to a specific time range.
+* Overlay an audio file with another audio
+
+## 4\. Read, Edit and Create Documents
+
+ File handling is undoubtedly one of Code Interpreter's strongest suits. The capabilities of the Code Interpreter extend far beyond just processing image, audio and video files.
+
+ This powerful plugin can also read, generate and edit content in a vast array of document types, including PDFs, Microsoft Word docs, plain text files, RTFs, various spreadsheet formats, and code files like Python (.py) and JavaScript (.js). Code Interpreter currently supports several dozen file formats.
+
+ It all boils down to what you want to achieve. You can say, attach a PDF file to your prompt, then ask ChatGPT to read from it, translate the text and create MS Word document with the translation.
+
+ Or, read the data from a Word file and then extract specific data meeting a certain criterion to create a spreadsheet file. You can also create graphs, charts and other data visualization elements from documents.
+
+ Think of any twist you can encounter in real life usage. If it involves creating or reading from documents of any kind, there's a good chance the Code Interpreter plugin will be able to deal with it.
+
+## 5\. Write and Analyze Code
+
+ If you have large code files you want to make sense of, Code Interpreter is a solid option. You can attach files with several thousand lines of code and simply ask Code Interpreter to tell you what it does, maybe debug it, refactor it, translate to another programming language or perform just about any programming-related task you can think of.
+
+ How much more capable is Code Interpreter versus regular ChatGPT when it comes to coding tasks? Well, although the underlying model is still the same, Code Interpreter seems to have a larger context window (or at least tries to simulate it) which means it can handle much more data at a go.
+
+ This gives it an important edge, especially in things like programming where code files can sometimes run into hundreds of thousands of lines.
+
+ To test just how robust it can get with handling large code files, we downloaded a complete user authentication system from GitHub, uploaded it to Code Interpreter as a zip file and asked it what the project does. It was able to unzip the file, iterate through all the folders and describe what the entire project does with impressive accuracy.
+
+ When we asked for a new feature to be added to the project, the plugin could identify all the files that needed changes to add a new feature. When prompted, it could make these changes with no input from our end.
+
+ Of course, when tested, the project worked flawlessly after it added the feature. It might run into obstacles sometimes, but undoubtedly, working with a large code base is one of the most useful functionalities of the Code Interpreter feature.
+
+## 6\. Extract Text from Images (Optical Character Recognition)
+
+ Have an image that contains text you need to copy? Code Interpreter can handle that with ease. Simply upload the image and ask ChatGPT to extract the text. It works great on screenshots, pictures of documents, images with superimposed text, and more.
+
+ It can also handle distorted or blurry text as well as text in different fonts, sizes, styles, orientations, and colors. You could, say, ask ChatGPT to create an MS Word document from a scanned copy of a document you uploaded, and you'll get a result in seconds.
+
+## A Powerful Tool at Your Fingertips
+
+ While it is important to recognize that the current capabilities of the Code Interpreter plugin is limited in many ways, the plugin still represents one of the most powerful features available in an AI chatbot anywhere on the internet.
+
+ With a few upgrades, especially in the size of files it can load into memory and work with, the Code Interpreter feature will undoubtedly give ChatGPT an edge over any other AI chatbots it currently competes with. And there's still plenty more you can do with ChatGPT.
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-a-quick-guide-to-editing-and-updating-twitter-video-images/"><u>[New] 2024 Approved  A Quick Guide to Editing and Updating Twitter Video Images</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-maximizing-performance-optimal-settings-for-logitech-webcam-for-2024/"><u>[New] Maximizing Performance  Optimal Settings for Logitech Webcam for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-maximizing-viewership-with-effective-game-streaming/"><u>[New] Maximizing Viewership with Effective Game Streaming</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-selecting-the-right-video-recorder-for-teaching-for-2024/"><u>[New] Selecting the Right Video Recorder for Teaching for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-easy-steps-for-tempo-control-in-instagram-videos/"><u>[Updated] In 2024, Easy Steps for Tempo Control in Instagram Videos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-samba-seed-eaters/"><u>[Updated] Samba Seed Eaters</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/15-creative-ventures-to-pursue-while-youre-heeding-stories-for-2024/"><u>15 Creative Ventures to Pursue While You're Heeding Stories for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-masterpieces-at-play-choosing-the-top-10-thrilling-games/"><u>2024 Approved  Masterpieces at Play  Choosing the Top 10 Thrilling Games</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-the-educators-roadmap-to-effective-multimedia-use/"><u>2024 Approved  The Educator's Roadmap to Effective Multimedia Use</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-vivo-y36i-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Vivo Y36i FRP</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-honor-x50i-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Honor X50i FRP Bypass Instantly</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-vivo-v30-pro-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Vivo V30 Pro</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-apple-iphone-15-without-passcode-now-drfone-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock Apple iPhone 15 Without Passcode Now | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-vivo-v27-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Vivo V27 FRP Locks</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-can-we-bypass-xiaomi-14-frp-by-drfone-android/"><u>How Can We Bypass Xiaomi 14 FRP?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-on-poco-x6-pro-by-drfone-android/"><u>How to Bypass FRP on Poco X6 Pro?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-vivo-s18-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Vivo S18 FRP In 3 Different Ways</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-vivo-t2-5g-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Vivo T2 5G FRP In 3 Different Ways</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-vivo-s17-pro-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Vivo S17 Pro FRP Bypass Instantly</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-realme-11-pro-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Realme 11 Pro</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-vivo-g2-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Vivo G2</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-to-infinix-zero-5g-2023-turbo-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Infinix Zero 5G 2023 Turbo FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-effective-ways-to-fix-checkra1n-error-31-from-apple-iphone-15-plus-by-drfone-ios/"><u>In 2024, Effective Ways To Fix Checkra1n Error 31 From Apple iPhone 15 Plus</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-google-pixel-7a-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Google Pixel 7a FRP Locks</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-xiaomi-redmi-k70-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Xiaomi Redmi K70 FRP Locks</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-full-guide-to-bypass-xiaomi-redmi-a2-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Xiaomi Redmi A2 FRP</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-zte-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on ZTE Phones with/without a PC</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-can-we-bypass-xiaomi-redmi-note-12t-pro-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Xiaomi Redmi Note 12T Pro FRP?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-poco-x6-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Poco X6 Devices</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-xiaomi-redmi-note-12r-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Xiaomi Redmi Note 12R FRP In 3 Different Ways</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-a05-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy A05 Phone FRP Lock</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-xiaomi-redmi-note-13-proplus-5g-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Xiaomi Redmi Note 13 Pro+ 5G FRP</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-the-art-of-speech-interpretation-via-googles-technology/"><u>In 2024, The Art of Speech Interpretation via Google's Technology</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-updated-method-to-bypass-realme-gt-neo-5-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Realme GT Neo 5 FRP</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-updated-method-to-bypass-tecno-spark-20c-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Tecno Spark 20C FRP</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-vivo-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Vivo Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-infinix-note-30i-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Infinix Note 30i FRP Bypass</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-vivo-y78t-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Vivo Y78t ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-honor-x50frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Honor X50FRP Lock</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-realme-11-profrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Realme 11 ProFRP Lock</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-tecno-phantom-v-fold-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Tecno Phantom V Fold Phone FRP Lock</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-updated-method-to-bypass-tecno-spark-10-pro-frp-by-drfone-android/"><u>The Updated Method to Bypass Tecno Spark 10 Pro FRP</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/top-5-vivo-v30-pro-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Vivo V30 Pro Bypass FRP Tools for PC That Actually Work</u></a></li>
+</ul></div>
