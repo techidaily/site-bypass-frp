@@ -20,16 +20,13 @@ function range(start, end) {
 
 // Step1: 从sitemap.txt, sitemap1.txt, sitemap2.txt ...中获取url列表
 const allUrls = [];
-const sitemapFiles = [
-  'sitemap.txt', 
-  ...range(1, 500).map(i => `sitemap${i}.txt`)
-];
-for (const file of sitemapFiles) {
-  if (fs.existsSync(path.join(__dirname, '.deploy_git', file))) {
-    const sitemap = fs.readFileSync(path.join(__dirname, '.deploy_git', file), 'utf-8');
-    const urls = sitemap.split('\n').filter(Boolean).map(url => url.trim());
-    allUrls.push(...urls);
-  }
+const verifiedMapJSONFile = path.join(__dirname, '.verified-url2title-map.json');
+if (fs.existsSync(verifiedMapJSONFile)) {
+  try {
+    const content = fs.readFileSync(verifiedMapJSONFile, 'utf-8').toString();
+    const obj = JSON.parse(content);
+    Object.keys(obj).forEach(v => allUrls.push(v));
+  } catch (e) {}
 }
 
 console.log('All urls count:%d', allUrls.length);
@@ -117,7 +114,8 @@ function sendSubmit(engine, urls = []) {
 async function processQueue(engine, urlGroupsQueue) {
   for (const urls of urlGroupsQueue) {
     sendSubmit(engine, urls)
-    await sleep();
+    await sleep(30*1000);
+    process.exit();
   }
 }
 
