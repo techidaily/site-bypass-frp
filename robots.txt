@@ -1,13 +1,15 @@
 Sitemap: https://bypass-frp.techidaily.com/sitemap_index.xml
-User-agent: Googlebot
-Disallow:
-
-User-agent: Googlebot-image
-Disallow: 
 
 User-agent: *
-Disallow: /scripts
-Disallow: /public 
+Allow: /
+ 
+
+
+
+
+User-agent: *
+Disallow: /scripts/
+Disallow: /public/ 
 Disallow: /css/ 
 Disallow: /images/ 
 Disallow: /content/ 
