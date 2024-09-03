@@ -9270,6 +9270,55 @@ div.tabs .tab-content .tab-pane .note:last-child {
 ul.ads li {
   list-style-type: none;
 }
+.feedProduct a {
+  text-decoration: none;
+}
+.feedProduct-Price {
+  text-align: left;
+  font-size: 1.6rem;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1;
+  letter-spacing: normal;
+  color: #333;
+}
+.feedProduct-Price-Price99 {
+  width: 14.5rem;
+}
+.feedProduct-Price--Currency {
+  font-weight: 300;
+  font-size: 70%;
+}
+.feedProduct-Price--Cents {
+  vertical-align: super;
+  font-size: 50%;
+}
+.feedProduct-Price--Old {
+  color: #8f8f8f;
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  letter-spacing: normal;
+  text-align: left;
+  position: relative;
+  display: inline-block;
+  margin: 0 13px 0 3px;
+}
+.feedProduct-Price--Old::after {
+  content: '';
+  border-bottom: 1px solid #b2b2b2;
+  width: 100%;
+  position: absolute;
+  right: 0;
+  top: 50%;
+}
+.feedProduct-Price--Old .feedProduct-Price--Currency {
+  font-size: 12px;
+}
+.feedProduct-Price--Old .feedProduct-Price--Cents {
+  font-size: 13px;
+}
 img {
   cursor: pointer !important;
 }
