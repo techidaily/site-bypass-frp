@@ -2,12 +2,6 @@ Sitemap: https://bypass-frp.techidaily.com/sitemap_index.xml
 
 User-agent: *
 Allow: /
- 
-
-
-
-
-User-agent: *
 Disallow: /scripts/
 Disallow: /public/ 
 Disallow: /css/ 

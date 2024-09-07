@@ -59,7 +59,7 @@ global:
       family:  # Font family
       url:  # Font URL to CSS file
   # Content max width
-  content_max_width: 1000px
+  content_max_width: 1280px
   # Sidebar width
   sidebar_width: 210px
   # Effects on mouse hover

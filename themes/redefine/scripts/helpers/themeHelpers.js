@@ -318,5 +318,29 @@ hexo.extend.helper.register("getThemeVersion", function () {
 // 将字符串中的多个%%转换成1个%
 hexo.extend.helper.register("encodePercent", function (str) {
   if (typeof str !== 'string') return str;
+  
+  // 如果title是以 `"\"` 为开头，以 `\""` 为结尾的字符串，需要去掉开头的 `"\"`，结尾的 `"\""`，得到中间的字符串
+  if (str.startsWith(`"\\"`) && str.endsWith(`\\""`)) {
+    str = str.slice(2, -2);
+  }
+  // 如果title是以 `"` 为开头，以 `"` 为结尾的字符串，需要去掉开头的 `"` 和 结尾的 `"`, 得到中间的字符串
+  if (str.startsWith(`"`) && str.endsWith(`"`)) {
+    str = str.slice(1, -1);
+  }
+  if (str.startsWith(`"`) && str.endsWith(`\\`)) {
+    str = str.slice(1, -1);
+  }
+  
+  // 解构HTML中的转义字符
+  try { str = decodeURIComponent(str); } catch(e) {}
+  
+  str = str.replace(/\s+/g, " ");
+  str = str.replace(/\\+/g, " ");  
+  
+  // 去除多余的 \"
+  str = str.replace(/\\"+/g, `"`);
+  str = str.replaceAll(`\\"`, "");
+  
+  // 修正%%的显示内容
   return str.replace(/%+/g, '%');
 });

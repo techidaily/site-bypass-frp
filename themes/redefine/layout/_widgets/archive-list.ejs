@@ -15,12 +15,12 @@
                 <% } %>
                     <% if (cachedDate == date(post.date, 'MM-DD')) { %>
                         <a href="<%- url_for(post.path) %>" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl"><%= post.title %></span>
+                            <span class="article-title mb-0.5 text-2xl"><%= encodePercent(post.title) %></span>
                         </a>
                     <% } else {%>
                         <% cachedDate = date(post.date, 'MM-DD') %>
                         <a href="<%- url_for(post.path) %>" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl"><%= post.title %></span>
+                            <span class="article-title mb-0.5 text-2xl"><%= encodePercent(post.title) %></span>
                         </a>
                     </li>
                 <% } %>

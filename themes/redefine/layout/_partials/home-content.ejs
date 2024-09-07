@@ -27,14 +27,14 @@
                 <% if (post.thumbnail !== false && (post.thumbnail || post.cover || post.banner)) { %>
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
                         <a href="<%- url_for(post.path) %>" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="<%- url_for(articleThumbnail) %>" alt="<%= post.title %>" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                            <img src="<%- url_for(articleThumbnail) %>" alt="<%= encodePercent(post.title) %>" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 <% } %>
                 <div class="flex flex-col gap-5 px-7 pb-7 <%= post.thumbnail !== false && (post.thumbnail || post.cover || post.banner) ? "basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5" : "pt-7" %>">
                     <h3 class="home-article-title">
                         <a href="<%- url_for(post.path) %>">
-                            <%= post.title %>
+                            <%= encodePercent(post.title) %>
                         </a>
                     </h3>
 
@@ -43,7 +43,7 @@
                         <% } else if (post.excerpt && post.excerpt !== "false") { %>
                             <%- render(post.excerpt, "markdown") %>
                         <% } else { %>
-                            <%- truncate(strip_html(post.content), {length: 128}) %>
+                            <%- encodePercent(truncate(strip_html(post.content), {length: 128})) %>
                         <% } %>
                     </div>
 

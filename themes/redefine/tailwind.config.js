@@ -12,7 +12,7 @@ module.exports = {
         "spacing-unit": "38px",
       },
       maxWidth: {
-        content: "1000px", // You might want to adjust this value based on your use case
+        content: "1280px", // You might want to adjust this value based on your use case
         "has-toc-content": "120%",
       },
       zIndex: {
