@@ -2544,7 +2544,7 @@ pre .deletion {
   position: relative;
   box-sizing: border-box;
   width: 80%;
-  max-width: 1000px;
+  max-width: 1280px;
   height: 100%;
   transition-property: color, background, box-shadow, border-color, max-width, width;
   transition-delay: 0s, 0s, 0s, 0s, 0s, 0s;
@@ -2562,7 +2562,7 @@ pre .deletion {
   }
 }
 .page-container .main-content-container .main-content-body .main-content.has-toc {
-  max-width: 1200px !important;
+  max-width: 1536px !important;
 }
 .page-container .main-content-container .main-content-body .main-content-footer {
   width: 100%;
