@@ -1,7 +1,7 @@
 ---
 title: Petcube Lights Out Pets Camera – High Definition at a Low Price
-date: 2024-09-06T23:59:45.481Z
-updated: 2024-09-07T23:59:45.481Z
+date: 2024-09-11T17:37:25.862Z
+updated: 2024-09-13T01:45:01.269Z
 categories:
   - BestProducts
 description: This Article Describes Petcube Lights Out Pets Camera – High Definition at a Low Price
@@ -14,11 +14,12 @@ thumbnail: https://www.lifewire.com/thmb/cpsxnUZf4AzKkw4ZnMdTPrso0-M=/540x405/fi
 4.2
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2123473/16836" target="_top" id="2123473">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123473" border="0" alt="https://techidaily.com" width="254" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123473/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Petcube Cam
 
 ![Petcube Cam](https://www.lifewire.com/thmb/bEZp3VYhmhBt9T-oWvUyIO4l65E=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Petcube_Cam_HeroSquare-d19c7c4609bb4281a28eec3c6ad5ac75.jpg)
@@ -47,21 +48,16 @@ Lifewire / Sandra Stafford
 4.2
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Petcube Cam
 
 ![Petcube Cam](https://www.lifewire.com/thmb/2iyNH2Fl8DVCuQTqyCPuvk0JVB4=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Petcube_Cam_HeroSquare-d19c7c4609bb4281a28eec3c6ad5ac75.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115910/19272" target="_top" id="2115910">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115910" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115910/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Lifewire / Sandra Stafford
 
 [View On Amazon $32](https://www.amazon.com/dp/B088C4NHRS?tag=lifewire-onsite-prod-20&ascsubtag=5118059%7Cn20f43db0a85c4ef4bffcf704b17f3f2504%7CB088C4NHRS) [View On Chewy $35](https://www.chewy.com/petcube-cam-hd-monitoring-vet-chat/dp/287737) [View On Saks Fifth Avenue $35](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.saksfifthavenue.com%2Fproduct%2FPetcube-Petcube-Cam-0400018469431.html%3Fdwvar%255F0400018469431%255Fsize%3DNo%2BSize%26dwvar%255F0400018469431%255Fcolor%3DWHITE%26slpfid%3D3)
@@ -92,11 +88,18 @@ Lifewire / Sandra Stafford
  The USB cable is 2 meters long, which does limit the placement of the Cam somewhat. Mounting the Cam is the best option if its purpose is for security, even the security of being able to look in on pet sitters, but I opted to test it on a table so I could enjoy some close-ups of my pets’ noses.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135475/26400" target="_top" id="2135475">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135475/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Setup Process: Ready to go in under a minute
 
  To use the Cam, I first needed to download the Petcube app. Previous Petcube products didn’t take long to set up, but the Petcube Cam was even faster. My phone detected the Cam immediately, and pairing the two was as simple as showing the Cam the QR code generated by the app.
@@ -134,23 +137,18 @@ Lifewire / Sandra Stafford
  Since the Cam doesn't fling treats or tease pets with a laser, it's unlikely to catch a video of my pets doing anything cute or funny enough to share. That’s why I would skip the subscription if the Cam were my only Petcube product. Otherwise, the clips and video history would be nice to have.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Price: Petcube’s most affordable pet cam
 
  The Cam is a pared-down version of Petcube’s other products, which are usually at the higher end of the market. However, at $40 it is more expensive than other pet cams with comparable specs. That price makes the Cam a good addition to homes with other Petcube products. For shoppers who just want the security of being able to look in on their pets, cheaper options make more sense.
 
 Lifewire / Sandra Stafford
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Petcube Cam vs. Petcube Bites 2
 
  Between its small size and the option to mount it magnetically, the Petcube Cam fits just about anywhere and draws no more attention than a home security camera. Its performance is on par with other budget security cameras, too. People who already own other Petcube products and subscribe to Petcube Care will find the Cam to be a good supplement, but nothing about it screams “pet cam.” It was clearly designed to bridge the gap between affordable security and their pricey pet-focused devices.
@@ -163,11 +161,31 @@ Lifewire / Sandra Stafford
 
  The Petcube Cam bridges the gap between home security cameras and fun splurges for the pet-obsessed. It’s an affordable pet cam, though it lacks a lot of the bells and whistles of higher-end models.
 
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Similar Products We've Reviewed
 
 * [Pawbo Life Pet Camera](https://www.lifewire.com/pawbo-life-pet-camera-review-4692446)
 * [Petcube Play Interactive](https://www.lifewire.com/petcube-play-review-4692418)
 * [TOOGE Pet Camera](https://www.lifewire.com/tooge-pet-camera-review-4692427)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -190,8 +208,6 @@ Lifewire / Sandra Stafford
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -201,43 +217,16 @@ Lifewire / Sandra Stafford
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-10-best-online-video-call-free-to-use-for-2024/"><u>[New] 10 Best Online Video Call (Free to Use) for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-from-mere-color-to-spectacle-hdr-vs-sdr-in-editing/"><u>[New] In 2024, From Mere Color to Spectacle  HDR vs SDR in Editing</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-beyond-xboxs-game-bar-top-video-recorders/"><u>[Updated] 2024 Approved  Beyond Xbox's Game Bar  Top Video Recorders</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-a-detailed-walkthrough-for-integrating-instagram-effects-on-archive-media/"><u>[Updated] In 2024, A Detailed Walkthrough for Integrating Instagram Effects on Archive Media</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-the-ultimate-12-camera-guide-for-effortless-screen-swivel-use/"><u>[Updated] In 2024, The Ultimate 12 Camera Guide for Effortless Screen Swivel Use</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-live-stream-struggle-picking-your-platform-obs-or-twitch-for-2024/"><u>[Updated] Live Stream Struggle  Picking Your Platform – OBS or Twitch for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-premium-pfr-rate-for-easy-going-footage/"><u>[Updated] Premium PFR Rate for Easy-Going Footage</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-exploring-panoramic-versus-full-immersion-visual-media-tech/"><u>2024 Approved  Exploring Panoramic Versus Full-Immersion Visual Media Tech</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-perfect-pixels-with-pro-android-tips/"><u>2024 Approved  Perfect Pixels with Pro Android Tips</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-steps-to-fresh-driver-installation-on-acer-nitro-5-laptops/"><u>Easy Steps to Fresh Driver Installation on Acer Nitro 5 Laptops</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-tecno-camon-30-pro-5g-frp-by-drfone-android/"><u>Full Guide to Bypass Tecno Camon 30 Pro 5G FRP</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/gtx-950-code-43-error-on-windows-10-solved/"><u>GTX 950 Code 43 Error on Windows 10 [Solved]</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-on-tecno-spark-20-proplus-by-drfone-android/"><u>How to Bypass FRP on Tecno Spark 20 Pro+?</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-infinix-note-30-vip-racing-edition-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Infinix Note 30 VIP Racing Edition Devices</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-honor-magic5-ultimate-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Honor Magic5 Ultimate FRP In 3 Different Ways</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-tecno-camon-30-pro-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Tecno Camon 30 Pro 5G</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-about-infinix-note-30-pro-frp-bypass-by-drfone-android/"><u>In 2024, About Infinix Note 30 Pro FRP Bypass</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-tecno-camon-20-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Tecno Camon 20</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-itel-p55-5g-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Itel P55 5G FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-nubia-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Nubia FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-zte-blade-a73-5g-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass ZTE Blade A73 5G FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-to-itel-s23-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Itel S23 FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-itel-a60-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Itel A60 Phones with/without a PC</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-vivo-t2-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Vivo T2 5G Phones with/without a PC</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-poco-c51-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Poco C51 Phones with/without a PC</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-on-samsung-galaxy-f54-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP on Samsung Galaxy F54 5G?</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-infinix-note-30i-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Infinix Note 30i Devices</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-tecno-phantom-v-fold-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Tecno Phantom V Fold Devices</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-itel-p55t-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Itel P55T FRP Bypass</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-vivo-v27-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Vivo V27 FRP Bypass</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Lava Blaze 2 5G | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-honor-80-pro-straight-screen-editionfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Honor 80 Pro Straight Screen EditionFRP Lock</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/latest-guide-how-to-bypass-poco-x6-pro-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Poco X6 Pro FRP Without Computer</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/latest-guide-how-to-bypass-realme-note-50-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Realme Note 50 FRP Without Computer</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/mac-centric-review-the-complete-guide-to-screenflow-v4/"><u>Mac-Centric Review  The Complete Guide to ScreenFlow V4</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/new-guide-how-to-check-icloud-activation-lock-status-from-your-iphone-11-pro-max-by-drfone-ios/"><u>New Guide How To Check iCloud Activation Lock Status From Your iPhone 11 Pro Max</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/quick-calculator-your-video-monetization-for-2024/"><u>Quick Calculator  Your Video Monetization for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/the-updated-method-to-bypass-vivo-y02t-frp-by-drfone-android/"><u>The Updated Method to Bypass Vivo Y02T FRP</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-from-realme-12plus-5g-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Realme 12+ 5G FRP Bypass</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-free-minecraft-branding-tools-download/"><u>[New] Free Minecraft Branding Tools Download</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-best-companions-premium-mac-programs-for-videography/"><u>[New] In 2024, Best Companions Premium Mac Programs for Videography</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-mastering-media-marketing-essential-ig-video-editors-for-2024/"><u>[New] Mastering Media Marketing Essential IG Video Editors for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-definitive-guide-to-professional-level-youtube-video-edits-for-2024/"><u>[Updated] The Definitive Guide to Professional-Level YouTube Video Edits for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-vivo-y36i-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Vivo Y36i</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/consistent-pricing-for-oculus-quest-2-securing-the-vr-market-at-just-199/"><u>Consistent Pricing for Oculus Quest 2: Securing the VR Market at Just $199</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-on-infinix-hot-40-by-drfone-android/"><u>How to Bypass FRP on Infinix Hot 40?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-xiaomi-redmi-13cwithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Xiaomi Redmi 13Cwith/without a PC</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-best-ways-to-watch-360-videos-on-android/"><u>In 2024, Unveiling the Best Ways to Watch 360 Videos on Android</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-tecno-spark-20-proplus-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Tecno Spark 20 Pro+ Phone FRP Lock</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/subscribersilence-eager-for-gpt-access-restoration/"><u>SubscriberSilence: Eager for GPT Access Restoration</u></a></li>
 </ul></div>
+
