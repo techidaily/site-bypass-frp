@@ -1,7 +1,7 @@
 ---
 title: GTX 950 Code 43 Error on Windows 10 [Solved]
-date: 2024-09-12T01:07:43.252Z
-updated: 2024-09-12T17:39:04.178Z
+date: 2024-09-12T19:21:16.706Z
+updated: 2024-09-17T16:54:42.184Z
 tags:
   - win11
   - win10
@@ -39,13 +39,6 @@ thumbnail: https://thmb.techidaily.com/19760dde0975a0de0ce2cfe0db96677605f044bc9
 
 **c** . Windows cannot recognize faulty hardware either, so please make sure that your display card is in good conditions.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Option 1: Clean re-install NVIDIA 950
 
  To perform a clean re-install of your graphics card driver, you may need some help from tools like CCleaner or Display Driver Uninstaller. In this post, we choose**Display Driver Uninstaller** .
@@ -54,42 +47,15 @@ thumbnail: https://thmb.techidaily.com/19760dde0975a0de0ce2cfe0db96677605f044bc9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941f9e8b4f19.png)
 
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Make sure that you have saved all your files and folders. Choose from the drop-down menu**Safe Mode (Recommended)** . Then hit the**Launch** button.
 
  This allows you to go to Safe Mode and then DDU will clean uninstall your graphics card driver for you.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941fd6169da1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) In the safe mode, click the**Clean and restart (Highly recommended)** button so DDU will start with the uninstall.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941fe0557eee.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118313/7443" target="_top" id="2118313">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118313" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118313/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Wait for the process to finish, and your PC will restart in normal mode.
 
@@ -119,13 +85,6 @@ thumbnail: https://thmb.techidaily.com/19760dde0975a0de0ce2cfe0db96677605f044bc9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5942041be93b6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Option 2: Update Windows 10**
 
  1) On your keyboard, press**Start** button, and then choose**Setting** icon. In the Setting window, click**Update & security** .
@@ -151,10 +110,16 @@ thumbnail: https://thmb.techidaily.com/19760dde0975a0de0ce2cfe0db96677605f044bc9
  After you make the decision of updating your BIOS, go to the manufacturer website of your PC and see if the latest version of BIOS is available to download. Then follow the instructions to get your BIOS updated.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Option 4: Reinstall Windows 10**
@@ -183,20 +148,19 @@ thumbnail: https://thmb.techidaily.com/19760dde0975a0de0ce2cfe0db96677605f044bc9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-fusing-youtube-beats-into-film-scenes/"><u>[New] 2024 Approved Fusing YouTube Beats Into Film Scenes</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-frameitright-instagram-size-settings-explained/"><u>[New] FrameItRight Instagram Size Settings Explained</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-top-corporate-cloud-storage-platforms-for-2024/"><u>[New] Top Corporate Cloud Storage Platforms for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-ultimate-list-the-finest-fps-titles-in-gaming/"><u>[Updated] 2024 Approved Ultimate List The Finest FPS Titles in Gaming</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-easy-transition-integrating-snapchat-with-macos/"><u>[Updated] Easy Transition Integrating Snapchat with macOS</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-rising-stars-in-streaming-global-youtubes-subs-pantheon/"><u>[Updated] In 2024, Rising Stars in Streaming Global YouTube's Subs Pantheon</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-top-8-free-enterprise-friendly-video-call-tools/"><u>[Updated] Top 8 Free Enterprise-Friendly Video Call Tools</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-tecno-spark-20-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Tecno Spark 20</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-xiaomiwithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Xiaomiwith/without a PC</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-honor-70-lite-5g-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Honor 70 Lite 5G FRP</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-are-earnings-associated-with-good-and-service-analysis/"><u>In 2024, Are Earnings Associated with Good and Service Analysis?</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-vivo-v27e-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Vivo V27e Devices</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-honor-100-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Honor 100 FRP Without Computer</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-infinix-hot-40ifrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Infinix Hot 40iFRP Lock</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/top-5-honor-70-lite-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Honor 70 Lite 5G Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-ensuring-security-in-converting-youtube-tracks-to-mp3-format/"><u>[New] 2024 Approved Ensuring Security in Converting YouTube Tracks to MP3 Format</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-harmonizing-soundscape-and-unboxing-footage/"><u>[New] Harmonizing Soundscape and Unboxing Footage</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-xiaomi-13t-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Xiaomi 13T</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-magic-6-pro-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Magic 6 Pro</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-sign-out-of-apple-id-on-iphone-13-pro-without-password-by-drfone-ios/"><u>How to Sign Out of Apple ID On iPhone 13 Pro without Password?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-honor-magic-5-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Honor Magic 5 Devices</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-revolutionizing-virtual-meetings-hacks-for-effective-zoom-chats/"><u>In 2024, Revolutionizing Virtual Meetings Hacks for Effective Zoom Chats</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-vivo-s18e-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Vivo S18e FRP Bypass</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-viral-vibes-a-guide-to-memetic-magic/"><u>In 2024, Viral Vibes A Guide to Memetic Magic</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-infinix-hot-40frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Infinix Hot 40FRP Lock</u></a></li>
+<li><a href="https://fox-links.techidaily.com/m1-chip-wins-smoothness-in-every-edit-every-time-for-2024/"><u>M1 Chip Wins Smoothness in Every Edit, Every Time for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-from-google-pixel-fold-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Google Pixel Fold FRP Bypass</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/king-youtube-mastery-of-video-segmentation/"><u>Unlocking YouTube Mastery of Video Segmentation</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/your-ultimate-pool-and-beach-gadgets-catalog/"><u>Your Ultimate Pool & Beach Gadgets Catalog</u></a></li>
 </ul></div>
 
