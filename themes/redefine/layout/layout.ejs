@@ -8,18 +8,7 @@
     <%- partial('_plugins/aplayer') %>
 <% } %>
 
-<!-- use the techidaily.com/zaraz/tools-config/tools bY cloudflare -->
-<% if (theme.global.google_analytics.enable && false) { %>
-    <!-- Google tag (gtag.js) -->
-    <script defer src="https://www.googletagmanager.com/gtag/js?id=<%= theme.global.google_analytics.id %>" crossorigin="anonymous"></script>
-    <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-
-    gtag('config', '<%= theme.global.google_analytics.id %>');
-    </script>
-<% } %>
+<!-- use google_analytics the techidaily.com/zaraz/tools-config/tools bY cloudflare -->
 
 <!-- google ads fundingchoicesmessages -->
 <script async src="https://fundingchoicesmessages.google.com/i/pub-7571918770474297?ers=1" nonce="UocHKf5GStdNoIAz-SQeJA"></script>
