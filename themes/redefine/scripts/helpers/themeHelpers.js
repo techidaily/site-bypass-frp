@@ -341,6 +341,24 @@ hexo.extend.helper.register("encodePercent", function (str) {
   str = str.replace(/\\"+/g, `"`);
   str = str.replaceAll(`\\"`, "");
   
+  // 删除带有 { 和 } 的内容, 规避文章中不允许出现的字符，防止语法错误
+  {
+    const fncR = (str) => {
+      let sPos = Math.max(0, Math.min(str.indexOf('{'), str.indexOf('}')));
+      let ePos = Math.max(str.lastIndexOf('{'), str.lastIndexOf('}'), 0);
+      if (ePos > sPos) {
+        str = str.slice(0, sPos) + str.slice(ePos + 1);
+      } else {
+        str = str.replaceAll('{', '').replaceAll('}', '');
+      }
+      return str;
+    }
+    
+    while(str.includes('{') || str.includes('}')) {
+      str = fncR(str)
+    }   
+  }  
+  
   // 修正%%的显示内容
   return str.replace(/%+/g, '%');
 });
