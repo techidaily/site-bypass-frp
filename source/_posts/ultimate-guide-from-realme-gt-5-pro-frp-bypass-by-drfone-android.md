@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide from Realme GT 5 Pro FRP Bypass
-date: 2024-09-23T22:34:59.558Z
-updated: 2024-09-28T02:55:34.131Z
+date: 2024-09-27T21:02:40.222Z
+updated: 2024-10-03T19:02:25.099Z
 tags: 
   - unlock
   - bypass android frp
@@ -36,13 +36,6 @@ Although uncommon, your Android phone can start malfunctioning due to a virus or
 Sometimes you may need to do away with your old Realme phone after purchasing a brand-new one. So, instead of keeping or gifting it out, you can sell it and recoup a few coins. Unfortunately, most buyers will want the phone in its brand-new state so that they can install their own apps, add music, movies, etc. If you don’t Factory Reset the phone, your bargaining power also reduces. I’m sure you don’t want that.
 
 _**Important note**: Bypassing FRP is absolutely legal and easy too. But some users may look to bypass FRP on a stolen phone. That’s why we clarify that this post is strictly for educational purposes. Get the consent of the original owner of the phone before bypassing FRP._
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2: How to Bypass Google FRP on Realme Android 11 without PC
 
@@ -95,6 +88,13 @@ Let's walk through the simple steps:
 
 ![home page](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 3:** Select the Realme GT 5 Pro device brand Realme that you want to unlock the screen.
 
 ![select device model](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
@@ -102,13 +102,6 @@ Let's walk through the simple steps:
 - **Step 4:** Lastly, follow Dr.Fone's on-screen instructions to enter the specific mode and unlock your phone. That's it!
 
 ![begin to remove android lock screen](https://images.wondershare.com/drfone/guide/unlock-android-screen-google.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **You can watch the video below to unlock Realme patterns, passwords, PINs, and fingerprints with Wondershare Dr.Fone**
 
@@ -129,18 +122,18 @@ And that's the best **Realme Android 11 FRP bypass** method. With TechnoCare APK
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## A Quick Guide to Realme GT 5 Pro FRP Bypass Instantly
 
@@ -150,20 +143,27 @@ In this article, we'll learn about the **Realme GT 5 Pro FRP bypass** process. W
 
 ![Realme GT 5 Pro FRP unlock tool](https://images.wondershare.com/drfone/article/2024/01/quick-guide-to-tecno-bd4a-frp-bypass-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 1. Things To Keep in Mind Before Bypassing Realme GT 5 Pro
 
 Bypassing the security measures on a Realme GT 5 Pro should be approached with caution. There are many considerations that users should keep in mind before **the Realme GT 5 Pro FRP bypass**. Below, we have listed some considerations to help users avoid any hassle:
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Legal Implications
 
 Bypassing device security could potentially breach the terms of service and warranty agreements. Moreover, it may even be illegal in certain jurisdictions. It is recommended to avoid bypassing unless users are certain it is legally permissible in their region.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Data Loss
 
@@ -184,6 +184,13 @@ Technical knowledge and skills are highly demanded when bypassing FRP locks. Onl
 ### 6\. Device Functionality
 
 Bypassing security measures may impact the Realme GT 5 Pro device's normal functionality. Users should be prepared for potential device performance or functionality issues post-bypass.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2. Bypass FRP Lock Realme GT 5 Pro Using SIM Card Method
 
@@ -213,6 +220,13 @@ Using the SIM card process for **Realme GT 5 Pro FRP bypass** is a viable option
 
 ![browse sign in with google account](https://images.wondershare.com/drfone/article/2024/01/quick-guide-to-tecno-bd4a-frp-bypass-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 7.** After Google signs in, "Open" the Activity Launcher app and wait until the package is loaded. From the appearing menu, select "Android Setup" and then choose the following option:
 
 Android Setup (com.google.android.setupwizard/.predeferred.PreDeferredSetupWizardActivity)
@@ -221,31 +235,11 @@ Once setup ends, the **Realme GT 5 Pro FRP bypass Android 11** process will be c
 
 ![start setting up android](https://images.wondershare.com/drfone/article/2024/01/quick-guide-to-tecno-bd4a-frp-bypass-8.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3. How to Easy Realme GT 5 Pro FRP Bypass With Wondershare Dr.Fone
 
 Facing FRP lock on your Realme GT 5 Pro can be daunting, especially when you need to access your phone urgently. In this case, using the above-discussed SIM card method can be time-consuming. Users looking for an alternative and quick option can use [<u>Wondershare Dr.Fone – Screen Unlock (Android)</u>](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/). This tool can help bypass FRP lock on your Android without requiring any PIN or Google account.
 
 Moreover, users don't need technical knowledge as this tool offers one-click removal. Dr.Fone also adopts a user-friendly interface, ensuring accessibility for every user. Apart from **Realme GT 5 Pro FRP bypass Android 11**, this tool also unlocks Samsung and LG devices without data loss.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Salient Features of Wondershare Dr.Fone
 
@@ -273,13 +267,6 @@ Afterward, click “Remove Google FRP Lock” and select your appropriate device
 
 ![choose to remove google frp lock](https://images.wondershare.com/drfone/guide/remove-android-frp-lock-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - Step 3. Access Emergency Call and Enable USB Debugging
 
 After downloading the necessary drivers, power off your smartphone and connect it to the computer. Press the "Volume Up" and "Volume Down" buttons simultaneously for almost 3 seconds as it connects. This initiates the FRP unlocking process. If everything went smoothly with the unlocking, click "Done."
@@ -293,6 +280,13 @@ After downloading the necessary drivers, power off your smartphone and connect i
 [<u>Ultimate Guide on Realme Spark FRP Bypass</u>](https://drfone.wondershare.com/android-bypass/tecno-k7-frp-bypass.html)
 
 [<u>How can I Unlock Realme Network by Myself?</u>](https://drfone.wondershare.com/sim-unlock/unlock-tecno-network.html)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -319,13 +313,6 @@ Realme GT 5 Pro devices are often bypassed for the following reasons:
 ### 1\. Forgotten Google Account Credentials
 
 One of the most common reasons for needing to bypass FRP is that you simply forgot your Google account login credentials. Whether you have a new phone and are setting it up for the first time, or you've had the same phone for a while and are just now adding a Google account, there's always a chance that you might forget your password.
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. A Second-Hand Phone
 
@@ -429,6 +416,13 @@ Wait until the Realme GT 5 Pro Hot 8 reboots and prompts you to select a languag
 
 Bypassing the FRP on your Realme GT 5 Pro Smart 5 is as simple as following these steps.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Conclusion
 
 It is not illegal to bypass Google verification when you are doing a factory reset in case you forget your password or don't remember your Google account. The Realme GT 5 Pro Smart 5 FRP bypass becomes useless if you don't bypass the FRP lock, so FRP bypass Realme GT 5 Pro Hot S matters.
@@ -444,24 +438,20 @@ You can bypass the Realme GT 5 Pro Hot 8 FRP by using a few practical methods li
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-fuse-melodies-into-your-youtube-digital-realm/"><u>[New] 2024 Approved Fuse Melodies Into Your Youtube Digital Realm</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-poco-c50-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Poco C50 Phones with/without a PC</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-xiaomi-redmi-13c-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Xiaomi Redmi 13C 5G Phones with/without a PC</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-on-nubia-red-magic-9-proplus-by-drfone-android/"><u>How to Bypass FRP on Nubia Red Magic 9 Pro+?</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-vivo-v29-pro-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Vivo V29 Pro Devices</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-nokia-c22-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Nokia C22 to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-vivo-y100i-power-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Vivo Y100i Power 5G Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-vivo-y28-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Vivo Y28 5G Phones with/without a PC</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-honor-70-lite-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP from Honor 70 Lite 5G?</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-nubia-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Nubia Devices</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-itel-p40plus-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Itel P40+ Devices</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-vivo-v29e-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Vivo V29e Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/mastering-nba-2k21-on-your-pc-strategies-for-eliminating-game-crashes/"><u>Mastering NBA 2K21 on Your PC: Strategies for Eliminating Game Crashes</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/1722985055911-multiverse-troubles-discover-eight-ways-to-stop-it-from-crashing-now/"><u>Multiverse Troubles? Discover Eight Ways to Stop It From Crashing Now!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-capturing-and-saving-output-from-powershell-commands-in-text-files/"><u>Step-by-Step Tutorial: Capturing and Saving Output From PowerShell Commands in Text Files</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-hidden-world-exploring-vlc-player-extras-for-2024/"><u>The Hidden World Exploring VLC Player Extras for 2024</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-realme-c53-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Realme C53 | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-on-realme-12plus-5g-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Realme 12+ 5G FRP Bypass</u></a></li>
-<li><a href="https://games-able.techidaily.com/what-to-think-before-investing-in-a-ps5/"><u>What to Think Before Investing in a PS5?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-decoding-the-instagram-story-viewer-experience/"><u>[New] Decoding the Instagram Story Viewer Experience</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-depth-guide-to-archiving-online-conversations-with-fb-for-2024/"><u>[Updated] In-Depth Guide to Archiving Online Conversations with FB for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-understanding-and-implementing-slug-line-rules/"><u>[Updated] Understanding and Implementing Slug Line Rules</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-zte-axon-40-lite-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your ZTE Axon 40 Lite</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-improve-your-pcs-performance-with-updated-netgear-a6100-drivers-for-windows-operating-systems/"><u>Download and Improve Your PC's Performance with Updated Netgear A6100 Drivers for Windows Operating Systems</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-poco-c55-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Poco C55 Phones with/without a PC</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-meizu-21-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Meizu 21 Phones? | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-6-periscope-alternative-apps-for-android-and-ios/"><u>In 2024, 6 Periscope Alternative Apps for Android and iOS</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-about-infinix-smart-7-hd-frp-bypass-by-drfone-android/"><u>In 2024, About Infinix Smart 7 HD FRP Bypass</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-vivo-s17-by-drfone-android/"><u>In 2024, How to Bypass FRP from Vivo S17?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-nubia-red-magic-8s-profrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Nubia Red Magic 8S ProFRP Lock</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-a15-5g-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy A15 5G Phone FRP Lock</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-on-samsung-galaxy-a05s-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Samsung Galaxy A05s FRP Bypass</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-the-best-of-the-best-top-10-2d-animation-software-free-and-paid/"><u>Updated 2024 Approved The Best of the Best Top 10 2D Animation Software (Free & Paid)</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-from-novice-to-pro-mastering-wax-free-video-editor-in-for-2024/"><u>Updated From Novice to Pro Mastering Wax Free Video Editor In for 2024</u></a></li>
 </ul></div>
 
