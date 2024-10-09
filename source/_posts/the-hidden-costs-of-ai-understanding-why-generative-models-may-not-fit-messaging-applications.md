@@ -1,7 +1,7 @@
 ---
 title: "The Hidden Costs of AI: Understanding Why Generative Models May Not Fit Messaging Applications"
-date: 2024-09-29T19:09:52.830Z
-updated: 2024-10-03T19:05:39.502Z
+date: 2024-10-06T23:41:57.349Z
+updated: 2024-10-08T20:11:16.795Z
 tags:
   - chatgpt
   - open-ai
@@ -72,10 +72,16 @@ thumbnail: https://thmb.techidaily.com/d50bbc29912cb43ec93cd3720edb01228fbd6306e
 ![Extracting audio from a video file with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/extracting-audio-from-a-video-file.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  While the Code Interpreter plugin can perform a lot of video-related operations, practical usage, at least for now, is quite limited due to the limited size of video it can handle. It's not very clear the maximum size of video files Code Interpreter can handle, but you'll typically run into memory issues with larger videos. For the best results, use smaller video files, with lower resolutions whenever possible.
@@ -92,13 +98,6 @@ thumbnail: https://thmb.techidaily.com/d50bbc29912cb43ec93cd3720edb01228fbd6306e
 * Trim an audio to a specific time range.
 * Overlay an audio file with another audio
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Read, Edit and Create Documents
 
  File handling is undoubtedly one of Code Interpreter's strongest suits. The capabilities of the Code Interpreter extend far beyond just processing image, audio and video files.
@@ -110,6 +109,13 @@ thumbnail: https://thmb.techidaily.com/d50bbc29912cb43ec93cd3720edb01228fbd6306e
  Or, read the data from a Word file and then extract specific data meeting a certain criterion to create a spreadsheet file. You can also create graphs, charts and other data visualization elements from documents.
 
  Think of any twist you can encounter in real life usage. If it involves creating or reading from documents of any kind, there's a good chance the Code Interpreter plugin will be able to deal with it.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Write and Analyze Code
 
@@ -126,16 +132,10 @@ thumbnail: https://thmb.techidaily.com/d50bbc29912cb43ec93cd3720edb01228fbd6306e
  Of course, when tested, the project worked flawlessly after it added the feature. It might run into obstacles sometimes, but undoubtedly, working with a large code base is one of the most useful functionalities of the Code Interpreter feature.
 
 <!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Extract Text from Images (Optical Character Recognition)
@@ -145,10 +145,10 @@ thumbnail: https://thmb.techidaily.com/d50bbc29912cb43ec93cd3720edb01228fbd6306e
  It can also handle distorted or blurry text as well as text in different fonts, sizes, styles, orientations, and colors. You could, say, ask ChatGPT to create an MS Word document from a scanned copy of a document you uploaded, and you'll get a result in seconds.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## A Powerful Tool at Your Fingertips
@@ -172,20 +172,22 @@ thumbnail: https://thmb.techidaily.com/d50bbc29912cb43ec93cd3720edb01228fbd6306e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-master-the-art-of-steadiness-in-imaging/"><u>[New] 2024 Approved Master the Art of Steadiness in Imaging</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-guide-to-structuring-youtube-content-with-separate-chapters/"><u>[Updated] Guide to Structuring YouTube Content with Separate Chapters</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-simulate-hand-held-camera-effects-in-photoshop/"><u>[Updated] Simulate Hand-Held Camera Effects in Photoshop</u></a></li>
-<li><a href="https://driver-install.techidaily.com/download-gaomon-s620-for-optimal-performance/"><u>Download Gaomon S620 for Optimal Performance</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/easy-guide-how-to-bypass-samsung-galaxy-a15-5g-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Samsung Galaxy A15 5G FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-infinix-hot-40i-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Infinix Hot 40i Phones with/without a PC</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-tecno-camon-30-pro-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Tecno Camon 30 Pro 5G Phones with/without a PC</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-zte-nubia-z60-ultra-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass ZTE Nubia Z60 Ultra FRP</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-infinix-smart-8-hd-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Infinix Smart 8 HD FRP In 3 Different Ways</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/laughable-film-grabber-review/"><u>Laughable Film Grabber Review</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/premier-imagery-unboxing-analysis-for-2024/"><u>Premier Imagery Unboxing Analysis for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/protecting-melodies-on-instagram/"><u>Protecting Melodies on Instagram</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-xiaomi-redmi-note-12-4g-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Xiaomi Redmi Note 12 4G FRP</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/troubleshooting-tips-for-a-stable-windows-11-photo-experience/"><u>Troubleshooting Tips for a Stable Windows 11 Photo Experience</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-impressive-array-of-mobile-text-options/"><u>[New] In 2024, Impressive Array of Mobile Text Options</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-top-net-finds-high-quality-alarm-tones/"><u>2024 Approved Top Net Finds High-Quality Alarm Tones</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/-your-channels-financial-success/"><u>Audit Your Channel's Financial Success</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/demystifying-generative-algorithms-and-ai-systems/"><u>Demystifying Generative Algorithms and AI Systems</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-xiaomi-13t-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Xiaomi 13T FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-installer-error-on-nvidia/"><u>Fixed Installer Error on NVIDIA</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-vivo-s17e-frp-by-drfone-android/"><u>Full Guide to Bypass Vivo S17e FRP</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-xiaomi-redmi-12-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Xiaomi Redmi 12 5G Phones with/without a PC</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-11-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 11 Without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-xiaomi-redmi-k70-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Xiaomi Redmi K70</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-consolidated-calendar-management-merge-mobile-and-pc-zoom-dates/"><u>In 2024, Consolidated Calendar Management Merge Mobile and PC Zoom Dates</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-honor-x9a-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Honor X9a FRP Locks</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-honor-magic-v2-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Honor Magic V2 Phones with/without a PC</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-tecno-spark-10-4gwithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Tecno Spark 10 4Gwith/without a PC</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-itel-s23plus-by-drfone-android/"><u>In 2024, How to Bypass FRP from Itel S23+?</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722998864296-persistently-unresponsive-heres-how-to-fix-the-latest-freezing-issues-in-new-world/"><u>Persistently Unresponsive? Here's How to Fix the Latest Freezing Issues in New World</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-troubleshooting-clipboard-problems-on-windows-11-computers/"><u>Resolved! Troubleshooting Clipboard Problems on Windows 11 Computers</u></a></li>
 </ul></div>
 
