@@ -1,7 +1,7 @@
 ---
 title: "Syma S111G Quadcopter Overview: Affordable Entertainment in Small Spaces"
-date: 2024-10-10T02:58:07.916Z
-updated: 2024-10-15T10:21:55.601Z
+date: 2024-10-15T18:13:23.953Z
+updated: 2024-10-20T17:10:27.188Z
 categories:
   - BestProducts
 description: "This Article Describes Syma S111G Quadcopter Overview: Affordable Entertainment in Small Spaces"
@@ -40,23 +40,9 @@ Lifewire / Emily Isaacs
 
 4.9
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## LG OLED C9 65" 4K Smart TV
 
 ![LG OLED C9 65-inch 4K Smart TV](https://www.lifewire.com/thmb/-RQ5Ui3BjE0KxHGHYE-UjNz7EY4=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG-65inch-4K-TV_1LW4142020_HeroSquare-b4b1522941d44a18b75a586155788477.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Lifewire / Emily Isaacs
 
@@ -97,16 +83,10 @@ Lifewire / Emily Isaacs
 ![LG OLED C9 65-inch 4K Smart TV](https://www.lifewire.com/thmb/mxKfDJGuIKYcsSIQoKfzwDbYYmg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG-65inch-4K-TV_1LW4142020_02-3da87ff8439343f691cf02e9234d1f04.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Lifewire / Emily Isaacs
@@ -125,6 +105,19 @@ Lifewire / Emily Isaacs
 
  Once the TV has been installed, LG’s WebOS guides the first-time setup process by prompting inputs for settings ranging from time zone and language up to and including any necessary user agreements. The LG C9 will complete a scan in order to identify the devices and then you’re free to customize the TV’s settings by pressing the gear button on the LG Magic Remote. The first setting we changed was the Auto Power Saving (APS) picture mode, which reduces power use by dimming the brightness of the TV. The other important setting to disable is TruMotion, which smooths motion in TV shows and movies by altering the frame rate of the programming. If your LG’s picture looks a bit too much like a soap opera, chances are you need to disable this setting.
 
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Image Quality: Stunning picture**
 
  The image quality on the LG C9 is, frankly, stunning thanks in large part to its excellent contrast and wide range of colors, combined with the OLED panel’s ability to turn individual pixels on and off. Even from wide viewing angles, the 4K picture maintains its excellence, with limited washing out and color loss.
@@ -135,6 +128,13 @@ Lifewire / Emily Isaacs
 
  These pictures are further enhanced with LG’s α9 Gen 2 intelligent processor, new to 2019’s model. It excels at drawing out detail and correcting quality discrepancies within the picture, such as banding which creates textures and strips in areas of the screen that would otherwise be smooth. This is particularly important given the large screen size and high resolution. While it’s not as bright as an LED TV since it lacks backlighting, it doesn’t need it as the TV already possesses excellent color, a change here would risk washing out the inky blacks on the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Audio: Better than expected**
 
  While OLED TVs aren’t generally known for their great sound quality, the LG C9 has a surprisingly good sound system all things considered—but a soundbar would still be recommended. Audio in TV or movies is generally good, but it struggles to regulate loud and soft noises in a scene. Streaming Lizzo’s_Cuz I Love You_ on Spotify produces a surprising depth of sound, but it’s simply not comparable to a more robust system that a soundbar or home theater system would provide.
@@ -142,13 +142,20 @@ Lifewire / Emily Isaacs
 ![LG OLED C9 65-inch 4K Smart TV](https://www.lifewire.com/thmb/SZUaFESJi6OZubIeLdK1e9L9FEM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG-65inch-4K-TV_1LW4142020_04-c559e4cc6de64f0c8baf4470f883dd9e-4844a7694fb74eb2904f1128ba93f760.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Lifewire / Emily Isaacs
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Software: Smooth and easy to use**
 
@@ -157,13 +164,6 @@ Lifewire / Emily Isaacs
  In addition to the WebOS software, the LG C9 also comes with[Google Assistant](https://www.lifewire.com/what-is-google-assistant-4120911) as well as[Amazon’s Alexa](https://www.lifewire.com/amazon-alexa-voice-assistant-4152107) . It makes it easy to search content, switch between apps and features, or check the weather, among other things. These controls extend into your home as well, enabling you to make use of any basic home control features already in place like updating the temperature on your Nest Smart Thermostat. You simply choose which assistant you want at a given time by pressing either the Amazon button on the Magic Remote to toggle Alexa or the microphone button to toggle Google Assistant.
 
  In addition to the WebOS software, the LG C9 also comes with Google Assistant as well as Amazon’s Alexa. It makes it easy to search content, switch between apps and features, or check the weather, among other things.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Price: A premium price for a premium TV**
 
@@ -232,16 +232,22 @@ Lifewire / Emily Isaacs
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-simplified-techniques-for-crafting-captions-on-fb-videos/"><u>[Updated] In 2024, Simplified Techniques for Crafting Captions on FB Videos</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/a-comprehensive-list-of-frames-to-upgrade-your-photos-on-instagram/"><u>A Comprehensive List of Frames to Upgrade Your Photos on Instagram</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-zte-nubia-flip-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your ZTE Nubia Flip 5G</u></a></li>
-<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-vivo-y78plus-t1-edition-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Vivo Y78+ (T1) Edition Phones with/without a PC</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-samsung-galaxy-a15-5g-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Samsung Galaxy A15 5G FRP In 3 Different Ways</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-honor-90-lite-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Honor 90 Lite</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-oppo-reno-11-pro-5g-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Oppo Reno 11 Pro 5G via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-the-art-of-profit-driven-online-shopping-blogosynthesis/"><u>In 2024, The Art of Profit-Driven Online Shopping Blogosynthesis</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-infinix-smart-8-plus-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Infinix Smart 8 Plus Phone FRP Lock</u></a></li>
-<li><a href="https://windows11.techidaily.com/step-by-step-windows-11-setup-without-internet/"><u>Step-by-Step: Windows 11 Setup Without Internet</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-pinpointing-instagram-follower-losses-on-the-fly/"><u>[New] Pinpointing Instagram Follower Losses on the Fly</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-simplified-transfer-tactics-from-iphone-to-computer/"><u>[New] Simplified Transfer Tactics From iPhone to Computer</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-essential-techniques-to-soften-sound-in-fl-studio/"><u>[Updated] In 2024, Essential Techniques to Soften Sound in FL Studio</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-transforming-ideas-into-viral-video-hits-on-youtube/"><u>[Updated] In 2024, Transforming Ideas Into Viral Video Hits on YouTube</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-pioneering-3d-design-avoiding-common-pitfalls-in-illustrator/"><u>2024 Approved Pioneering 3D Design Avoiding Common Pitfalls in Illustrator</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-vivo-y36i-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Vivo Y36i</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-realme-c55-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Realme C55</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/delving-into-sns-hdr-pros-merits-and-peer-comparisons-for-2024/"><u>Delving Into SNS HDR Pro's Merits & Peer Comparisons for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/essential-guide-to-spanish-salutations-and-greeting-phrases-top-10-must-know-expressions/"><u>Essential Guide to Spanish Salutations & Greeting Phrases: Top 10 Must-Know Expressions</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-on-infinix-hot-40-by-drfone-android/"><u>How to Bypass FRP on Infinix Hot 40?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-infinix-hot-40-pro-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Infinix Hot 40 Pro Devices</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-full-guide-to-bypass-zte-nubia-flip-5g-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass ZTE Nubia Flip 5G FRP</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-xiaomi-redmi-13cwithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Xiaomi Redmi 13Cwith/without a PC</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-vivo-y100-5g-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Vivo Y100 5G FRP</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-tecno-spark-20-proplus-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Tecno Spark 20 Pro+ Phone FRP Lock</u></a></li>
+<li><a href="https://driver-download.techidaily.com/mastering-window-driver-revisions-tips-and-tricks-for-seamless-installation/"><u>Mastering Window Driver Revisions: Tips and Tricks for Seamless Installation</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/what-to-know-about-the-new-iphone-17-expected-costs-release-schedule-tech-specs-and-hidden-gossip/"><u>What to Know About the New iPhone 17: Expected Costs, Release Schedule, Tech Specs & Hidden Gossip</u></a></li>
 </ul></div>
 
