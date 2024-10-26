@@ -1,7 +1,7 @@
 ---
 title: "The Hidden Costs of AI: Understanding Why Generative Models May Not Fit Messaging Applications"
-date: 2024-10-14T23:16:54.554Z
-updated: 2024-10-20T21:14:01.099Z
+date: 2024-10-21T18:14:12.755Z
+updated: 2024-10-26T16:09:10.691Z
 tags:
   - chatgpt
   - open-ai
@@ -67,9 +67,23 @@ thumbnail: https://thmb.techidaily.com/d50bbc29912cb43ec93cd3720edb01228fbd6306e
 
 ![Things you can do with a video using ChatGPT Code Interpreter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/things-you-can-do-with-a-video-using-chatgpt-code-interpreter.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In the example below, we asked ChatGPT to extract the audio from a small video file, and it did so in just a few seconds. The resulting audio file which was available for download was very crisp and clear.
 
 ![Extracting audio from a video file with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/extracting-audio-from-a-video-file.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  While the Code Interpreter plugin can perform a lot of video-related operations, practical usage, at least for now, is quite limited due to the limited size of video it can handle. It's not very clear the maximum size of video files Code Interpreter can handle, but you'll typically run into memory issues with larger videos. For the best results, use smaller video files, with lower resolutions whenever possible.
 
@@ -85,13 +99,6 @@ thumbnail: https://thmb.techidaily.com/d50bbc29912cb43ec93cd3720edb01228fbd6306e
 * Trim an audio to a specific time range.
 * Overlay an audio file with another audio
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Read, Edit and Create Documents
 
  File handling is undoubtedly one of Code Interpreter's strongest suits. The capabilities of the Code Interpreter extend far beyond just processing image, audio and video files.
@@ -105,10 +112,10 @@ thumbnail: https://thmb.techidaily.com/d50bbc29912cb43ec93cd3720edb01228fbd6306e
  Think of any twist you can encounter in real life usage. If it involves creating or reading from documents of any kind, there's a good chance the Code Interpreter plugin will be able to deal with it.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Write and Analyze Code
@@ -126,10 +133,10 @@ thumbnail: https://thmb.techidaily.com/d50bbc29912cb43ec93cd3720edb01228fbd6306e
  Of course, when tested, the project worked flawlessly after it added the feature. It might run into obstacles sometimes, but undoubtedly, working with a large code base is one of the most useful functionalities of the Code Interpreter feature.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Extract Text from Images (Optical Character Recognition)
@@ -137,13 +144,6 @@ thumbnail: https://thmb.techidaily.com/d50bbc29912cb43ec93cd3720edb01228fbd6306e
  Have an image that contains text you need to copy? Code Interpreter can handle that with ease. Simply upload the image and ask ChatGPT to extract the text. It works great on screenshots, pictures of documents, images with superimposed text, and more.
 
  It can also handle distorted or blurry text as well as text in different fonts, sizes, styles, orientations, and colors. You could, say, ask ChatGPT to create an MS Word document from a scanned copy of a document you uploaded, and you'll get a result in seconds.
-
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## A Powerful Tool at Your Fingertips
 
@@ -166,24 +166,24 @@ thumbnail: https://thmb.techidaily.com/d50bbc29912cb43ec93cd3720edb01228fbd6306e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-figure-skating-highlights-2022/"><u>[New] 2024 Approved Figure Skating Highlights 2022</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-professional-editors-guide-fcps-top-10-plugins/"><u>[New] 2024 Approved Professional Editor’s Guide FCP's Top 10 Plugins</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-easy-on-methods-for-fish-voice-change-using-windows-platforms/"><u>[New] In 2024, Easy-On Methods for Fish Voice Change Using Windows Platforms</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-exploring-new-worlds-top-10-sci-fi-metaverse-movie-adventures/"><u>[Updated] In 2024, Exploring New Worlds Top 10 Sci-Fi Metaverse Movie Adventures</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-photobooth-frustration-unfreezing-video-playback-for-2024/"><u>[Updated] Photobooth Frustration Unfreezing Video Playback for 2024</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-channel-name-inspiration-strategies-for-success/"><u>2024 Approved Channel Name Inspiration Strategies for Success</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/a-beginners-guide-to-producing-and-polishing-haul-videos-for-2024/"><u>A Beginner's Guide to Producing & Polishing Haul Videos for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-itel-p55plus-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Itel P55+ FRP Bypass Instantly</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-vivo-y200-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Vivo Y200</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/easy-guide-how-to-bypass-honor-magic-6-lite-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Honor Magic 6 Lite FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-vivo-y55s-5g-2023-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Vivo Y55s 5G (2023) FRP Locks</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-itel-s23plus-frp-by-drfone-android/"><u>Full Guide to Bypass Itel S23+ FRP</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/hassle-free-windows-drivers-quick-and-easy-setup-guide/"><u>Hassle-Free Windows Drivers: Quick & Easy Setup Guide</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-realme-gt-5-pro-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Realme GT 5 Pro FRP Bypass Instantly</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-tecno-camon-20-premier-5g-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Tecno Camon 20 Premier 5G FRP Bypass Instantly</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-realme-narzo-60-pro-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Realme Narzo 60 Pro 5G</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/latest-guide-how-to-bypass-honor-magic-5-pro-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Honor Magic 5 Pro FRP Without Computer</u></a></li>
-<li><a href="https://win-dash.techidaily.com/mastering-the-art-of-printer-compatibility-install-latest-epson-wf-7nf020-drivers-for-windows/"><u>Mastering the Art of Printer Compatibility: Install Latest Epson WF-7nf020 Drivers for Windows</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-ultimate-guide-to-leveraging-buysellads-for-successful-blogging-monetization/"><u>The Ultimate Guide to Leveraging BuySellAds for Successful Blogging Monetization</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-easy-process-invert-video-order-using-vlc-application/"><u>[Updated] Easy Process Invert Video Order Using VLC Application</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-premier-picture-driven-journey-maker/"><u>2024 Approved Premier Picture-Driven Journey Maker</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-select-macos-big-sur-11-apps-for-seamless-video-editing/"><u>2024 Approved Select MacOS Big Sur 11 Apps for Seamless Video Editing</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-xiaomi-13t-pro-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Xiaomi 13T Pro FRP Bypass Instantly</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-vivo-s17-pro-by-drfone-android/"><u>How to Bypass FRP from Vivo S17 Pro?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-infinix-hot-40-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Infinix Hot 40 FRP In 3 Different Ways</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-tecno-phantom-v-flip-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Tecno Phantom V Flip FRP In 3 Different Ways</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-fire-up-the-connections-maintaining-long-lasting-streaks/"><u>In 2024, Fire Up the Connections Maintaining Long-Lasting Streaks</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-infinix-hot-40-pro-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Infinix Hot 40 Pro Phones with/without a PC</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-infinix-note-30-vip-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Infinix Note 30 VIP Phones with/without a PC</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-zte-axon-40-lite-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass ZTE Axon 40 Lite FRP</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-tecno-pop-7-pro-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Tecno Pop 7 Pro ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://change-location.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Samsung Galaxy S24+ | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-permanently-deleted-or-erased-excel-2019-files-for-free-by-stellar-guide/"><u>Recover Permanently Deleted or Erased Excel 2019 Files for Free</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/swift-ways-to-reorder-youtube-watchlist-alphabetically-for-2024/"><u>Swift Ways to Reorder YouTube Watchlist Alphabetically for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-ultimate-guide-to-synchronized-screen-time-on-yt-for-2024/"><u>The Ultimate Guide to Synchronized Screen Time on YT for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-updated-method-to-bypass-tecno-spark-20-proplus-frp-by-drfone-android/"><u>The Updated Method to Bypass Tecno Spark 20 Pro+ FRP</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ultimate-drone-cinematography-team-the-best-10/"><u>Ultimate Drone Cinematography Team The Best 10</u></a></li>
+<li><a href="https://media-tips.techidaily.com/ultimate-guide-transferring-videos-to-your-playstation-portable-psp-with-easy-to-follow-steps/"><u>Ultimate Guide: Transferring Videos to Your PlayStation Portable (PSP) with Easy-to-Follow Steps</u></a></li>
 </ul></div>
 
