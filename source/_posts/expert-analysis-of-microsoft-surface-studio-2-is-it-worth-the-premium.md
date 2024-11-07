@@ -1,7 +1,7 @@
 ---
 title: "Expert Analysis of Microsoft Surface Studio 2: Is It Worth the Premium?"
-date: 2024-10-27T18:30:47.979Z
-updated: 2024-11-01T08:02:55.701Z
+date: 2024-11-03T16:30:53.902Z
+updated: 2024-11-06T22:36:40.382Z
 categories:
   - BestProducts
 description: "This Article Describes Expert Analysis of Microsoft Surface Studio 2: Is It Worth the Premium?"
@@ -64,6 +64,13 @@ Lifewire / Emily Isaacs
 
  Microsoft is no stranger to computers and their accessories, and it’s obvious with the Microsoft Surface Keyboard that they’ve put a considerable amount of thought into its design. This[ergonomic keyboard](https://www.lifewire.com/best-ergonomic-keyboards-4147386) is not only built with high-quality materials to ensure its longevity, but it’s comfortable and intuitive to use. We tested this keyboard over the period of a week, read on to see what we found.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Design: Sleek and comfortable**
 
  The Surface is a sleek ergonomic keyboard and a welcome addition to the Microsoft family. Like many ergonomic keyboards, it’s designed to help your wrists sit at an instinctive, comfortable angle that encourages natural movement to prevent[repetitive stress injuries](https://www.lifewire.com/game-play-and-streaming-4781449) . The keys have a slight divot in the center so fingers naturally conform to their shape, making the keys comfortable and easy to type on.
@@ -80,13 +87,6 @@ Lifewire / Emily Isaacs
 
  Unlike some ergonomic keyboards that can hog space, forcing users to overreach for mice which can lead to shoulder injuries in place of wrist injuries, the Surface is wide enough that your hands sit comfortably but small enough that it’s easy to reach for your mouse when you want it. It’s the Goldilocks of keyboards with a fit that feels just right.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Setup Process: Easy for PCs**
 
  The Microsoft Surface Ergonomic Keyboard arrives in a mid-size box containing the Surface itself as well as a small white box tucked underneath it. This contains a product information pamphlet and quick start setup guide.
@@ -97,16 +97,16 @@ Lifewire / Emily Isaacs
 
  Lifewire / Emily Isaacs
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Features: Well-conceived function keys**
 
  The Surface has function keys for pausing multimedia, skipping forward or backward in multimedia, increasing or decreasing volume, muting volume, increasing brightness or decreasing brightness, and several others. It really feels like Microsoft thought of every way their users interact with keyboards and tried to meet their needs.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Battery Life: Excellent, but at the expense of backlighting**
 
@@ -118,19 +118,6 @@ Lifewire / Emily Isaacs
 
  Retailing for $129 (MSRP) or around $99 on Amazon, the Surface is a pricey little keyboard. Between the quality of the build materials, the comfort of the keyboard’s design, its wireless capabilities, and its great battery life, the Surface is a worthwhile investment for people who spend a significant amount of time in front of a PC. If you don’t spend much time on your PC, however, a cheaper, non-ergonomic model may be a better fit.
 
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Microsoft Surface Ergonomic Keyboard vs. Microsoft Sculpt Ergonomic Keyboard**
 
  The Microsoft Sculpt Ergonomic Keyboard is a direct competitor to the Surface. Interestingly, the Sculpt seems to have inspired a significant portion of the Surface’s design, with the Surface feeling like a fancier version of the Sculpt thanks to its quality materials and matte finish. This difference shows in their price points as well, with the Sculpt generally retailing for around $80 whereas the Surface retails for around $129 (MSRP) or $100 on Amazon.
@@ -138,6 +125,19 @@ Lifewire / Emily Isaacs
 [Microsoft Sculpt Ergonomic Keyboard Review](https://www.lifewire.com/microsoft-sculpt-ergonomic-keyboard-review-4780274)
 
 ![Microsoft Surface Ergonomic Keyboard](https://www.lifewire.com/thmb/V-eFQKJrpei_UnaKMYDEWLLNsYw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Microsoft_ErgoKeyboards_4LW4147386_02-4fa6aa53c9d249a6900cb4058b084301.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Emily Isaacs
 
@@ -156,10 +156,16 @@ Lifewire / Emily Isaacs
  The Microsoft Surface Ergonomic Keyboard is a quality, wireless ergonomic keyboard that’s well worth the investment if you spend a significant portion of your time typing on your computer. It’s a splurge to be sure, but it’s worth the price for the quality you receive.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Specs
@@ -193,19 +199,24 @@ Lifewire / Emily Isaacs
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-sleep-aid-asmr-techniques-unveiled/"><u>[Updated] 2024 Approved Sleep Aid ASMR Techniques Unveiled</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-streamline-your-online-listening-experience-with-direct-capture/"><u>[Updated] Streamline Your Online Listening Experience with Direct Capture</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/deciphering-chatgpts-role-in-modern-tech-how-generative-ai-is-shaping-the-future/"><u>Deciphering ChatGPT's Role in Modern Tech: How Generative AI Is Shaping the Future</u></a></li>
-<li><a href="https://win-blog.techidaily.com/expert-tips-for-a-smooth-run-of-rainbow-six-extraction-on-pc-setups/"><u>Expert Tips for a Smooth Run of Rainbow Six Extraction on PC Setups</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/free-online-converter-transform-mp4-to-mpeg-with-movavi-scaricabile/"><u>Free Online Converter: Transform MP4 to MPEG with Movavi - Scaricabile</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-vivo-s18-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Vivo S18 FRP In 3 Different Ways</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-to-infinix-zero-5g-2023-turbo-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Infinix Zero 5G 2023 Turbo FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-google-pixel-7a-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Google Pixel 7a FRP Locks</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-the-updated-method-to-bypass-realme-gt-neo-5-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Realme GT Neo 5 FRP</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-the-updated-method-to-bypass-tecno-spark-20c-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Tecno Spark 20C FRP</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-vivo-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Vivo Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-watermark-free-tiktok-videos-top-online-removal-services/"><u>New 2024 Approved Watermark-Free TikTok Videos Top Online Removal Services</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/the-artisans-approach-to-archiving-facebook-discussions-for-2024/"><u>The Artisan's Approach to Archiving Facebook Discussions for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-itel-s23-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Itel S23 | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-orchestrating-a-personalized-tiktok-signoff/"><u>[New] Orchestrating A Personalized TikTok Signoff</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/beginners-pathway-to-grasping-hd-content-standards-for-2024/"><u>Beginner’s Pathway to Grasping HD Content Standards for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/comment-transformer-votre-nsv-en-video-mpeg-gratuite-en-ligne-guide-detaille-de-moveave/"><u>Comment Transformer Votre NSV en Vidéo MPEG Gratuite en Ligne - Guide Détaillé De Moveave</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-how-to-bypass-google-pixel-8-pro-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Google Pixel 8 Pro FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://win11.techidaily.com/five-keys-to-a-streamlined-firewall-configuration/"><u>Five Keys to a Streamlined Firewall Configuration</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-honor-x8b-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Honor X8b FRP Locks</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-vivo-x90s-frp-by-drfone-android/"><u>Full Guide to Bypass Vivo X90S FRP</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-on-tecno-spark-20-pro-by-drfone-android/"><u>How to Bypass FRP on Tecno Spark 20 Pro?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-vivo-y27s-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Vivo Y27s FRP In 3 Different Ways</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-nubia-red-magic-8s-pro-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Nubia Red Magic 8S Pro Devices</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-the-speakers-guide-to-voiceover-on-microsoft-ppt/"><u>In 2024, The Speaker's Guide to Voiceover on Microsoft PPT</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-itel-p40-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Itel P40 Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-vivo-y36-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Vivo Y36 Phone FRP Lock</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-vivo-y78tfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Vivo Y78tFRP Lock</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mp42023/"><u>MP4ビデオコーデック基準に合ったレベル詳細とプロファイルの適用方法2023年度版</u></a></li>
+<li><a href="https://fox-that.techidaily.com/qr-codes-not-reading-properly-on-your-iphone-attempt-these-10-remedies/"><u>QR Codes Not Reading Properly on Your iPhone? Attempt These 10 Remedies</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/sensorylingua-the-sensorial-approach-to-language-learning/"><u>SensoryLingua: The Sensorial Approach to Language Learning</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlock-problem-solving-power-correct-5-iphone-faults-using-dfu-setup/"><u>Unlock Problem-Solving Power: Correct 5 iPhone Faults Using DFU Setup</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/upcoming-release-apples-new-lineup-of-macbook-air-ipad-pro-and-ipad-air-set-for-possible-march-debut-insights-from-zdnet/"><u>Upcoming Release: Apple's New Lineup of MacBook Air, iPad Pro, & iPad Air Set for Possible March Debut - Insights From ZDNet</u></a></li>
 </ul></div>
 

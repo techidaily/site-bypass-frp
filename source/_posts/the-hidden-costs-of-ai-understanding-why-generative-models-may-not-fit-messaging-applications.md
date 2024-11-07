@@ -1,7 +1,7 @@
 ---
 title: "The Hidden Costs of AI: Understanding Why Generative Models May Not Fit Messaging Applications"
-date: 2024-10-24T21:22:26.193Z
-updated: 2024-11-01T09:52:35.751Z
+date: 2024-11-01T20:20:51.931Z
+updated: 2024-11-07T05:58:55.500Z
 tags:
   - chatgpt
   - open-ai
@@ -68,15 +68,22 @@ thumbnail: https://thmb.techidaily.com/d50bbc29912cb43ec93cd3720edb01228fbd6306e
 ![Things you can do with a video using ChatGPT Code Interpreter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/things-you-can-do-with-a-video-using-chatgpt-code-interpreter.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In the example below, we asked ChatGPT to extract the audio from a small video file, and it did so in just a few seconds. The resulting audio file which was available for download was very crisp and clear.
 
 ![Extracting audio from a video file with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/extracting-audio-from-a-video-file.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  While the Code Interpreter plugin can perform a lot of video-related operations, practical usage, at least for now, is quite limited due to the limited size of video it can handle. It's not very clear the maximum size of video files Code Interpreter can handle, but you'll typically run into memory issues with larger videos. For the best results, use smaller video files, with lower resolutions whenever possible.
 
@@ -92,13 +99,6 @@ thumbnail: https://thmb.techidaily.com/d50bbc29912cb43ec93cd3720edb01228fbd6306e
 * Trim an audio to a specific time range.
 * Overlay an audio file with another audio
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Read, Edit and Create Documents
 
  File handling is undoubtedly one of Code Interpreter's strongest suits. The capabilities of the Code Interpreter extend far beyond just processing image, audio and video files.
@@ -110,19 +110,6 @@ thumbnail: https://thmb.techidaily.com/d50bbc29912cb43ec93cd3720edb01228fbd6306e
  Or, read the data from a Word file and then extract specific data meeting a certain criterion to create a spreadsheet file. You can also create graphs, charts and other data visualization elements from documents.
 
  Think of any twist you can encounter in real life usage. If it involves creating or reading from documents of any kind, there's a good chance the Code Interpreter plugin will be able to deal with it.
-
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Write and Analyze Code
 
@@ -138,6 +125,13 @@ thumbnail: https://thmb.techidaily.com/d50bbc29912cb43ec93cd3720edb01228fbd6306e
 
  Of course, when tested, the project worked flawlessly after it added the feature. It might run into obstacles sometimes, but undoubtedly, working with a large code base is one of the most useful functionalities of the Code Interpreter feature.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Extract Text from Images (Optical Character Recognition)
 
  Have an image that contains text you need to copy? Code Interpreter can handle that with ease. Simply upload the image and ask ChatGPT to extract the text. It works great on screenshots, pictures of documents, images with superimposed text, and more.
@@ -145,10 +139,10 @@ thumbnail: https://thmb.techidaily.com/d50bbc29912cb43ec93cd3720edb01228fbd6306e
  It can also handle distorted or blurry text as well as text in different fonts, sizes, styles, orientations, and colors. You could, say, ask ChatGPT to create an MS Word document from a scanned copy of a document you uploaded, and you'll get a result in seconds.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## A Powerful Tool at Your Fingertips
@@ -172,20 +166,16 @@ thumbnail: https://thmb.techidaily.com/d50bbc29912cb43ec93cd3720edb01228fbd6306e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-beautys-buzz-youtube-gurus-predicted/"><u>[New] In 2024, Beauty's Buzz YouTube Gurus Predicted</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-prime-list-of-affordable-high-definition-cameras/"><u>[Updated] 2024 Approved Prime List of Affordable High Definition Cameras</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-best-practices-for-creating-compelling-hash-tags-on-facebook-for-2024/"><u>[Updated] Best Practices for Creating Compelling Hash Tags on Facebook for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-art-of-creating-youtube-video-thumbnails-for-2024/"><u>[Updated] The Art of Creating YouTube Video Thumbnails for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-charting-the-top-8-online-photo-hybrid-creator/"><u>2024 Approved Charting the Top 8 Online Photo Hybrid Creator</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-xiaomi-13-ultra-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Xiaomi 13 Ultra</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210904188-9781088203330-gagnez-les-batailles-de-la-vie-tous-les-jours-1243-regime/"><u>Gagnez les batailles de la vie tous les jours 12.4.3 Régime | Free Book</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-itel-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Itel Devices</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-honor-x7b-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Honor X7b to PC? | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-xiaomi-redmi-13c-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Xiaomi Redmi 13C FRP</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-zte-blade-a73-5g-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass ZTE Blade A73 5G FRP</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-creating-captivating-visuals-with-diy-filming-methods/"><u>In 2024, Creating Captivating Visuals with DIY Filming Methods</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-vivo-s18-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Vivo S18 Phone FRP Lock</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/latest-guide-how-to-bypass-itel-p40-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Itel P40 FRP Without Computer</u></a></li>
-<li><a href="https://win-guides.techidaily.com/otbor-luchshih-agentstv-seo-v-birmingeme-velikobritaniya-na-2024-god-podrobnoe-rukovodstvo-dlya-seo-powersuite-polzovatelej/"><u>Отбор Лучших Агентств SEO В Бирмингеме (Великобритания) На 2024 Год: Подробное Руководство Для SEO PowerSuite Пользователей</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-essential-tips-for-pinning-friends-on-snapchat/"><u>[Updated] 2024 Approved Essential Tips for Pinning Friends on Snapchat</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-full-vision-media-the-smart-mcn-selection-process-for-2024/"><u>[Updated] Full Vision Media The Smart MCN Selection Process for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-essential-offline-ios-game-list-unplugged-fun-awaits/"><u>[Updated] In 2024, Essential Offline iOS Game List - Unplugged Fun Awaits</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/about-xiaomi-redmi-note-12r-frp-bypass-by-drfone-android/"><u>About Xiaomi Redmi Note 12R FRP Bypass</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/discovering-prime-places-for-pixel-soundtracks/"><u>Discovering Prime Places for Pixel Soundtracks</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-honor-play-8twithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Honor Play 8Twith/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-nokia-c22-by-drfone-android/"><u>How to Bypass FRP on Nokia C22?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-full-guide-to-bypass-vivo-x100-pro-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Vivo X100 Pro FRP</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-updated-method-to-bypass-xiaomi-mix-fold-3-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Xiaomi Mix Fold 3 FRP</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-online-sources-for-high-quality-vector-illustrations/"><u>In 2024, Top Online Sources for High-Quality Vector Illustrations</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-your-honor-70-lite-5g-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Honor 70 Lite 5G Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
 </ul></div>
 
