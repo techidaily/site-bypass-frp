@@ -1,7 +1,7 @@
 ---
 title: Is GSM Flasher ADB Legit? Full Review To Bypass Your Realme V30FRP Lock
-date: 2024-12-03T19:40:29.916Z
-updated: 2024-12-06T18:53:20.507Z
+date: 2024-12-11T19:21:44.400Z
+updated: 2024-12-12T16:29:31.488Z
 tags: 
   - unlock
   - bypass android frp
@@ -33,10 +33,6 @@ While the **GSM Flasher ADB Bypass FRP** boasts a visually appealing interface,
 
 ![GSM Flasher ADB Bypasser FRP tool download](https://images.wondershare.com/drfone/article/2024/01/gsm-flasher-adb-bypasser-frp-tool-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### GSM Flasher ADB Bypasser FRP compatibility list
 
 The GSM ADB FRP Tool is compatible with a wide range of Android devices and Windows operating systems. Here's the breakdown of its compatibility list:
@@ -48,6 +44,10 @@ Android 5.1 Lollipop, Android 6 Marshmallow, Android 7 Nougat, Android 8 Oreo, A
 **Windows:**
 
 Windows XP, Windows 7, Windows 8, Windows 10, Windows 11 (X32 and X62 bit).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Supported phone models
 
@@ -141,13 +141,13 @@ Now, your Android screen will display a notification to enable USB debugging. On
 
 ![Enable USB debugging on Android](https://images.wondershare.com/drfone/guide/remove-google-frp-unknown-os-6.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 On your computer, the next screen will show that the FRP lock is being removed from your Android device. Once it's successfully removed, a window will pop up saying it's done. Click "Done" if you've completed the process successfully.
 
 _**Tips:** Are you searching for a powerful FRP Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -217,6 +217,10 @@ If you have recently bought a used Realme V30 and don't know the Google account 
 
 The best tool in this scenario to use is [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/). With the help of this tool, you can back up the entire data of your Realme V30 to your computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Ensure a Stable Internet Connection
 
 A stable and reliable internet connection is vital for a smooth FRP bypass. Make sure your computer and Realme V30 are connected to the internet throughout the process. FRP bypassing will need you to download related files to complete the procedure.
@@ -236,6 +240,10 @@ Before attempting this method, ensure that you have access to the Google account
 - **Step 2:** When prompted to verify your Google account, enter the associated email address and password. Ensure that you have a working and high-speed Wi-Fi connection during this step.
 
 ![add the google account details](https://images.wondershare.com/drfone/article/2023/07/vivo-y20-frp-lock-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3:** After entering the correct Google account credentials, the Realme V30 device will verify the information. If the details are correct, FRP will be bypassed, and you will gain access to your Realme V30.
 
@@ -264,10 +272,6 @@ Start by installing Wondershare Dr.Fone on your computer, then launch the applic
 
 ![choose to remove google frp lock](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - Step 2: Select Remove Google FRP Lock To Proceed
 
 On the following screen, select "Vivo" as the targeted phone brand and click "Start." Wondershare Dr.Fone will now download the necessary driver required for Realme V30 FRP bypassing.
@@ -281,7 +285,7 @@ Once the driver download is complete, turn off your Realme V30 smartphone. Now, 
 ![start removing frp lock](https://images.wondershare.com/drfone/guide/remove-android-frp-lock-4.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 3: Using Combination File
@@ -296,10 +300,6 @@ The third method on the list for Realme V30 FRP bypass is using a combination fi
 - **Step 3:** Within Recovery Mode, select "Advanced Options," and on the following screen, choose "Reboot with adb." Now wait for your phone to turn on and later connect it to the computer with FRP unlock tool installed.
 
 ![choose reboot with adb](https://images.wondershare.com/drfone/article/2023/07/vivo-y20-frp-lock-8.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 4:** On the [Realme FRP lock](https://drfone.wondershare.com/unlock/vivo-password-unlock-tool.html) tool interface, tap any key and press enter to check if your device is properly connected. Now repeat the process once again and wait for your Realme V30 to reboot. Once the rebooting process is completed, check to confirm if the FRP lock has been bypassed.
 
@@ -317,6 +317,10 @@ It will also offer valuable tips to ensure a successful process. Moreover, it wi
 - **Unstable Internet Connection:** A stable internet connection is crucial during the FRP bypass process. Ensure your device is connected to the internet throughout the procedure and it is not unstable.
 - **Outdated Software:** Using outdated or incompatible tools may result in unsuccessful bypass attempts. Always ensure you are using the latest version of the tool or method.
 - **Device Compatibility:** Not all bypass methods are universally compatible with all Android devices. Ensure that the method you choose is intended for use with the Realme V30.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Tips To Ensure a Successful Bypass Process
 
@@ -356,10 +360,6 @@ Meanwhile, you must be asking if it's possible to bypass FRP on Realme V30 witho
 
 Below are the quick steps for Galaxy S8 or S8 Plus:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Step 1: Dial an emergency number and save it
 
 - 1\. Fire up your locked phone and connect it to a Wi-Fi network.
@@ -369,10 +369,6 @@ Below are the quick steps for Galaxy S8 or S8 Plus:
 - 5\. Next, click Answering and ending calls > Answer automatically. Now enable the toggle before using your two fingers to select “10 seconds” and “Customize.” You'll see a pop-up dialog where you'll click App Info > Call settings > Block numbers.
 
 ![block numbers](https://images.wondershare.com/drfone/article/2022/07/how-bypass-frp-on-android-9-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - 6\. Click Recent > Emergency number > Message icon.
 - 7\. Tap the Ellipsis icon and click Add or remove people. Enter random numbers before clicking the “+” button.
@@ -395,19 +391,23 @@ Below are the quick steps for Galaxy S8 or S8 Plus:
 
 ![sign in google account](https://images.wondershare.com/drfone/article/2022/07/how-bypass-frp-on-android-9-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - 15\. Navigate back to Settings and enable Google Play Services. Also, activate Find My Device. Now restart your phone and access it without FRP.
 
 Although this method can yield the desired results, it can be time-consuming and confusing if you're not a techie. So, read on to learn the easiest way to bypass FRP on any Samsung Realme V30 device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to bypass FRP Realme V30 with Dr.Fone – Screen Unlock (Android)?
 
 This method will teach us how to bypass FRP on Realme V30 devices like Galaxy S8 or S8 Plus. Here, you'll need a Wi-Fi internet, Mac or Windows PC, and a USB wire. You require a computer to install [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) and connect the program to your locked phone. Don't worry; it's a free FRP bypass program without those unwanted programs or malware. Besides Realme V30, Dr.Fone can also bypass Samsung FRP on Android 6/7/8/10/11/12/13.
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Dr.Fone - Screen Unlock (Android)
 
@@ -438,13 +438,13 @@ Follow these steps to bypass FRP on Realme V30 with Dr.Fone:
 
 ![enter pin](https://images.wondershare.com/drfone/guide/bypass-google-frp-on-android-6-9-10-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 6:** Hit the Skip button on the Google Sign-In page to successfully bypass FRP on your Samsung Realme V30 phone. And there it that!
 
 ![bypass frp on Realme V30](https://images.wondershare.com/drfone/guide/bypass-google-frp-on-samsung.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Note:** Bypassing FRP on your Samsung phone using Dr.Fone is undoubtedly quick and easy. However, only use this software to bypass FRP on your Samsung phone or if you have consent from the original owner. Don't bypass FRP if you're not sure about the original owner of the phone.
 
@@ -464,7 +464,7 @@ Follow these steps:
 - **Step 4:** Click Remove Account and then click Remove Account once again to confirm. That's it!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -480,22 +480,17 @@ See, you can quickly bypass FRP on Realme V30 with these methods. But remember t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-seamless-integration-of-snap-camera-in-video-conferencing-tools/"><u>[Updated] Seamless Integration of Snap Camera in Video Conferencing Tools</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/capture-perfection-5-expert-tips-for-games-and-live-footage/"><u>Capture Perfection 5 Expert Tips for Games & Live Footage</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/citing-generative-pre-trained-transformer-models-like-chatgpt-correctly/"><u>Citing Generative Pre-Trained Transformer Models Like ChatGPT Correctly</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-solutions-to-overcome-twitchs-dreaded-error/"><u>Comprehensive Solutions to Overcome Twitch's Dreaded Error</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-infinix-hot-40-pro-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Infinix Hot 40 Pro FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://win-superb.techidaily.com/easy-methods-to-move-your-pdf-files-from-iphone-to-ipad/"><u>Easy Methods to Move Your PDF Files From iPhone to iPad</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-xiaomi-14-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Xiaomi 14 Devices</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-samsung-galaxy-z-flip-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-about-tecno-pop-7-pro-frp-bypass-by-drfone-android/"><u>In 2024, About Tecno Pop 7 Pro FRP Bypass</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-infinix-note-30-pro-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Infinix Note 30 Pro Devices</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-vivo-v30-profrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Vivo V30 ProFRP Lock</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-honor-magic-5-lite-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Honor Magic 5 Lite Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-xiaomi-redmi-note-12-pro-4g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Xiaomi Redmi Note 12 Pro 4G FRP Bypass</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-tecno-phantom-v-flipfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Tecno Phantom V FlipFRP Lock</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/the-artisans-approach-to-profiling-brilliance/"><u>The Artisan's Approach to Profiling Brilliance</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/the-best-laptops-for-video-editing/"><u>The Best Laptops for Video Editing</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/ultimate-guide-to-resolving-high-latency-and-stutter-in-chivalry-2/"><u>Ultimate Guide to Resolving High Latency & Stutter in Chivalry 2</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-crafting-engaging-live-streamed-gaming-experiences/"><u>[Updated] 2024 Approved Crafting Engaging Live-Streamed Gaming Experiences</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-enhancing-cinematics-with-kinemasters-transition-magic/"><u>[Updated] In 2024, Enhancing Cinematics with Kinemaster's Transition Magic</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-jest-sculptor-undead-funnybots-for-2024/"><u>[Updated] Jest Sculptor Undead Funnybots for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-quick-tips-for-textual-overlay-in-vimeo-content/"><u>2024 Approved Quick Tips for Textual Overlay in Vimeo Content</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/about-poco-c65-frp-bypass-by-drfone-android/"><u>About Poco C65 FRP Bypass</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-zte-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your ZTE</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-xiaomi-redmi-k70-pro-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Xiaomi Redmi K70 Pro Devices</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-motorola-edge-40-pro-by-fonelab-android-recover-music/"><u>How to retrieve erased music from Motorola Edge 40 Pro</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-vivo-s17frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Vivo S17FRP Lock</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-fcpx-power-user-unlock-40-time-saving-keyboard-shortcuts-for-2024/"><u>New FCPX Power User Unlock 40 Time-Saving Keyboard Shortcuts for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/sketchgiggle-generate-chuckles-for-2024/"><u>SketchGiggle Generate Chuckles for 2024</u></a></li>
 </ul></div>
 
