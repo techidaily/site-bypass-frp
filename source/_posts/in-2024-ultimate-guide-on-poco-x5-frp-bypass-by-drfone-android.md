@@ -1,7 +1,7 @@
 ---
 title: In 2024, Ultimate Guide on Poco X5 FRP Bypass
-date: 2024-12-05T19:38:14.095Z
-updated: 2024-12-12T16:09:04.106Z
+date: 2024-12-15T05:52:37.420Z
+updated: 2024-12-21T05:51:37.514Z
 tags: 
   - unlock
   - bypass android frp
@@ -37,10 +37,6 @@ Sometimes you may need to do away with your old Poco phone after purchasing a br
 
 _**Important note**: Bypassing FRP is absolutely legal and easy too. But some users may look to bypass FRP on a stolen phone. That’s why we clarify that this post is strictly for educational purposes. Get the consent of the original owner of the phone before bypassing FRP._
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2: How to Bypass Google FRP on Poco Android 11 without PC
 
 Now that you have all the reasons to bypass **FRP on Poco X5** or any other model, let me introduce you to the best method to avoid this feature without a PC. [TechnoCare APK](https://www.technocareapk.com/) is an Android software that allows Poco users to bypass FRP on any Poco brand. It's straightforward; this app lets you create another Google Account on your locked Poco phone without unlocking it. In short, you'll link a new Google Account with a password that you can easily remember.
@@ -68,11 +64,19 @@ Now that you have all the reasons to bypass **FRP on Poco X5** or any other mode
 - **Step 11:** Navigate back to Settings, click Apps, and enable Google Play Services and Google Account Manager.
 - **Step 12:** Lastly, restart the locked phone and enjoy the services.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: How to Bypass All Poco Locked Screens without Password
 
 Unlocking FRP using TechnoCare APK is free, quick, and exciting. However, sometimes you may want to unlock your PIN, password, pattern, and other lock systems that you might have forgotten. In that case, use [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/). It's a desktop program that lets you unlock passwords, PINs, and patterns on Poco, Samsung, Nokia, OPPO, Xiaomi, and other Android phone brands.
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - Screen Unlock (Android)
 
@@ -92,10 +96,6 @@ Let's walk through the simple steps:
 
 ![home page](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 3:** Select the Poco X5 device brand Poco that you want to unlock the screen.
 
 ![select device model](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
@@ -108,10 +108,6 @@ Let's walk through the simple steps:
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/QWpE8NykOWc"></iframe>
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 4: How to Disable Google FRP Feature on Poco
 
 You don't always need to Factory Reset your phone before selling it or handing it over to someone else. Instead, you can manually disable the Activation Lock feature and let the new owner Factory Reset it by themselves. Follow me:
@@ -121,15 +117,15 @@ You don't always need to Factory Reset your phone before selling it or handing i
 - **Step 3:** Tap the Google Account you want to remove and tap the Ellipsis icon on the upper-right corner.
 - **Step 4:** Click Remove Account and press Ok to erase the Gmail account. You can remove all the linked accounts if you want.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 And that's the best **Poco Android 11 FRP bypass** method. With TechnoCare APK, you can quickly bypass APK by adding a different Google Account with an easy-to-remember password. Also, use [Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) to unblock PIN, password, pattern, TouchID, and FaceID on Poco and other Android brands. And another thing, you can manually disable FRP before selling or gifting your phone away. I hope this helps!
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -157,6 +153,10 @@ While the **GSM Flasher ADB Bypass FRP** boasts a visually appealing interface,
 
 ![GSM Flasher ADB Bypasser FRP tool download](https://images.wondershare.com/drfone/article/2024/01/gsm-flasher-adb-bypasser-frp-tool-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### GSM Flasher ADB Bypasser FRP compatibility list
 
 The GSM ADB FRP Tool is compatible with a wide range of Android devices and Windows operating systems. Here's the breakdown of its compatibility list:
@@ -179,6 +179,10 @@ Windows XP, Windows 7, Windows 8, Windows 10, Windows 11 (X32 and X62 bit).
 | **Intex** | Intex Aqua, Aqua Star 2, Aqua Power Plus, Aqua Y2 |
 | **Lenovo** | Lenovo Z2 Plus, Vibe K5, A2010, K5, Vibe, A6600, Lenovo A1000 |
 | **LG** | LG Aristo, LG stylo 3, LG K10, LG K20, LG Stylo 2, LG G6, LG G4, LG G5, LG G20, LG K20 Plus |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Pros and Cons of Using GSM Flasher ADB Bypass FRP Tool
 
@@ -210,10 +214,6 @@ After completing the tool download, employ a USB cable to connect your Poco X5. 
 Proceed by clicking "Remove FRP" on your computer. It's essential to be aware that this process will require a few minutes, so be patient until the tool successfully unlocks the FRP lock on your phone.
 
 ![How to use GSM Flasher ADB tool](https://images.wondershare.com/drfone/article/2024/01/gsm-flasher-adb-bypasser-frp-tool-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3. Quick and Easy Bypasser FRP Tool Alternative
 
@@ -247,10 +247,6 @@ Pick your Android device model and proceed by clicking the Start button.
 
 ![Select the Android device model](https://images.wondershare.com/drfone/guide/remove-android-frp-lock-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 4:** Choose the Android version.
 
 Now, specify your Android version. If you're unsure about the Android OS version on your Android or prefer the quickest method to eliminate the Google Lock, select the All Android versions (One-Click Removal) option. Click “Start” to continue.
@@ -262,10 +258,6 @@ Now, specify your Android version. If you're unsure about the Android OS version
 Follow on-screen instructions to open Emergency Call on your Android. Dial #0# to open a secret menu and click Next on your computer.
 
 ![Follow instructions to open emergency call](https://images.wondershare.com/drfone/guide/remove-google-frp-unknown-os-5.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 6:** Enable USB debugging.
 
@@ -282,6 +274,10 @@ _**Tips:** Are you searching for a powerful FRP Unlock tool? No worries as [Dr.F
 The **GSM Flasher ADB Bypasser FRP tool** offers a cost-free and versatile solution to bypass FRP locks on a range of Android devices. While it provides an effective means to unlock your device, you might need to consider its compatibility, potential legal implications, and the learning curve associated with its usage.
 
 As an alternative, tools like Dr.Fone can be explored for additional compatibility and ease of use. And, of course, the choice between these tools depends on your preferences and specific device requirements.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## About Poco X5 FRP Bypass
 
@@ -313,6 +309,10 @@ Step 6. Next, select Settings > Languages. If you are asked for the Google Accou
 
 ![Poco frp bypass](https://images.wondershare.com/drfone/article/2022/05/swiftkey.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 7. At the Google search bar, type Settings and then choose the Settings option.
 
 Step 8. If the Swift Key menu appears, choose Got it > Not Now > Back-Up Reset.
@@ -320,10 +320,6 @@ Step 8. If the Swift Key menu appears, choose Got it > Not Now > Back-Up Reset.
 Step 9. Now choose the Factory Data Reset option for resetting your device.
 
 Finally, when you switch on your phone again, the FRP lock will not appear, and you’ve got FRP Poco disabled.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3. How to Bypass Google Verification on Poco Without SwiftKey
 
@@ -359,6 +355,10 @@ _**Note: The option can also be looked at Users & accounts section.**_
 - Step 4. Again, click on the Remove account option to confirm deleting the account.
 - With the steps above, the synced account will be deleted and thus the FRP lock will be removed.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 5. How to Bypass Screen Lock from Poco
 
 Nothing can be more annoying than forgetting the screen lock of your Poco phone as it will prevent you from getting access to the Poco X5 device and using any of its functions. So, if you too are in a similar situation when you have forgotten the set password, [Dr.Fone –Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is the recommended tool.
@@ -370,10 +370,6 @@ Nothing can be more annoying than forgetting the screen lock of your Poco phone 
 This professional Windows and Mac-based software will let you remove all types of screen locks including password, PIN, pattern as well as fingerprint, in just a few simple steps. The software is simple to use and can remove the screen lock on all popular Android devices in a hassle-free manner.
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Dr.Fone - Screen Unlock (Android)
 
@@ -393,12 +389,16 @@ Step 1. Launch the Dr. Fone software on your system and choose the Screen Unlock
 ![home page](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 2. Using a USB cable, connect your phone to your PC, and then on the software interface choose Unlock Android Screen option.
 
 ![connect device to remove android lock screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 3. Next, choose the phone model from the given list so that the right recovery package can be downloaded.
 
@@ -427,18 +427,16 @@ Above we have listed different tools for **Poco Google bypass**. Depending on th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-10-simple-strategies-for-picture-perfection-ps/"><u>[New] 10 Simple Strategies for Picture Perfection PS</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-best-mac-video-capturing-software-post-bandicam-revolution/"><u>[New] In 2024, Best Mac Video Capturing Software Post-Bandicam Revolution</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/outube-to-gif-magic-your-ultimate-guide-to-animated-images/"><u>[New] Youtube to Gif Magic Your Ultimate Guide to Animated Images</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-joining-the-dots-obs-and-zoom-pairing-explained-for-2024/"><u>[Updated] Joining the Dots OBS & Zoom Pairing Explained for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-strategies-pinterest-to-mp3-migration-guide/"><u>2024 Approved Ultimate Strategies Pinterest to MP3 Migration Guide</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/7-top-ranked-apps-for-horizontal-and-vertical-igtv-editing-for-2024/"><u>7 Top-Ranked Apps for Horizontal and Vertical IGTV Editing for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-realme-c53-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Realme C53</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-xiaomi-redmi-note-12-proplus-5g-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Xiaomi Redmi Note 12 Pro+ 5G</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-full-guide-to-bypass-nubia-red-magic-8s-proplus-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Nubia Red Magic 8S Pro+ FRP</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-vivo-y36i-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Vivo Y36i Phones with/without a PC</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-on-vivo-y27-4g-by-drfone-android/"><u>In 2024, How to Bypass FRP on Vivo Y27 4G?</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-honor-play-7t-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Honor Play 7T FRP Bypass</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-say-goodbye-to-crooked-videos-10-best-online-rotation-tools/"><u>New 2024 Approved Say Goodbye to Crooked Videos 10 Best Online Rotation Tools</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-automating-meeting-times-a-google-meet-essential-for-2024/"><u>[New] Automating Meeting Times A Google Meet Essential for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-no-rush-realms-top-12-serene-titles/"><u>[New] In 2024, No-Rush Realms Top 12 Serene Titles</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-the-science-behind-engaging-video-content-on-fb-for-2024/"><u>[Updated] The Science Behind Engaging Video Content on FB for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-ranking-the-best-identifying-the-quintessential-5-online-title-designers/"><u>2024 Approved Ranking the Best Identifying the Quintessential 5 Online Title Designers</u></a></li>
+<li><a href="https://ai-video.techidaily.com/9-best-french-video-translators-online-and-download-options/"><u>9 Best French Video Translators Online and Download Options</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-can-we-bypass-zte-axon-40-lite-frp-by-drfone-android/"><u>How Can We Bypass ZTE Axon 40 Lite FRP?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-itel-s23-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Itel S23 FRP In 3 Different Ways</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-infinix-note-30-5g-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Infinix Note 30 5G FRP Bypass Instantly</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/poweradd-pilot-pro2-evaluation-a-powerhouse-device-to-recharge-your-tech-gadgets/"><u>POWERADD Pilot Pro2 Evaluation: A Powerhouse Device to Recharge Your Tech Gadgets</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-vivo-v30-lite-5g-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Vivo V30 Lite 5G FRP</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Vivo T2 Pro 5G | Dr.fone</u></a></li>
 </ul></div>
 

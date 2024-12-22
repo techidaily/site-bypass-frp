@@ -1,7 +1,7 @@
 ---
 title: "Syma S111G Quadcopter Overview: Affordable Entertainment in Small Spaces"
-date: 2024-12-06T17:03:35.293Z
-updated: 2024-12-12T21:01:42.261Z
+date: 2024-12-15T07:59:17.609Z
+updated: 2024-12-20T23:30:14.061Z
 categories:
   - BestProducts
 description: "This Article Describes Syma S111G Quadcopter Overview: Affordable Entertainment in Small Spaces"
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/8e9871ece440ba59c8d9840801e94460c09fbc87b
 ## LG OLED C9 65" 4K Smart TV
 
 ![LG OLED C9 65-inch 4K Smart TV](https://www.lifewire.com/thmb/Z82osxXGuhEbZyidLLG58VdbbJ0=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG-65inch-4K-TV_1LW4142020_HeroSquare-b4b1522941d44a18b75a586155788477.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Emily Isaacs
 
@@ -41,16 +45,12 @@ Lifewire / Emily Isaacs
 4.9
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## LG OLED C9 65" 4K Smart TV
 
 ![LG OLED C9 65-inch 4K Smart TV](https://www.lifewire.com/thmb/-RQ5Ui3BjE0KxHGHYE-UjNz7EY4=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG-65inch-4K-TV_1LW4142020_HeroSquare-b4b1522941d44a18b75a586155788477.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Lifewire / Emily Isaacs
 
@@ -76,10 +76,6 @@ Lifewire / Emily Isaacs
 
 ![LG OLED C9 65-inch 4K Smart TV](https://www.lifewire.com/thmb/Ky7KFEDgeAy-u_D_Tv7zaOPYQMI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG-65inch-4K-TV_1LW4142020_03-f111424cfd584bfeac329fa2932278ca.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Emily Isaacs
 
 ## **Design: Smart and sleek**
@@ -94,11 +90,11 @@ Lifewire / Emily Isaacs
 
 ![LG OLED C9 65-inch 4K Smart TV](https://www.lifewire.com/thmb/mxKfDJGuIKYcsSIQoKfzwDbYYmg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG-65inch-4K-TV_1LW4142020_02-3da87ff8439343f691cf02e9234d1f04.jpg)
 
- Lifewire / Emily Isaacs
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Lifewire / Emily Isaacs
 
 ## **Setup Process: Do it yourself worthy, but you’ll need a hand**
 
@@ -114,6 +110,10 @@ Lifewire / Emily Isaacs
 
  Once the TV has been installed, LG’s WebOS guides the first-time setup process by prompting inputs for settings ranging from time zone and language up to and including any necessary user agreements. The LG C9 will complete a scan in order to identify the devices and then you’re free to customize the TV’s settings by pressing the gear button on the LG Magic Remote. The first setting we changed was the Auto Power Saving (APS) picture mode, which reduces power use by dimming the brightness of the TV. The other important setting to disable is TruMotion, which smooths motion in TV shows and movies by altering the frame rate of the programming. If your LG’s picture looks a bit too much like a soap opera, chances are you need to disable this setting.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Image Quality: Stunning picture**
 
  The image quality on the LG C9 is, frankly, stunning thanks in large part to its excellent contrast and wide range of colors, combined with the OLED panel’s ability to turn individual pixels on and off. Even from wide viewing angles, the 4K picture maintains its excellence, with limited washing out and color loss.
@@ -123,10 +123,6 @@ Lifewire / Emily Isaacs
  The image quality on the LG C9 is, frankly, stunning thanks in large part to its excellent contrast and wide range of colors, combined with the OLED panel’s ability to turn individual pixels on and off.
 
  These pictures are further enhanced with LG’s α9 Gen 2 intelligent processor, new to 2019’s model. It excels at drawing out detail and correcting quality discrepancies within the picture, such as banding which creates textures and strips in areas of the screen that would otherwise be smooth. This is particularly important given the large screen size and high resolution. While it’s not as bright as an LED TV since it lacks backlighting, it doesn’t need it as the TV already possesses excellent color, a change here would risk washing out the inky blacks on the screen.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Audio: Better than expected**
 
@@ -170,6 +166,10 @@ Lifewire / Emily Isaacs
 
  With its excellent smart features, gorgeous 4K image quality, and an easy-to-use interface, LG has only improved on last year’s model with the LG OLED C9\. That said, these improvements aren’t significant leaps, mainly coming from processor improvements and the addition of HDMI 2.1 ports. If you’re simply looking for the best TV from last year and price isn’t a consideration, look no further. On the other hand, there are other great 65-inch 4K TV models that may not have all the extra features the C9 does, but do have comparable quality without breaking the bank.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Specs
 
 * Product Name  OLED C9 65" 4K Smart TV
@@ -211,24 +211,16 @@ Lifewire / Emily Isaacs
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-maximizing-your-screen-real-estate-with-picture-in-picture-creation/"><u>[New] 2024 Approved Maximizing Your Screen Real Estate with Picture in Picture Creation</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-engaging-video-audiences-choosing-impactful-youtube-images/"><u>[Updated] 2024 Approved Engaging Video Audiences Choosing Impactful YouTube Images</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-realme-gt-5-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Realme GT 5</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/boost-your-sites-visibility-using-cookiebot-technology/"><u>Boost Your Site's Visibility Using Cookiebot Technology</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/colombias-caregiving-organization-fundacion-danny/"><u>Colombia’s Caregiving Organization - Fundacion Danny</u></a></li>
-<li><a href="https://blog-min.techidaily.com/discover-the-greatest-disney-pixar-films-ever-created-a-definitive-top-10-list/"><u>Discover the Greatest Disney Pixar Films Ever Created: A Definitive Top 10 List</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/elitemac-pro-high-definition-visuals-plus-audiophile-recordings/"><u>EliteMac Pro High-Definition Visuals + Audiophile Recordings</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-honor-v-purse-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Honor V Purse Phones with/without a PC</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-xiaomi-redmi-note-12-4g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Xiaomi Redmi Note 12 4G</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-vivo-y56-5g-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Vivo Y56 5G FRP Locks</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-realme-note-50-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Realme Note 50 Phone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-xiaomi-13t-profrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Xiaomi 13T ProFRP Lock</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-xiaomifrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your XiaomiFRP Lock</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-realme-gt-neo-5-se-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Realme GT Neo 5 SE FRP Without Computer</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-precision-techniques-for-high-quality-console-recordings-on-pcs/"><u>In 2024, Precision Techniques for High-Quality Console Recordings on PCs</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-infinix-zero-30-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Infinix Zero 30 5G FRP Bypass</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-honor-100frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Honor 100FRP Lock</u></a></li>
-<li><a href="https://video-capture.techidaily.com/saving-your-itunes-media-three-simple-steps/"><u>Saving Your iTunes Media Three Simple Steps</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/top-drone-picks-available-now/"><u>Top Drone Picks Available Now</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/8-most-viewed-videos-on-facebook/"><u>8 Most Viewed Videos on Facebook</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-samsung-galaxy-m14-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Samsung Galaxy M14 4G | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-tecno-camon-20-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Tecno Camon 20</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/avoiding-aerial-blur-essential-tips-for-choosing-a-drone-gimbal-for-2024/"><u>Avoiding Aerial Blur Essential Tips for Choosing a Drone Gimbal for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-xiaomi-redmi-note-12-pro-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Xiaomi Redmi Note 12 Pro 5G</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-tecno-spark-10c-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Tecno Spark 10C FRP Locks</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-tecno-pova-5-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Tecno Pova 5 Phone</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-spinning-jujutsu-kaisen-stories-on-tiktok/"><u>In 2024, Spinning Jujutsu Kaisen Stories on TikTok</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-complete-guide-to-xiaomi-redmi-note-13-proplus-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Xiaomi Redmi Note 13 Pro+ 5G FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-xiaomi-13t-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Xiaomi 13T Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-windows-amoled-11-idt-hd-audio-codec-driver-problems/"><u>Resolving Windows Amoled 11 IDT HD Audio Codec Driver Problems</u></a></li>
 </ul></div>
 

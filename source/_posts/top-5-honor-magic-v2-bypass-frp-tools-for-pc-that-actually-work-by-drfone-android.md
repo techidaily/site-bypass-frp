@@ -1,7 +1,7 @@
 ---
 title: Top 5 Honor Magic V2 Bypass FRP Tools for PC That Actually Work
-date: 2024-12-10T18:35:39.265Z
-updated: 2024-12-12T19:01:15.747Z
+date: 2024-12-19T20:17:07.967Z
+updated: 2024-12-20T23:49:36.527Z
 tags: 
   - unlock
   - bypass android frp
@@ -47,10 +47,6 @@ _**Tips:** Struggling to unlock your Honor device? [Dr.Fone - Screen Unlock (And
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. GSM Flasher ADB FRP Bypass Tool
 
 It is a Windows-based powerful tool that helps remove FRP lock on an array of devices and models including Huawei, Micromax, Oppo, Samsung, and others. The ADB commands are used for communicating with the Honor Magic V2 device and getting a variety of tasks done, including FRP lock. For this method, you simply need to download the tool, which needs ADB drivers and a USB data cable.
@@ -58,10 +54,6 @@ It is a Windows-based powerful tool that helps remove FRP lock on an array of de
 #### Supported OS: Latest version of Windows
 
 ![gsm flasher adb frp tool](https://images.wondershare.com/drfone/article/2022/05/gsm-flasher-adb-frp-tool.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### Key features
 
@@ -95,10 +87,6 @@ Removing FRP lock not only on your Honor devices but others like Samsung, Motoro
 
 ![d&g password unlocker](https://images.wondershare.com/drfone/article/2022/05/dg-password-unlocker.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### Key Features
 
 - A free-to-use **Honor FRP bypass tool** with a simple and user-friendly interface.
@@ -106,10 +94,6 @@ Removing FRP lock not only on your Honor devices but others like Samsung, Motoro
 - Helps in the removal of different device locks, including FRP.
 
 It is compatible with a wide range of devices and models, this tool is apt for the removal of FRP locks as well as others like pin-code, patterns, and more. Free and user-friendly further makes it a popular choice among users.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Octoplus FRP Tool
 
@@ -139,6 +123,10 @@ If you too have got into this trap, then no need to worry as [Dr.Fone - Screen U
 
 You do not need to be a tech expert to use this tool as its interface is very user-friendly and simple. You just need to quickly download the software and follow the instructions as they appear and in no time, you will have an unlocked device in front of you and that too without any harm.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Unlock Honor Phone without Password Using Dr.Fone?
 
 - **Step 1.** Launch the software on your system and choose the **Screen Unlock** option.
@@ -147,7 +135,7 @@ You do not need to be a tech expert to use this tool as its interface is very us
 ![connect device to remove android lock screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - **Step 3.** The interface will show the list of the supported devices and their models, from which you need to select Honor to put your Honor phone into Specific Mode.
@@ -155,7 +143,7 @@ You do not need to be a tech expert to use this tool as its interface is very us
 ![select device model](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - **Step 4.** Dr.Fone will start to unlock Android screen after getting into the specific mode. After completed, you need to click on the Remove Now option after which the screen lock on your device will be disabled, and you can easily have access to your device.
@@ -165,7 +153,11 @@ You do not need to be a tech expert to use this tool as its interface is very us
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Dr.Fone - Screen Unlock (Android)
@@ -196,10 +188,6 @@ Security measures have become increasingly robust nowadays to protect user data.
 
 This tutorial will guide you through a step-by-step **Honor FRP bypass Android 10, 11**, 12, and 13 processes. By following these instructions carefully, you'll regain access to your Honor smartphone even if you've forgotten the associated Google account credentials.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: Basic Understanding of FRP
 
 Before going after **Honor FRP bypassing Android 12**, it is important to understand what FRP is. Knowing what it is and how it works will help you bypass this lock. Factory Reset Protection (FRP) is a powerful security feature developed and implemented by Google for all Android smartphone companies. It works on Android devices starting from Android 5.1 Lollipop and above.
@@ -211,6 +199,10 @@ Before going after **Honor FRP bypassing Android 12**, it is important to unders
 The primary purpose of FRP is to prevent unauthorized access to a device after it has been factory reset. It acts as a safeguard against theft or misuse of personal data. Moreover, FRP ensures only the original owner can access the Honor Magic V2 device data and applications. When FRP is enabled on an Android, it becomes tied to the Google account that was previously used on the Honor Magic V2 device.
 
 After a factory reset, the Honor Magic V2 device will need the user to enter the Google account credentials. It is the same account associated with the Honor Magic V2 device. This prevents someone who doesn't know the account details from gaining access to the Honor Magic V2 device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Significance of FRP
 
@@ -240,6 +232,10 @@ Ensure that your phone has enough charge to avoid any complications during the F
 
 A stable and reliable internet connection is crucial for a successful FRP bypass. Ensure your phone is connected to a secure Wi-Fi network or stable cellular data connection. A strong internet connection is required to download necessary files or tools during the FRP bypass process. By ensuring a stable connection, you'll avoid potential delays or complications.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3. Method 1: Using Official Google Account
 
 The FRP lock on your Honor smartphone is directly linked to your Google account. The reason you find yourself in this situation is due to the inability to recall your Google account password. However, there is a solution — by recovering your Google account, you can successfully bypass the FRP lock.
@@ -250,17 +246,21 @@ This process will only work if you at least remember the Gmail ID. Follow the st
 
 ![tap on forgot password](https://images.wondershare.com/drfone/article/2023/07/vivo-frp-bypass-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2:** To verify your identity, utilize the phone number or recovery email associated with your Google account. You will receive a verification code on the phone number or recovery email. Once received, enter the code provided.
 
 ![add the verification code](https://images.wondershare.com/drfone/article/2023/07/vivo-frp-bypass-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 3:** After completing the verification process, you can create a new password for your Google account. Take note that it may take approximately 24 hours for Google to synchronize the new password across all your devices. Once the new password has been synced, you can sign into your Google account on your Honor smartphone, successfully bypassing the FRP lock.
 
 ![login into google account](https://images.wondershare.com/drfone/article/2023/07/vivo-frp-bypass-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4. Method 2: Using FRP Bypass Tools
 
@@ -397,6 +397,10 @@ Ensure that you have a stable internet connection throughout the FRP bypass proc
 
 If you encounter difficulties during the FRP bypass process, consider seeking professional help. You can seek help from authorized service centers or contact Honor Support. They can provide guidance and help troubleshoot any issues you may face.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 To conclude, we have explored various methods and tools to assist you in **Honor FRP bypassing Android 12**. Throughout the journey, one tool has stood out as a reliable solution: Wondershare Dr.Fone. Regarding FRP bypass, [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) has proven to be a top choice for Honor devices. It is compatible with a range of Honor models and Android versions.
@@ -460,10 +464,6 @@ Unlocking FRP using TechnoCare APK is free, quick, and exciting. However, someti
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Dr.Fone - Screen Unlock (Android)
 
 Get into Locked Honor Locked Screens without Password
@@ -518,24 +518,16 @@ And that's the best **Honor Android 11 FRP bypass** method. With TechnoCare APK,
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-explaining-watermarks-securing-online-media-for-2024/"><u>[New] Explaining Watermarks Securing Online Media for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-gopro-vs-polaroid-cube-choosing-your-editing-companion/"><u>[Updated] 2024 Approved GoPro Vs. Polaroid Cube Choosing Your Editing Companion</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-unraveling-the-excellence-a-guide-to-choosing-best-titling-talents-online/"><u>[Updated] 2024 Approved Unraveling the Excellence A Guide To Choosing Best Titling Talents Online</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-youtubes-secrets-to-successful-video-marketing-uncovered/"><u>[Updated] In 2024, YouTube's Secrets to Successful Video Marketing Uncovered</u></a></li>
-<li><a href="https://fox-links.techidaily.com/best-overlay-strategies-for-videographers-for-2024/"><u>Best Overlay Strategies for Videographers for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/can-chatgpt-replace-me-what-jobs-will-generative-ai-replace/"><u>Can ChatGPT Replace Me? What Jobs Will Generative AI Replace?</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-infinix-zero-30-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Infinix Zero 30 5G Phones with/without a PC</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-realme-c67-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Realme C67 5G Phones with/without a PC</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-tecno-camon-20-pro-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Tecno Camon 20 Pro 5G Phones with/without a PC</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-vivo-x100frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Vivo X100FRP Lock</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-tecno-camon-20-pro-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Tecno Camon 20 Pro 5G Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-vivo-y55s-5g-2023-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Vivo Y55s 5G (2023) Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/innovative-solutions-for-gamers-and-professionals-at-toms-tech-reviews/"><u>Innovative Solutions for Gamers and Professionals at Tom's Tech Reviews</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-xiaomi-redmi-note-13-proplus-5g-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Xiaomi Redmi Note 13 Pro+ 5G Phone FRP Lock</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-nvidia-geforce-210-graphics-driver-updates-compatible-with-windows-11/"><u>Latest NVIDIA GeForce 210 Graphics Driver Updates Compatible with Windows 11</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solving-the-dilemma-of-missing-d3dx928dll-files-a-comprehensive-guide/"><u>Solving the Dilemma of Missing d3dx9_28.dll Files: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/superior-15-action-cam-essentials/"><u>Superior 15 Action Cam Essentials</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/the-complete-guide-to-xiaomi-redmi-a2-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Xiaomi Redmi A2 FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/vivo-s17-pro-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Vivo S17 Pro ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-crafting-visuals-the-science-of-youtube-banners-and-thumbnails/"><u>[Updated] 2024 Approved Crafting Visuals The Science of YouTube Banners & Thumbnails</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-cutting-edge-techniques-for-advanced-hdr-images-in-aps-for-2024/"><u>[Updated] Cutting-Edge Techniques for Advanced HDR Images in APS for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/1716068812198-updated-in-2024-capture-share-enjoy/"><u>[Updated] In 2024, Capture, Share, Enjoy!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1725289836748-2022-dvd/"><u>如何在 2022 年将 DVD 内容成功迁移为数字格式？</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-xiaomi-13t-pro-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Xiaomi 13T Pro</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210815021-9782889701551-guerir-ses-blessures-dame-avec-les-annales-akashiques/"><u>Guérir ses blessures d'âme avec les annales akashiques | Free Book</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-xiaomi-redmi-note-12t-pro-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Xiaomi Redmi Note 12T Pro Devices</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Apple iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-itel-a60frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Itel A60FRP Lock</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-tecno-spark-10-5g-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Tecno Spark 10 5G FRP</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719363317332-troubleshoot-non-functional-shift-in-windows/"><u>Troubleshoot Non-Functional Shift in Windows.</u></a></li>
 </ul></div>
 

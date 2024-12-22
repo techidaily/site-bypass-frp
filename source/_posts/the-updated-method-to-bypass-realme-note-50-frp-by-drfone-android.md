@@ -1,7 +1,7 @@
 ---
 title: The Updated Method to Bypass Realme Note 50 FRP
-date: 2024-12-10T20:44:03.364Z
-updated: 2024-12-12T17:06:19.080Z
+date: 2024-12-16T23:50:59.893Z
+updated: 2024-12-21T00:07:35.277Z
 tags: 
   - unlock
   - bypass android frp
@@ -61,6 +61,10 @@ Step 3: Choose Realme among the Realme Note 50 device brands.
 
 ![download driver](https://images.wondershare.com/drfone/guide/remove-android-frp-lock-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 4: Dr.Fone will start to download driver. And then turn off the Realme Note 50 device and connect to the computer. During the connecting process, please keep pressing Volume Up and Down button simultaneously for around 3 seconds.
 
 ![press volume up and down button](https://images.wondershare.com/drfone/guide/remove-android-frp-lock-3.png)
@@ -77,17 +81,9 @@ With each phone, operating system, and version of Android having its own techniq
 
 ![add network settings](https://images.wondershare.com/drfone/article/2023/05/how-to-bypass-xiaomi-redmi-frp-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - In the SSID field, type any random text you like and long-press to pick it. To share it with Gmail, tap the share icon. Tap Notifications > Additional Settings on the App Info screen.
 
 ![add network options](https://images.wondershare.com/drfone/article/2023/05/how-to-bypass-xiaomi-redmi-frp-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - Click the three dots in the top right corner and select "Help and Feedback."
 
@@ -110,12 +106,16 @@ With each phone, operating system, and version of Android having its own techniq
 ![force stop](https://images.wondershare.com/drfone/article/2023/05/how-to-bypass-xiaomi-redmi-frp-7.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - Return to the App info screen and select Carrier Services. Then, select Disable and Disable app. Finally, select Force to stop and OK.
 
 ![carrier services](https://images.wondershare.com/drfone/article/2023/05/how-to-bypass-xiaomi-redmi-frp-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - Go back to the App info screen, choose Google Play Services, and then touch Disable to remove the app. Click OK after tapping Force Stop.
 
@@ -140,7 +140,7 @@ Depending on the OS version, the Google FRP lock can be removed using a variety 
 ![adb installer](https://images.wondershare.com/drfone/article/2023/05/how-to-bypass-xiaomi-redmi-frp-11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - Run adb.setup.exe next, and then press Y to accept the prompt to install the ADB drivers.
@@ -167,6 +167,10 @@ Disabling FRP on Realme Note 50/Poco devices is relatively simple. Once you've r
 
 ![disable frp step 2](https://images.wondershare.com/drfone/article/2023/05/how-to-bypass-xiaomi-redmi-frp-22.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - You might be asked to enter your device password or PIN to finish the process.
 
 ## Summary
@@ -179,10 +183,6 @@ In conclusion, unlocking Realme Note 50 FRP can be difficult, but it can be done
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Pangu FRP Bypass and Best Alternative Tool For your Android Device
 
 **Pangu FRP Bypass** is a popular tool claiming to unlock Factory Reset Protection (FRP) on various Android phones. FRP is automatically enabled when you set up your Android device and link it to a Google account.
@@ -192,6 +192,10 @@ The FRP lock activates if someone tries to do a [<u>factory reset</u>](https://t
 Then are you curious about the safety of the **Pangu FRP bypass tool**? What is this tool, and how does it work? If you have similar questions, this guide has the answers. Here, we'll show you what you need to know about the bypass tool and alternative software.
 
 ![google frp lock on android device](https://images.wondershare.com/drfone/article/2024/01/pangu-frp-bypass-01.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: What Is Pangu FRP Bypass Tool?
 
@@ -267,10 +271,6 @@ Before downloading the APK file, you'll need a USB drive and an OTG cable to con
 
 ![turn off app scanning](https://images.wondershare.com/drfone/article/2024/01/pangu-frp-bypass-06.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 4: How To Use Pangu FRP Unlocker on Android?
 
 Before you start, ensure you have permission to unlock the FRP on the Android device. Also, check your internet connection, have enough phone charge, and a backup of your phone data. Now, follow these steps to use Pangu and remove the Google account FRP lock on your phone:
@@ -312,6 +312,10 @@ Low Success Rate
 While the bypass tool can sometimes be effective, its success rate isn't guaranteed. It can be frustrating if you go through the entire process only to find it didn't work on your device. Choosing other [<u> FRP bypass software</u>](https://drfone.wondershare.com/google-frp-unlock/huawei-frp-tools.html) with a higher success rate can save you time.
 
 Choosing between Pangu and an alternative depends on your needs and tech skills. If you're comfortable with downloading APK, Pangu can work. But if you prefer ease of use, broader device compatibility, and safety, consider dedicated tools like [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) - Screen Unlock (Android).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 6: Wondershare Dr.Fone - Screen Unlock for Android: Best Alternative to Pangu
 
@@ -359,15 +363,15 @@ Wondershare Dr.Fone offers an easier, faster, and user-friendly solution for byp
 
 _**Tips:** Searching for a powerful FRP bypass tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Bypass Google FRP Lock on Realme Note 50 Devices
 
 Technological advancements in the IT and telecommunication industry simplify your tasks and provide security against cyber malpractices. The advantages are numerous and appealing, but there are downsides too. One such inconvenience is caused by Google FRP lock in Realme Note 50 smartphones. The facility keeps your device information safe against unauthorized access. However, users often report issues like lockouts not being removed due to several causes. Such scenarios raise the demand for **Realme Note 50 Nord FRP bypass** solutions for seamless device access.
 
 ![google frp bypass in oneplus phones](https://images.wondershare.com/drfone/article/2022/08/how-to-bypass-google-frp-lock-on-any-oneplus-phones-01.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1. What Is Google FRP and How Does It Work?
 
@@ -400,19 +404,11 @@ _**System> Accessibility> Accessibility Menu> Toggle the Button to Turn it On> A
 
 ![disabling android setup and google play service](https://images.wondershare.com/drfone/article/2022/08/how-to-bypass-google-frp-lock-on-any-oneplus-phones-03.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - Navigate back to the 'Hello' screen to completely disable the setup by taking the following path:
 
 _**Start> Agree> Agree> Skip> Don't Copy> Ok> Agree**_
 
 - Skip the 'Set Screen Lock' task for completing the setup.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Using FRP Bypass APK
 
@@ -439,6 +435,10 @@ Removing the Google FRP lock using a computer is impossible in some instances. D
 
 ![launching the 'settings' application on oneplus phone](https://images.wondershare.com/drfone/article/2022/08/how-to-bypass-google-frp-lock-on-any-oneplus-phones-05.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - In the app's opening interface, click on the 'Accounts' tab to open the section.
 
 ![opening the 'accounts' tab in oneplus phone](https://images.wondershare.com/drfone/article/2022/08/how-to-bypass-google-frp-lock-on-any-oneplus-phones-06.jpg)
@@ -454,6 +454,10 @@ Removing the Google FRP lock using a computer is impossible in some instances. D
 - A confirmation prompt will pop up to ensure a willful deletion of the account from the Realme Note 50 device. Tap on 'Remove Account' to confirm the action. This will cause all data linked with the account to get deleted from the phone.
 
 ![confirmation of the google account removal](https://images.wondershare.com/drfone/article/2022/08/how-to-bypass-google-frp-lock-on-any-oneplus-phones-09.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## FAQs about Google Lock Bypass
 
@@ -482,10 +486,6 @@ Unlock Your Realme Note 50 Phone in a Flash
 - Bypass Android FRP lock without a PIN or Google account.![New icon](https://images.wondershare.com/drfone/others/new_23.png)
 - Unlock mainstream Android brands like Samsung, Huawei, LG, Xiaomi, etc.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - No tech knowledge required, Simple, click-through, process.
 
 **3,981,454** people have downloaded it
@@ -499,15 +499,24 @@ Unlock Your Realme Note 50 Phone in a Flash
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/pin-the-story-right-youtube-video-angles-demystified-guide-for-2024/"><u>[New] Spin the Story Right YouTube Video Angles Demystified (Guide) for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-mastering-youtube-engagement-optimal-video-formats-guide/"><u>[Updated] Mastering YouTube Engagement Optimal Video Formats Guide</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-on-nubia-red-magic-8s-proplus-by-drfone-android/"><u>How to Bypass FRP on Nubia Red Magic 8S Pro+?</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-on-vivo-y28-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP on Vivo Y28 5G?</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-poco-m6-pro-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Poco M6 Pro 5G Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/initiate-investment-cost-effective-youtube-monetization-options/"><u>Initiate Investment Cost-Effective YouTube Monetization Options</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-tech-through-toms-hardware-wisdom/"><u>Navigating the World of Tech Through Tom's Hardware Wisdom</u></a></li>
-<li><a href="https://program-issues.techidaily.com/reasons-and-fixes-for-sudden-shutdowns-in-ghostwire-tokyo-on-windows-pcs/"><u>Reasons and Fixes for Sudden Shutdowns in Ghostwire: Tokyo on Windows PCs</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-vivo-v30-pro-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Vivo V30 Pro Running Slow and Freezing | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-honor-x50iplus-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Honor X50i+ FRP</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-fast-track-mastering-tiktok-video-downloads-for-2024/"><u>[New] Fast Track Mastering TikTok Video Downloads for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-a-comprehensive-guide-to-monetize-your-facebook-page-tips-and-tricks-for-2024/"><u>[Updated] A Comprehensive Guide to Monetize Your Facebook Page Tips and Tricks for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-speedy-insights-modifying-videos-in-instagram-stories/"><u>[Updated] Speedy Insights Modifying Videos in Instagram Stories</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-timeless-stop-motion-films-a-celebratory-15-list/"><u>[Updated] Timeless Stop-Motion Films - A Celebratory 15 List</u></a></li>
+<li><a href="https://win-docs.techidaily.com/1728491115337-sd/"><u>如何从SD卡中找回消失的视频 - 完全解决方案</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/fixing-common-issues-smoothly-playback-videos-in-5k-4k-and-8k-on-your-device/"><u>Fixing Common Issues: Smoothly Playback Videos in 5K, 4K & 8K on Your Device</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-honor-x50withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Honor X50with/without a PC</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-can-we-bypass-xiaomi-redmi-note-13-5g-frp-by-drfone-android/"><u>How Can We Bypass Xiaomi Redmi Note 13 5G FRP?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-itel-a60-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Itel A60</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-unlock-from-iphone-14-plus-how-to-fix-it-by-drfone-ios/"><u>In 2024, Apple ID Unlock From iPhone 14 Plus? How to Fix it?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-to-honor-100-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Honor 100 FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-vivo-y27-4g-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Vivo Y27 4G FRP Locks</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-realme-c51-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Realme C51 FRP Without Computer</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/latest-guide-how-to-bypass-xiaomi-14-ultra-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Xiaomi 14 Ultra FRP Without Computer</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/live-stream-on-youtube-without-1000-subscribers-on-a-mobile-for-2024/"><u>Live Stream on YouTube without 1000 Subscribers on a Mobile for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/live-tune-streams-on-younow/"><u>Live Tune Streams on YouNow</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/tecno-camon-20-pro-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Tecno Camon 20 Pro 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/top-5-itel-a05s-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Itel A05s Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-from-vivo-y77t-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Vivo Y77t FRP Bypass</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: GTX 950 Code 43 Error on Windows 10 [Solved]
-date: 2024-12-11T20:07:08.665Z
-updated: 2024-12-12T16:36:22.543Z
+date: 2024-12-18T03:52:43.302Z
+updated: 2024-12-21T02:13:01.491Z
 tags:
   - win11
   - win10
@@ -40,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/19760dde0975a0de0ce2cfe0db96677605f044bc9
 **c** . Windows cannot recognize faulty hardware either, so please make sure that your display card is in good conditions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Option 1: Clean re-install NVIDIA 950
@@ -57,19 +57,23 @@ thumbnail: https://thmb.techidaily.com/19760dde0975a0de0ce2cfe0db96677605f044bc9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941fd6169da1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) In the safe mode, click the**Clean and restart (Highly recommended)** button so DDU will start with the uninstall.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941fe0557eee.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Wait for the process to finish, and your PC will restart in normal mode.
 
  5) Then go to NVIDIA drivers download website and search for GTX 950 driver for your device. After filling in the blanks, hit the**SEARCH** button to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941ffa76ae44.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Then follow the on-screen instructions to get the driver downloaded.
 
@@ -87,15 +91,15 @@ thumbnail: https://thmb.techidaily.com/19760dde0975a0de0ce2cfe0db96677605f044bc9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59420461c87a5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to the flagged NVIDIA driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click_**Update All**_ ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5942041be93b6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Option 2: Update Windows 10**
 
@@ -112,7 +116,7 @@ thumbnail: https://thmb.techidaily.com/19760dde0975a0de0ce2cfe0db96677605f044bc9
  4) Restart your computer after the update. Then check to see if the code 43 still remains.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Option 3: Update BIOS**
@@ -124,10 +128,6 @@ thumbnail: https://thmb.techidaily.com/19760dde0975a0de0ce2cfe0db96677605f044bc9
 **Warning** : Please do make sure that you are fully aware of what you are to do before you choose to update your BIOS. Unrecoverable errors are the last thing we want to see.
 
  After you make the decision of updating your BIOS, go to the manufacturer website of your PC and see if the latest version of BIOS is available to download. Then follow the instructions to get your BIOS updated.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Option 4: Reinstall Windows 10**
 
@@ -155,20 +155,14 @@ thumbnail: https://thmb.techidaily.com/19760dde0975a0de0ce2cfe0db96677605f044bc9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-exclusive-screenflow-examination-for-mac-users-for-2024/"><u>[New] Exclusive ScreenFlow Examination for Mac Users for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-win11s-leading-free-screen-capture-software-ranked-1-5/"><u>[New] In 2024, Win11's Leading Free Screen Capture Software Ranked #1-5</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-how-to-convert-fast-videos-on-iphone-into-slow-motion-magic/"><u>[Updated] 2024 Approved How to Convert Fast Videos on iPhone Into Slow Motion Magic</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-flashback-filmmaking-essential-retro-vhs-techniques-for-modern-videos/"><u>[Updated] Flashback Filmmaking Essential Retro VHS Techniques for Modern Videos</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-leading-sites-for-extracting-text-aesthetics-packs/"><u>[Updated] Leading Sites for Extracting Text Aesthetics Packs</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-metacores-finest-vr-headsets-and-eyewear-guide/"><u>2024 Approved Metacore's Finest VR Headsets and Eyewear Guide</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/5-most-effective-methods-to-unlock-apple-iphone-8-plus-in-lost-mode-drfone-by-drfone-ios/"><u>5 Most Effective Methods to Unlock Apple iPhone 8 Plus in Lost Mode | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-honor-v-purse-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Honor V Purse</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-vivo-y78plus-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Vivo Y78+ FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-full-guide-to-bypass-realme-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Realme FRP</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-poco-x5-pro-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Poco X5 Pro Phones with/without a PC</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-xiaomi-redmi-note-12-proplus-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP from Xiaomi Redmi Note 12 Pro+ 5G?</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-xiaomi-14-pro-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Xiaomi 14 Pro FRP In 3 Different Ways</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-vivo-s18e-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Vivo S18e FRP Without Computer</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-navigate-to-top-compre-written-in-english-please-here-is-a-list-of-30-alternative-titles-that-convey-similar-meanings-to-track-your-videos-with-thes/"><u>In 2024, Navigate to Top Compre Written in English, Please. Here Is a List of 30 Alternative Titles that Convey Similar Meanings to Track Your Videos With These Top 8 YouTube Rank Trackers</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-youtube-seo-101-boost-your-videos-visibility/"><u>[New] YouTube SEO 101 Boost Your Video's Visibility</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-how-to-get-blessed-gospel-music-as-your-ringtone/"><u>[Updated] How to Get Blessed Gospel Music as Your Ringtone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-vivo-g2-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Vivo G2</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/about-honor-magic5-ultimate-frp-bypass-by-drfone-android/"><u>About Honor Magic5 Ultimate FRP Bypass</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/acer-aspire-e-15-review/"><u>Acer Aspire E 15 Review</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Samsung Galaxy A15 4G | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-tecno-pova-6-pro-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP from Tecno Pova 6 Pro 5G?</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/personal-growth-reflections-for-digital-platforms/"><u>Personal Growth Reflections for Digital Platforms</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/xiaomi-14-pro-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Xiaomi 14 Pro ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
 </ul></div>
 
