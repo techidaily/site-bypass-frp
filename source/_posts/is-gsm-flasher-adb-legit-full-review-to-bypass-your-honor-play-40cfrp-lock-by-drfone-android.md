@@ -1,7 +1,7 @@
 ---
 title: Is GSM Flasher ADB Legit? Full Review To Bypass Your Honor Play 40CFRP Lock
-date: 2024-12-16T00:42:16.546Z
-updated: 2024-12-22T03:21:05.914Z
+date: 2024-12-25T17:57:16.422Z
+updated: 2024-12-27T17:23:46.951Z
 tags: 
   - unlock
   - bypass android frp
@@ -20,7 +20,7 @@ When encountering factory reset protection (FRP) locking on your device, the sea
 But before you are thinking of using it, make sure you understand its features, benefits, and how to download and use this tool effectively. This article provides you a comprehensive overview of the **GSM Flasher Adb Bypass FRP tool**, covering essential information that will guide you through the [<u>FRP bypass</u>](https://drfone.wondershare.com/google-frp-unlock/oppo-frp.html) process.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1. Full Review of the GSM Flasher ADB Bypasser FRP Tool
@@ -36,10 +36,6 @@ To help you make an informed decision about using this tool, let's explore its k
 While the **GSM Flasher ADB Bypass FRP** boasts a visually appealing interface, it's worth noting that the software may present a steeper learning curve for some users. If you are not familiar with Android debugging and ADB processes, you might find the initial setup somewhat challenging.
 
 ![GSM Flasher ADB Bypasser FRP tool download](https://images.wondershare.com/drfone/article/2024/01/gsm-flasher-adb-bypasser-frp-tool-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### GSM Flasher ADB Bypasser FRP compatibility list
 
@@ -64,6 +60,10 @@ Windows XP, Windows 7, Windows 8, Windows 10, Windows 11 (X32 and X62 bit).
 | **Lenovo** | Lenovo Z2 Plus, Vibe K5, A2010, K5, Vibe, A6600, Lenovo A1000 |
 | **LG** | LG Aristo, LG stylo 3, LG K10, LG K20, LG Stylo 2, LG G6, LG G4, LG G5, LG G20, LG K20 Plus |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Pros and Cons of Using GSM Flasher ADB Bypass FRP Tool
 
 Dealing with FRP lock using the **GSM Flasher tool** also comes with its share of drawbacks. Let's break down its strengths and weaknesses to help you decide if it's the right fit for your needs.
@@ -78,6 +78,10 @@ Dealing with FRP lock using the **GSM Flasher tool** also comes with its share o
 - You need to disable antivirus software when using the tool, raising security concerns
 - The tool does not work uniformly across all Android devices and versions
 - The tool's usability may pose a challenge, especially for beginners
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2. How To Use GSM Flasher ADB Bypasser FRP Tool
 
@@ -127,6 +131,10 @@ Pick your Android device model and proceed by clicking the Start button.
 
 ![Select the Android device model](https://images.wondershare.com/drfone/guide/remove-android-frp-lock-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 4:** Choose the Android version.
 
 Now, specify your Android version. If you're unsure about the Android OS version on your Android or prefer the quickest method to eliminate the Google Lock, select the All Android versions (One-Click Removal) option. Click “Start” to continue.
@@ -138,6 +146,10 @@ Now, specify your Android version. If you're unsure about the Android OS version
 Follow on-screen instructions to open Emergency Call on your Android. Dial #0# to open a secret menu and click Next on your computer.
 
 ![Follow instructions to open emergency call](https://images.wondershare.com/drfone/guide/remove-google-frp-unknown-os-5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 6:** Enable USB debugging.
 
@@ -164,10 +176,6 @@ As an alternative, tools like Dr.Fone can be explored for additional compatibili
 ## How to Bypass FRP on Honor Play 40C?
 
 Learning how to **FRP bypass on Honor Play 40C** is vital in many ways. For instance, you might want to hard reset your phone to clear data and remove a bug or virus. Or, you may want to remove every bit of information before gifting or selling the phone. Whichever the case, learning how to bypass FRP on Honor Play 40C is a cakewalk with this 3-minute read. We'll know how to do that with or without a PC.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1: Is it possible to bypass FRP Honor Play 40C on Samsung?
 
@@ -199,18 +207,22 @@ Below are the quick steps for Galaxy S8 or S8 Plus:
 
 ![deactive find my device](https://images.wondershare.com/drfone/article/2022/07/how-bypass-frp-on-android-9-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - 12\. Go back to the Settings screen, click Apps > Google Play Services > Disable. Also, disable Google Account Manager.
 - 13\. Open Chrome and install Bypass FRP APK from the same website.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Step 3: FRP Bypass Honor Play 40C
 
 - 14\. Go to Settings > Accounts and backup > Accounts > Add account > Google. Sign in with any Gmail account.
 
 ![sign in google account](https://images.wondershare.com/drfone/article/2022/07/how-bypass-frp-on-android-9-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - 15\. Navigate back to Settings and enable Google Play Services. Also, activate Find My Device. Now restart your phone and access it without FRP.
 
@@ -239,10 +251,6 @@ Follow these steps to bypass FRP on Honor Play 40C with Dr.Fone:
 
 ![screen unlock](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2:** Next, choose the Android operating system for your device. In this case, select Android 6/9/10. Now connect the locked Android phone to your PC using a USB cable and click Confirmed once the connection is successful.
 
 ![remove google frp lock](https://images.wondershare.com/drfone/guide/bypass-google-frp-on-android-6-9-10.png)
@@ -250,10 +258,6 @@ Follow these steps to bypass FRP on Honor Play 40C with Dr.Fone:
 **Step 3:** On your phone, you'll see a Dr.Fone Unlock pop-up dialog. Click View and then install and launch Samsung Internet Browser. Now enter and search for <https://drfonetoolkit.com>. Click Android 6/9/10 and then tap Open Settings. After that, tap PIN > Do not require > Continue. Now set a PIN code that you can easily remember before clicking Skip.
 
 ![launch samsung internet browser](https://images.wondershare.com/drfone/guide/bypass-google-frp-on-android-6-9-10-4.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 5:** Click the “<” button to navigate back to the Wi-Fi connection screen before clicking Next. Enter the PIN you can set earlier before clicking Continue.
 
@@ -264,7 +268,7 @@ Follow these steps to bypass FRP on Honor Play 40C with Dr.Fone:
 ![bypass frp on Honor Play 40C](https://images.wondershare.com/drfone/guide/bypass-google-frp-on-samsung.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note:** Bypassing FRP on your Samsung phone using Dr.Fone is undoubtedly quick and easy. However, only use this software to bypass FRP on your Samsung phone or if you have consent from the original owner. Don't bypass FRP if you're not sure about the original owner of the phone.
@@ -300,6 +304,10 @@ In this article, we'll learn about the **Honor Play 40C FRP bypass** process. We
 
 Bypassing the security measures on a Honor Play 40C should be approached with caution. There are many considerations that users should keep in mind before **the Honor Play 40C FRP bypass**. Below, we have listed some considerations to help users avoid any hassle:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Legal Implications
 
 Bypassing device security could potentially breach the terms of service and warranty agreements. Moreover, it may even be illegal in certain jurisdictions. It is recommended to avoid bypassing unless users are certain it is legally permissible in their region.
@@ -308,13 +316,13 @@ Bypassing device security could potentially breach the terms of service and warr
 
 When resetting the Honor Play 40C device, bypassing security measures often comes into play. This sometimes results in the loss of stored data. Prioritize data backup before attempting **Honor Play 40C FRP bypass**. If data preservation is a top priority, exploring alternative solutions is preferable.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Security Risks
 
 Your device might be exposed to potential vulnerabilities due to security [<u>FRP bypass</u>](https://drfone.wondershare.com/google-frp-unlock/huawei-frp-tools.html). This makes it more susceptible to unauthorized access. Users should prioritize safeguarding their data and personal information.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Manufacturer Support
 
@@ -339,10 +347,6 @@ Using the SIM card process for **Honor Play 40C FRP bypass** is a viable option 
 - **Step 2.** Once you are required to sign in to your Google account, return to the screen where you have to select the language. Then, insert the SIM card into your phone and ensure you have saved a contact. To enter the SIM PIN, tap on the "Emergency" option. Next, tap "Emergency Information" and click the "Edit" icon at the top-right corner.
 
 ![proceed to emergency option](https://images.wondershare.com/drfone/article/2024/01/quick-guide-to-tecno-bd4a-frp-bypass-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 3.** Enter the PIN for the SIM card to proceed further. Under the "Emergency Information" section, tap on the "Add Contact" option and access it. Dial the call to that number, and once the call timer appears, choose the "Contacts" option on the dialer screen.
 
@@ -373,10 +377,6 @@ Once setup ends, the **Honor Play 40C FRP bypass Android 11** process will be co
 Facing FRP lock on your Honor Play 40C can be daunting, especially when you need to access your phone urgently. In this case, using the above-discussed SIM card method can be time-consuming. Users looking for an alternative and quick option can use [<u>Wondershare Dr.Fone – Screen Unlock (Android)</u>](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/). This tool can help bypass FRP lock on your Android without requiring any PIN or Google account.
 
 Moreover, users don't need technical knowledge as this tool offers one-click removal. Dr.Fone also adopts a user-friendly interface, ensuring accessibility for every user. Apart from **Honor Play 40C FRP bypass Android 11**, this tool also unlocks Samsung and LG devices without data loss.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Salient Features of Wondershare Dr.Fone
 
@@ -433,18 +433,16 @@ _**Tips:** Are you searching for a powerful FRP Bypass tool? No worries as [Dr.F
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-the-grand-gaming-odyssey-our-list-of-best-action-adventures/"><u>[Updated] In 2024, The Grand Gaming Odyssey Our List of Best Action-Adventures</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-the-essential-list-top-10-video-editors-to-elevate-reels/"><u>[Updated] The Essential List Top 10 Video Editors to Elevate Reels</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/10-ultimate-high-res-4k-mirrorless-cams/"><u>10 Ultimate High-Res 4K Mirrorless Cams</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-premium-portals-best-websites-to-secure-snapalert-beats/"><u>2024 Approved Premium Portals Best Websites to Secure SnapAlert Beats</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-itel-a60-frp-by-drfone-android/"><u>Full Guide to Bypass Itel A60 FRP</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-poco-m6-pro-4g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Poco M6 Pro 4G Devices</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-a-beginners-guide-to-making-attractive-video-thumbnails-for-social-media-platforms/"><u>In 2024, A Beginner's Guide to Making Attractive Video Thumbnails for Social Media Platforms</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-xiaomi-redmi-a2plus-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Xiaomi Redmi A2+ ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/stunning-appraisal-and-alternative-suggestions/"><u>Stunning Appraisal & Alternative Suggestions</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-ultimate-collection-of-film-scripts-by-genre-for-2024/"><u>The Ultimate Collection of Film Scripts by Genre for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/the-updated-method-to-bypass-honor-magic-6-frp-by-drfone-android/"><u>The Updated Method to Bypass Honor Magic 6 FRP</u></a></li>
-<li><a href="https://win-answers.techidaily.com/unable-to-play-ensure-game-data-integrity-for-smooth-gaming/"><u>Unable to Play? Ensure Game Data Integrity for Smooth Gaming</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-action-cameras-face-off-gopro-hero-4-vs-ghost-s-drifting/"><u>[New] Action Cameras Face Off GoPro Hero 4 Vs. Ghost-S Drifting</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-pixel-power-the-best-for-web-video-gems/"><u>[Updated] In 2024, Pixel Power The Best for Web Video Gems</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-unraveling-youtubes-monetization-shifts/"><u>2024 Approved Unraveling YouTube's Monetization Shifts</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-itel-s23-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Itel S23</u></a></li>
+<li><a href="https://win-superb.techidaily.com/accelerating-launch-durations-essential-tips-and-techniques-by-industry-leaders-at-yl-software/"><u>Accelerating Launch Durations: Essential Tips & Techniques by Industry Leaders at YL Software</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-vivowithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Vivowith/without a PC</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-tecno-camon-20-premier-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Tecno Camon 20 Premier 5G Devices</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-xiaomi-13t-pro-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Xiaomi 13T Pro FRP</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-nubia-red-magic-8s-proplus-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Nubia Red Magic 8S Pro+ FRP Bypass</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-logitech-m185-drivers-available-for-immediate-download/"><u>Latest Logitech M185 Drivers Available for Immediate Download</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-oppo-a2-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Oppo A2 | Dr.fone</u></a></li>
 </ul></div>
 

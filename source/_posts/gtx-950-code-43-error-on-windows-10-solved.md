@@ -1,7 +1,7 @@
 ---
 title: GTX 950 Code 43 Error on Windows 10 [Solved]
-date: 2024-12-20T03:52:49.785Z
-updated: 2024-12-21T21:09:57.337Z
+date: 2024-12-25T17:09:27.231Z
+updated: 2024-12-27T17:19:22.511Z
 tags:
   - win11
   - win10
@@ -39,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/19760dde0975a0de0ce2cfe0db96677605f044bc9
 
 **c** . Windows cannot recognize faulty hardware either, so please make sure that your display card is in good conditions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Option 1: Clean re-install NVIDIA 950
 
  To perform a clean re-install of your graphics card driver, you may need some help from tools like CCleaner or Display Driver Uninstaller. In this post, we choose**Display Driver Uninstaller** .
@@ -57,15 +61,15 @@ thumbnail: https://thmb.techidaily.com/19760dde0975a0de0ce2cfe0db96677605f044bc9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941fe0557eee.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Wait for the process to finish, and your PC will restart in normal mode.
 
  5) Then go to NVIDIA drivers download website and search for GTX 950 driver for your device. After filling in the blanks, hit the**SEARCH** button to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941ffa76ae44.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Then follow the on-screen instructions to get the driver downloaded.
 
@@ -84,7 +88,7 @@ thumbnail: https://thmb.techidaily.com/19760dde0975a0de0ce2cfe0db96677605f044bc9
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59420461c87a5.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the**Update** button next to the flagged NVIDIA driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
@@ -93,31 +97,27 @@ thumbnail: https://thmb.techidaily.com/19760dde0975a0de0ce2cfe0db96677605f044bc9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5942041be93b6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Option 2: Update Windows 10**
 
  1) On your keyboard, press**Start** button, and then choose**Setting** icon. In the Setting window, click**Update & security** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594207c6d9e1b.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click the**Check for updates** button to see if there are any new updates available.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594208adac37c.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) If new updates are available, just download and then update them as instructed.
 
  4) Restart your computer after the update. Then check to see if the code 43 still remains.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Option 3: Update BIOS**
 
@@ -155,24 +155,24 @@ thumbnail: https://thmb.techidaily.com/19760dde0975a0de0ce2cfe0db96677605f044bc9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-uncovering-notable-versions-within-microsofts-movie-maker/"><u>[Updated] 2024 Approved Uncovering Notable Versions Within Microsoft's Movie Maker</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-tap-into-thriving-youtube-threads/"><u>[Updated] Tap Into Thriving YouTube Threads</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Oppo A78 | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/a-comprehensive-approach-to-resolving-missing-winhttpdll-issues/"><u>A Comprehensive Approach to Resolving Missing winhttp.dll Issues</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209518622-9781620558768-developing-supersensible-perception/"><u>Developing Supersensible Perception | Free Book</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/easy-guide-how-to-bypass-tecno-spark-20c-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Tecno Spark 20C FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://program-issues.techidaily.com/enhancing-performance-optimizing-black-myth-wukong-for-smoother-pc-gaming-experience/"><u>Enhancing Performance: Optimizing Black Myth Wukong for Smoother PC Gaming Experience</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-nubia-z50-ultra-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Nubia Z50 Ultra Phones with/without a PC</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-about-tecno-pova-5-pro-frp-bypass-by-drfone-android/"><u>In 2024, About Tecno Pova 5 Pro FRP Bypass</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-audio-aspects-for-digital-photo-compilation/"><u>In 2024, Audio Aspects for Digital Photo Compilation</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Realme Narzo N53 | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-itel-a05s-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Itel A05s FRP In 3 Different Ways</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-infinix-smart-7-hd-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Infinix Smart 7 HD FRP Without Computer</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-itel-a60s-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Itel A60s FRP</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-xiaomi-civi-3-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Xiaomi Civi 3 FRP Bypass</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/latest-guide-how-to-bypass-google-pixel-fold-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Google Pixel Fold FRP Without Computer</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/master-the-art-of-mobile-computing-with-the-versatile-msi-pro-mp161-e2-display/"><u>Master the Art of Mobile Computing with the Versatile MSI PRO MP161 E2 Display</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-hidden-challenges-of-downgrading-from-windows-11-to-windows-10-explained-expert-tips/"><u>The Hidden Challenges of Downgrading From Windows 11 to Windows 10 Explained - Expert Tips</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/xiaomi-redmi-k70-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Xiaomi Redmi K70 ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-behind-the-lens-detailed-evaluation-of-sj-cam-s6/"><u>[New] 2024 Approved Behind the Lens Detailed Evaluation of SJ-CAM S6</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-exclusive-top-quintessential-4k-hd-gear-list/"><u>[New] In 2024, Exclusive Top Quintessential 4K HD Gear List</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-capturecare-essential-guide-to-ig-photo-and-video-resize/"><u>[Updated] In 2024, CaptureCare Essential Guide to IG Photo & Video Resize</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-14-top-metaverse-initiatives-revealing-potential-futures/"><u>2024 Approved 14 Top Metaverse Initiatives Revealing Potential Futures</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-expert-guide-streaming-and-saving-hulu-seasons-flawlessly/"><u>2024 Approved Expert Guide Streaming and Saving Hulu Seasons Flawlessly</u></a></li>
+<li><a href="https://media-tips.techidaily.com/discover-the-leading-id3-tagging-software-options-compatible-with-windows-10-8-7-and-macos-systems/"><u>Discover the Leading ID3 Tagging Software Options Compatible with Windows 10, 8, 7 & macOS Systems</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-vivo-y100i-by-drfone-android/"><u>How to Bypass FRP from Vivo Y100i?</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-infinix-gt-10-pro-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Infinix GT 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-honor-90-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Honor 90</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-about-honor-magic-5-frp-bypass-by-drfone-android/"><u>In 2024, About Honor Magic 5 FRP Bypass</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-about-xiaomi-14-frp-bypass-by-drfone-android/"><u>In 2024, About Xiaomi 14 FRP Bypass</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-about-xiaomi-redmi-note-12-pro-4g-frp-bypass-by-drfone-android/"><u>In 2024, About Xiaomi Redmi Note 12 Pro 4G FRP Bypass</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exceptional-power-for-gopro-hero5-official-sources-and-alternatives/"><u>In 2024, Exceptional Power for GoPro Hero5 Official Sources & Alternatives</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-full-guide-to-bypass-tecno-spark-10-4g-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Tecno Spark 10 4G FRP</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-honor-play-8twithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Honor Play 8Twith/without a PC</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-vivo-y27-4g-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Vivo Y27 4G?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-google-pixel-7a-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Google Pixel 7a FRP</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-honor-90-pro-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Honor 90 Pro FRP Bypass</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ama-pro-network-partnership-guide-for-2024/"><u>Panorama Pro Network Partnership Guide for 2024</u></a></li>
 </ul></div>
 

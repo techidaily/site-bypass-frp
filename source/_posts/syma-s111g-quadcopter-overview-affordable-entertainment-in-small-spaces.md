@@ -1,7 +1,7 @@
 ---
 title: "Syma S111G Quadcopter Overview: Affordable Entertainment in Small Spaces"
-date: 2024-12-15T23:58:51.876Z
-updated: 2024-12-21T23:18:58.935Z
+date: 2024-12-25T18:01:15.831Z
+updated: 2024-12-27T16:52:58.030Z
 categories:
   - BestProducts
 description: "This Article Describes Syma S111G Quadcopter Overview: Affordable Entertainment in Small Spaces"
@@ -13,17 +13,9 @@ thumbnail: https://thmb.techidaily.com/8e9871ece440ba59c8d9840801e94460c09fbc87b
 
 4.9
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## LG OLED C9 65" 4K Smart TV
 
 ![LG OLED C9 65-inch 4K Smart TV](https://www.lifewire.com/thmb/Z82osxXGuhEbZyidLLG58VdbbJ0=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG-65inch-4K-TV_1LW4142020_HeroSquare-b4b1522941d44a18b75a586155788477.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Lifewire / Emily Isaacs
 
@@ -47,6 +39,10 @@ Lifewire / Emily Isaacs
 [View On Amazon $1,499](https://www.amazon.com/dp/B07NHQ4CXM?tag=lifewire-onsite-prod-20&ascsubtag=4782074%7Cnbf356f5c2a82467e96b6fbc9b5b4691023%7CB07NHQ4CXM) [View On Walmart $3,497](https://www.walmart.com/ip/LG-65-Class-OLED-C9-Series-4K-2160P-Smart-Ultra-HD-HDR-TV-OLED65C9PUA-2019-Model/543371577)
 
 4.9
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## LG OLED C9 65" 4K Smart TV
 
@@ -77,7 +73,7 @@ Lifewire / Emily Isaacs
 ![LG OLED C9 65-inch 4K Smart TV](https://www.lifewire.com/thmb/Ky7KFEDgeAy-u_D_Tv7zaOPYQMI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG-65inch-4K-TV_1LW4142020_03-f111424cfd584bfeac329fa2932278ca.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Emily Isaacs
@@ -94,11 +90,11 @@ Lifewire / Emily Isaacs
 
 ![LG OLED C9 65-inch 4K Smart TV](https://www.lifewire.com/thmb/mxKfDJGuIKYcsSIQoKfzwDbYYmg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG-65inch-4K-TV_1LW4142020_02-3da87ff8439343f691cf02e9234d1f04.jpg)
 
- Lifewire / Emily Isaacs
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Lifewire / Emily Isaacs
 
 ## **Setup Process: Do it yourself worthy, but you’ll need a hand**
 
@@ -140,11 +136,19 @@ Lifewire / Emily Isaacs
 
  In addition to the WebOS software, the LG C9 also comes with Google Assistant as well as Amazon’s Alexa. It makes it easy to search content, switch between apps and features, or check the weather, among other things.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Price: A premium price for a premium TV**
 
  65-inch 4K TV’s generally retail for between $800-$5,000, and this cost jumps further as screen size increases. The LG C9 is a premium 4K TV that sits at the top of this curve, offering integrated smart technologies and excellent picture with an intuitive, easy-to-use interface. As such, it comes at a premium price of $2,500 (Amazon) that exceeds the cost of many competitor models, but with so many additional features it’s worth the high price—even if it’s difficult to swallow.
 
 [How to Buy a TV For Your Home in 2024](https://www.lifewire.com/best-60-inch-tvs-4580159)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **LG OLED C9 65-inch vs. Samsung 65-inch Class Q60R**
 
@@ -165,10 +169,6 @@ Lifewire / Emily Isaacs
  **An excellent TV you shouldn’t hesitate to buy if you value ease of use and superb image quality.**
 
  With its excellent smart features, gorgeous 4K image quality, and an easy-to-use interface, LG has only improved on last year’s model with the LG OLED C9\. That said, these improvements aren’t significant leaps, mainly coming from processor improvements and the addition of HDMI 2.1 ports. If you’re simply looking for the best TV from last year and price isn’t a consideration, look no further. On the other hand, there are other great 65-inch 4K TV models that may not have all the extra features the C9 does, but do have comparable quality without breaking the bank.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -211,16 +211,18 @@ Lifewire / Emily Isaacs
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-perfect-pics-how-to-capture-your-chromebook-screen-in-four-easy-steps-for-2024/"><u>[New] Perfect Pics How to Capture Your Chromebook Screen in Four Easy Steps for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-top-ios-psp-gamepads-emulation-2023s-best-list-for-2024/"><u>[Updated] Top iOS PSP Gamepads Emulation - 2023'S Best List for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-dish-on-titles-creative-concepts-for-cookery-vids/"><u>2024 Approved Dish on Titles Creative Concepts for Cookery Vids</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/about-infinix-smart-8-hd-frp-bypass-by-drfone-android/"><u>About Infinix Smart 8 HD FRP Bypass</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/free-online-converter-change-webm-files-into-wav-format-with-movavi/"><u>Free Online Converter: Change WebM Files Into WAV Format with Movavi</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-poco-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Poco</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-poco-m6-5g-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Poco M6 5G FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-full-guide-to-bypass-honor-magic-vs-2-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Honor Magic Vs 2 FRP</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-access-your-iphone-15-pro-max-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Access Your iPhone 15 Pro Max When You Forget the Passcode? | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/sonys-playstation-vr-2-library-unveiled-comprehensive-game-roster/"><u>Sony's PlayStation VR 2 Library Unveiled: Comprehensive Game Roster</u></a></li>
-<li><a href="https://win-dash.techidaily.com/ultimate-guide-to-downloading-behringer-usb-sound-card-drivers/"><u>Ultimate Guide to Downloading Behringer USB Sound Card Drivers</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-meme-makers-guide-for-iphones-for-2024/"><u>[New] Meme Makers' Guide (For iPhones) for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/he-best-vocal-transformation-programs-for-video-makers-for-2024/"><u>[New] The Best Vocal Transformation Programs for Video Makers for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-unleashing-the-power-of-creativity-increase-viewership-in-youtube-shorts-for-2024/"><u>[Updated] Unleashing the Power of Creativity Increase Viewership in YouTube Shorts for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-vivo-g2-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Vivo G2 FRP</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-honor-x50-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Honor X50</u></a></li>
+<li><a href="https://facebook.techidaily.com/determining-digital-picture-proprietorship/"><u>Determining Digital Picture Proprietorship</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/diy-collage-hacks-for-your-iphones-photo-gallery/"><u>DIY Collage Hacks for Your iPhone's Photo Gallery</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-apple-iphone-14-plus-drfone-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on Apple iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-honor-play-8t-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Honor Play 8T Devices</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-tecno-spark-20c-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Tecno Spark 20C Devices</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-xiaomi-mix-fold-3-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Xiaomi Mix Fold 3 FRP Without Computer</u></a></li>
+<li><a href="https://games-able.techidaily.com/retreating-from-realms-preserve-and-play-on/"><u>Retreating From Realms: Preserve and Play On</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/revealing-hidden-aspects-in-minecraft/"><u>Revealing Hidden Aspects in Minecraft</u></a></li>
 </ul></div>
 
