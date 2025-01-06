@@ -1,7 +1,7 @@
 ---
 title: "Syma S111G Quadcopter Overview: Affordable Entertainment in Small Spaces"
-date: 2024-12-25T18:01:15.831Z
-updated: 2024-12-27T16:52:58.030Z
+date: 2025-01-01T19:38:39.828Z
+updated: 2025-01-06T02:03:09.241Z
 categories:
   - BestProducts
 description: "This Article Describes Syma S111G Quadcopter Overview: Affordable Entertainment in Small Spaces"
@@ -40,13 +40,13 @@ Lifewire / Emily Isaacs
 
 4.9
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## LG OLED C9 65" 4K Smart TV
 
 ![LG OLED C9 65-inch 4K Smart TV](https://www.lifewire.com/thmb/-RQ5Ui3BjE0KxHGHYE-UjNz7EY4=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG-65inch-4K-TV_1LW4142020_HeroSquare-b4b1522941d44a18b75a586155788477.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Emily Isaacs
 
@@ -73,7 +73,7 @@ Lifewire / Emily Isaacs
 ![LG OLED C9 65-inch 4K Smart TV](https://www.lifewire.com/thmb/Ky7KFEDgeAy-u_D_Tv7zaOPYQMI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG-65inch-4K-TV_1LW4142020_03-f111424cfd584bfeac329fa2932278ca.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Emily Isaacs
@@ -89,10 +89,6 @@ Lifewire / Emily Isaacs
  For customers with multiple external devices, such as Blu-ray players or gaming consoles, ports are located along the TV’s left-hand side and directly on its backside. These connection options include 4[HDMI](https://www.lifewire.com/hdmi-facts-high-definition-multimedia-interface-1847337) 2.1 ports, 3[USB](https://www.lifewire.com/universal-serial-bus-usb-2626039) ports, one cable/antenna input, one LAN port, and audio connections. The HDMI 2.1 ports are especially important since consoles began emerging in 2020 that rely on HDMI 2.1 such as the Playstation 5.
 
 ![LG OLED C9 65-inch 4K Smart TV](https://www.lifewire.com/thmb/mxKfDJGuIKYcsSIQoKfzwDbYYmg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG-65inch-4K-TV_1LW4142020_02-3da87ff8439343f691cf02e9234d1f04.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Lifewire / Emily Isaacs
 
@@ -120,6 +116,10 @@ Lifewire / Emily Isaacs
 
  These pictures are further enhanced with LG’s α9 Gen 2 intelligent processor, new to 2019’s model. It excels at drawing out detail and correcting quality discrepancies within the picture, such as banding which creates textures and strips in areas of the screen that would otherwise be smooth. This is particularly important given the large screen size and high resolution. While it’s not as bright as an LED TV since it lacks backlighting, it doesn’t need it as the TV already possesses excellent color, a change here would risk washing out the inky blacks on the screen.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Audio: Better than expected**
 
  While OLED TVs aren’t generally known for their great sound quality, the LG C9 has a surprisingly good sound system all things considered—but a soundbar would still be recommended. Audio in TV or movies is generally good, but it struggles to regulate loud and soft noises in a scene. Streaming Lizzo’s_Cuz I Love You_ on Spotify produces a surprising depth of sound, but it’s simply not comparable to a more robust system that a soundbar or home theater system would provide.
@@ -127,6 +127,10 @@ Lifewire / Emily Isaacs
 ![LG OLED C9 65-inch 4K Smart TV](https://www.lifewire.com/thmb/SZUaFESJi6OZubIeLdK1e9L9FEM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG-65inch-4K-TV_1LW4142020_04-c559e4cc6de64f0c8baf4470f883dd9e-4844a7694fb74eb2904f1128ba93f760.jpeg)
 
 Lifewire / Emily Isaacs
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Software: Smooth and easy to use**
 
@@ -136,19 +140,11 @@ Lifewire / Emily Isaacs
 
  In addition to the WebOS software, the LG C9 also comes with Google Assistant as well as Amazon’s Alexa. It makes it easy to search content, switch between apps and features, or check the weather, among other things.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Price: A premium price for a premium TV**
 
  65-inch 4K TV’s generally retail for between $800-$5,000, and this cost jumps further as screen size increases. The LG C9 is a premium 4K TV that sits at the top of this curve, offering integrated smart technologies and excellent picture with an intuitive, easy-to-use interface. As such, it comes at a premium price of $2,500 (Amazon) that exceeds the cost of many competitor models, but with so many additional features it’s worth the high price—even if it’s difficult to swallow.
 
 [How to Buy a TV For Your Home in 2024](https://www.lifewire.com/best-60-inch-tvs-4580159)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **LG OLED C9 65-inch vs. Samsung 65-inch Class Q60R**
 
@@ -169,6 +165,10 @@ Lifewire / Emily Isaacs
  **An excellent TV you shouldn’t hesitate to buy if you value ease of use and superb image quality.**
 
  With its excellent smart features, gorgeous 4K image quality, and an easy-to-use interface, LG has only improved on last year’s model with the LG OLED C9\. That said, these improvements aren’t significant leaps, mainly coming from processor improvements and the addition of HDMI 2.1 ports. If you’re simply looking for the best TV from last year and price isn’t a consideration, look no further. On the other hand, there are other great 65-inch 4K TV models that may not have all the extra features the C9 does, but do have comparable quality without breaking the bank.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -211,18 +211,24 @@ Lifewire / Emily Isaacs
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-meme-makers-guide-for-iphones-for-2024/"><u>[New] Meme Makers' Guide (For iPhones) for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/he-best-vocal-transformation-programs-for-video-makers-for-2024/"><u>[New] The Best Vocal Transformation Programs for Video Makers for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-unleashing-the-power-of-creativity-increase-viewership-in-youtube-shorts-for-2024/"><u>[Updated] Unleashing the Power of Creativity Increase Viewership in YouTube Shorts for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-vivo-g2-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Vivo G2 FRP</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-honor-x50-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Honor X50</u></a></li>
-<li><a href="https://facebook.techidaily.com/determining-digital-picture-proprietorship/"><u>Determining Digital Picture Proprietorship</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/diy-collage-hacks-for-your-iphones-photo-gallery/"><u>DIY Collage Hacks for Your iPhone's Photo Gallery</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-apple-iphone-14-plus-drfone-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on Apple iPhone 14 Plus | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-honor-play-8t-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Honor Play 8T Devices</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-tecno-spark-20c-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Tecno Spark 20C Devices</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-xiaomi-mix-fold-3-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Xiaomi Mix Fold 3 FRP Without Computer</u></a></li>
-<li><a href="https://games-able.techidaily.com/retreating-from-realms-preserve-and-play-on/"><u>Retreating From Realms: Preserve and Play On</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/revealing-hidden-aspects-in-minecraft/"><u>Revealing Hidden Aspects in Minecraft</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-engage-in-enlightening-youtube-exchanges/"><u>[Updated] Engage in Enlightening YouTube Exchanges</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-navigating-the-search-for-master-video-artists-for-2024/"><u>[Updated] Navigating the Search for Master Video Artists for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-wealth-dissection-of-the-elusive-mr-beast/"><u>[Updated] Wealth Dissection of the Elusive Mr. Beast</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/core-elements-in-storytelling-skills-for-2024/"><u>Core Elements in Storytelling Skills for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/dynamic-stabilizer-for-steady-videography/"><u>Dynamic Stabilizer for Steady Videography</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/explore-advanced-gadgetry-top-picks-and-analyses-from-toms-technological-vault/"><u>Explore Advanced Gadgetry: Top Picks and Analyses From Tom's Technological Vault</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-vivo-y27s-frp-by-drfone-android/"><u>Full Guide to Bypass Vivo Y27s FRP</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-honor-80-pro-straight-screen-edition-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Honor 80 Pro Straight Screen Edition Phones with/without a PC</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-13-pro-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 13 Pro to other iPhone 14 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-update-your-lenovo-thunderbolt-3-portable-hub-firmware/"><u>How to Update Your Lenovo Thunderbolt 3 Portable Hub Firmware</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-zte-nubia-flip-5g-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to ZTE Nubia Flip 5G FRP Bypass Instantly</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-tecno-pova-6-pro-5g-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Tecno Pova 6 Pro 5G Phone FRP Lock</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-tecno-pova-5-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Tecno Pova 5 FRP Bypass</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-xiaomi-redmi-note-13-pro-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Xiaomi Redmi Note 13 Pro 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-xiaomi-14-ultra-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Xiaomi 14 Ultra Phone FRP Lock</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/tecno-pova-5-pro-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Tecno Pova 5 Pro ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-from-xiaomi-14-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Xiaomi 14 FRP Bypass</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-data-from-galaxy-f14-5g-by-fonelab-android-recover-data/"><u>Undelete lost data from Galaxy F14 5G</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-realme-c51-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Realme C51 Device</u></a></li>
 </ul></div>
 

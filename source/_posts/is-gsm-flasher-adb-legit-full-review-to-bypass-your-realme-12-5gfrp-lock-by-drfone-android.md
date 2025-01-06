@@ -1,7 +1,7 @@
 ---
 title: Is GSM Flasher ADB Legit? Full Review To Bypass Your Realme 12 5GFRP Lock
-date: 2024-12-19T02:20:49.398Z
-updated: 2024-12-21T23:09:18.102Z
+date: 2025-01-03T18:28:51.642Z
+updated: 2025-01-06T00:14:12.238Z
 tags: 
   - unlock
   - bypass android frp
@@ -87,10 +87,6 @@ Proceed by clicking "Remove FRP" on your computer. It's essential to be aware th
 
 ![How to use GSM Flasher ADB tool](https://images.wondershare.com/drfone/article/2024/01/gsm-flasher-adb-bypasser-frp-tool-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3. Quick and Easy Bypasser FRP Tool Alternative
 
 If your phone model is not compatible with **GSM Flasher ADB** or if the tool doesn't seem to suit your needs, a reliable and swift alternative for FRP bypass is [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/). Dr.Fone offers the Screen Unlock feature that is intricately crafted to streamline the FRP bypass process, ensuring both ease and efficiency.
@@ -141,10 +137,6 @@ Now, your Android screen will display a notification to enable USB debugging. On
 
 ![Enable USB debugging on Android](https://images.wondershare.com/drfone/guide/remove-google-frp-unknown-os-6.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 On your computer, the next screen will show that the FRP lock is being removed from your Android device. Once it's successfully removed, a window will pop up saying it's done. Click "Done" if you've completed the process successfully.
 
 _**Tips:** Are you searching for a powerful FRP Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
@@ -161,6 +153,10 @@ As an alternative, tools like Dr.Fone can be explored for additional compatibili
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Bypass Google FRP Lock on Realme 12 5G Devices
 
 Technological advancements in the IT and telecommunication industry simplify your tasks and provide security against cyber malpractices. The advantages are numerous and appealing, but there are downsides too. One such inconvenience is caused by Google FRP lock in Realme 12 5G smartphones. The facility keeps your device information safe against unauthorized access. However, users often report issues like lockouts not being removed due to several causes. Such scenarios raise the demand for **Realme 12 5G Nord FRP bypass** solutions for seamless device access.
@@ -168,7 +164,11 @@ Technological advancements in the IT and telecommunication industry simplify you
 ![google frp bypass in oneplus phones](https://images.wondershare.com/drfone/article/2022/08/how-to-bypass-google-frp-lock-on-any-oneplus-phones-01.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1. What Is Google FRP and How Does It Work?
@@ -181,6 +181,10 @@ If your device is under untrusted access and the FRP lock is enabled, the latter
 
 To remove the Google FRP lock on your Realme 12 5G device, you can follow any of the methods discussed below:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Bypass Google FRP Lock on Your Realme 12 5G Phone
 
 - Switch on the Wi-Fi network of the Realme 12 5G phone and head to the 'Hello' screen.
@@ -189,10 +193,6 @@ To remove the Google FRP lock on your Realme 12 5G device, you can follow any of
 _**Emergency Call> Emergency Rescue> Add Contact**_
 
 ![emergency rescue interface of oneplus phones](https://images.wondershare.com/drfone/article/2022/08/how-to-bypass-google-frp-lock-on-any-oneplus-phones-02.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - When the permission prompt pops up, click on 'Deny' and tap "Go to Settings".
 - Hit the 'Permission' tab and tap the 'Search' button.
@@ -229,6 +229,10 @@ This is a quick and smart way to address the FRP lock removal issue within sever
 
 ![google frp lock bypass using apk](https://images.wondershare.com/drfone/article/2022/08/how-to-bypass-google-frp-lock-on-any-oneplus-phones-04.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Deactivate FRP in Your Realme 12 5G Phone
 
 Removing the Google FRP lock using a computer is impossible in some instances. Deleting your registered Gmail account from the Realme 12 5G device can help you in these circumstances. The downside of this method is that your device's data will lose protection from Google. Here's how you can delete your Gmail account from the FRP-locked phone:
@@ -255,10 +259,6 @@ Removing the Google FRP lock using a computer is impossible in some instances. D
 
 ## FAQs about Google Lock Bypass
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Does Factory Reset Remove Google Account?
 
 There may be instances when you require wiping out smartphone data to keep it safe against unauthorized access. Maybe you wish to pass on your device to another user or migrate to a different device. It is important to make sure that all accounts linked to the phone are deleted from the Realme 12 5G device. It should be understood here that a factory reset will not remove Google or other accounts from the Realme 12 5G device. The process restores the default factory settings of the phone that you got at the first purchase.
@@ -272,13 +272,13 @@ Enabling the Factory Reset protection feature is a smart way to protect the impo
 
 These steps will cause the automatic configuration of the Factory Reset Protection feature. The invader will be prompted to enter the registered Google account credentials on every attempt to access the phone.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 Developments in electronic technology have brought a series of benefits, covering easy access, security, and everything in between. One such feature is the Google Factory Reset Protection to protect your device data against untrusted access. The feature is undoubtedly credible, but there may be situations that require bypassing the FRP lock. For affordable solutions to address the concern on Realme 12 5G phones, pick the one that corresponds to your specific situation.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - Screen Unlock (Android)
 
@@ -291,6 +291,10 @@ Unlock Your Realme 12 5G Phone in a Flash
 
 **3,981,454** people have downloaded it
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Realme 12 5G ADB Format Tool for PC vs. Other Unlocking Tools: Which One is the Best?
 
 In today's digital era, efficient and secure data management is crucial. That's where the Realme ADB Format Tool comes in handy! Realme ADB Format Tool for PC is one such Windows-based software that helps in unlocking patterns, passwords, and FRP locks from the Android-based Realme devices. In this post, we'll guide you through its features, installation process, and usage. Additionally, we'll explore the benefits it offers, how to troubleshoot common issues, and connecting it with other mobile unlocker solutions currently available; so you can decide which tool serves as the ideal solution for your needs!
@@ -302,6 +306,10 @@ The article below will let you learn all about this **Realme unlock tool**, and 
 ## Part 1. What is Realme ADB Format Tool?
 
 The Realme ADB Format Tool is a computer application designed to help you format and unlock your Realme device. It utilizes the Android Debug Bridge (ADB) protocol to communicate with your device and perform various operations, such as removing FRP (Factory Reset Protection) lock, deleting screen unlock patterns, and much more.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Realme ADB Format Tool 2021: Special Features
 
@@ -320,10 +328,6 @@ Using the Realme ADB Format Tool offers several benefits. Here are the key ones:
 - **Data Security and Privacy:** This tool allows you to remove the FRP lock from your device, ensuring that your personal data remains safe in case of loss or theft.
 - **Efficient Device Formatting:** The Realme ADB Format Tool provides a quick and efficient way to format your device, removing unwanted files, apps, and settings in just one click.
 - **Compatibility with Realme Devices:** Specifically developed for Realme devices, this tool ensures a smooth and hassle-free interaction with your device.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Disadvantages of using Realme ADB Format Tool
 
@@ -348,10 +352,6 @@ But, sometimes, as the Realme 12 5G device owner, we fall prey and forget the cr
 
 Pattern locks are a very popular way of screen locking Realme phones; however, if you forget your pattern setting, you are in trouble. Realme ADB format tool can help you here for bypassing your pattern lock.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3: How to Download and Bypass FRP with Realme ADB Format Tool?
 
 The part below will help you to learn the process of downloading, installing, and using the Realme ADB Format Tool.
@@ -371,7 +371,7 @@ You can obtain the Realme ADB Format Tool by clicking on the following download 
 - **Step 7.** The process will now take a few minutes, and after it is done, some Google credentials will be asked on the Realme 12 5G device for logging in.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How Does the Process Work?
@@ -390,10 +390,6 @@ The steps for the working of the tool are enlisted below.
 - **Step 8.** The process of bypassing the lock will complete as the Finish message appears.
 
 The device will now boot up and all the data will be formatted.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 4: The Best Alternative to the Realme ADB Format Tool \[Remove Pattern & FRP Lock, highest success rate\]
 
@@ -453,6 +449,10 @@ Both tools serve their purpose effectively. If you're looking for a free and sim
 
 ## Part 6. FAQs about the Realme ADB Format Tool
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Is the Realme ADB Format Tool safe to use?
 
 Yes, it is safe to use. However, it is recommended to [back up your data](https://drfone.wondershare.com/backup/best-android-backup.html) before using it.
@@ -482,19 +482,18 @@ _In such conditions, you would need a reliable tool that can help you bypass the
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-guide-to-saving-instagram-videos-with-maximum-convenience/"><u>[New] In 2024, Guide to Saving Instagram Videos with Maximum Convenience</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-enhanced-joy-in-switchs-hd-gameplay-through-cards-for-2024/"><u>[Updated] Enhanced Joy in Switch's HD Gameplay Through Cards for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-unique-business-symbols-edit-refine-and-download-logos-from-template-basics/"><u>[Updated] In 2024, Unique Business Symbols Edit, Refine, and Download Logos From Template Basics</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-charting-the-course-for-profitable-youtube-videos/"><u>2024 Approved Charting the Course for Profitable Youtube Videos</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/fist-of-legends-highest-rated-kung-fu-virtual-battles/"><u>Fist of Legends Highest-Rated Kung Fu Virtual Battles</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-realme-12-proplus-5g-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Realme 12 Pro+ 5G FRP Locks</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-poco-x6-pro-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Poco X6 Pro FRP In 3 Different Ways</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-c67-4g-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Realme C67 4G Phone with Broken Screen</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-vivo-x90s-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Vivo X90S FRP Bypass Instantly</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-dominate-igtv-with-follower-growth-essential-techniques-reviewed/"><u>In 2024, Dominate IGTV With Follower Growth Essential Techniques Reviewed</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-xiaomi-redmi-k70-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Xiaomi Redmi K70 Through Google Earth?</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-vivo-v30-lite-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Vivo V30 Lite 5G Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-realme-c53-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Realme C53 FRP</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/top-10-online-yoga-classrooms-enhancing-physical-strength-for-2024/"><u>Top 10 Online Yoga Classrooms Enhancing Physical Strength for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-virtual-impression-sculpting-a-playful-digital-identity/"><u>[Updated] 2024 Approved Virtual Impression Sculpting a Playful Digital Identity</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-hot-off-the-tiktok-menu-top-dishes-and-challenges-for-2024/"><u>[Updated] Hot Off the TikTok Menu Top Dishes & Challenges for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-unveiling-the-secrets-of-morphvox-sound-adjustment/"><u>[Updated] In 2024, Unveiling the Secrets of MorphVOX Sound Adjustment</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/5-solutions-for-zte-unlock-without-password-by-drfone-android/"><u>5 Solutions For ZTE Unlock Without Password</u></a></li>
+<li><a href="https://video-capture.techidaily.com/1726030104170-gifwindows/"><u>GIFファイルリサイジング手順：Windowsユーザ向けチュートリアル</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-honor-x9a-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Honor X9a Devices</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-xiaomi-13t-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Xiaomi 13T Devices</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-zte-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your ZTE</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-infinix-gt-10-pro-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Infinix GT 10 Pro Devices</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Honor Magic 5? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-vivo-x100-pro-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Vivo X100 Pro FRP Without Computer</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-strategies-for-effective-content-promotion-on-youtube/"><u>In 2024, Strategies for Effective Content Promotion on YouTube</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/top-20-youtube-font-choices-for-striking-thumbnails/"><u>Top 20 YouTube Font Choices for Striking Thumbnails</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Latest Guide How To Bypass Nubia Red Magic 8S Pro FRP Without Computer
-date: 2024-12-25T16:08:50.229Z
-updated: 2024-12-27T17:55:06.012Z
+date: 2025-01-03T21:09:35.530Z
+updated: 2025-01-05T16:55:34.581Z
 tags: 
   - unlock
   - bypass android frp
@@ -22,10 +22,6 @@ Even though this is an important security measure, it can sometimes be annoying.
 - [Part 1: What’s Nubia Red Magic 8S Pro FRP Code and How To Use It](https://drfone.wondershare.com/bypass-android-frp/how-to-bypass-vivo-frp-without-computer.html#Part1)
 - [Part 2: How To Bypass Nubia Red Magic 8S Pro FRP With Other Methods](https://drfone.wondershare.com/bypass-android-frp/how-to-bypass-vivo-frp-without-computer.html#Part2)![hot icon](https://images.wondershare.com/drfone/2022/images/hot-icon.gif)
 - [Part 3: How To Disable Nubia Red Magic 8S Pro FRP Easily](https://drfone.wondershare.com/bypass-android-frp/how-to-bypass-vivo-frp-without-computer.html#Part3)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1: What’s Nubia Red Magic 8S Pro FRP Code and How To Use It
 
@@ -71,6 +67,10 @@ The FRP lock on your Nubia smartphone is closely linked to the Google account. T
 
 ![add the google account details](https://images.wondershare.com/drfone/article/2023/07/bypass-vivo-frp-without-computer-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 2: Using Third-Party FRP Bypass Apps
 
 There are many third-party tools available that can help you bypass the Nubia Red Magic 8S Pro FRP lock. One of these tools is [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/). This tool is considered to be the best when it comes to bypassing FRP lock. It provides a powerful screen unlock feature that can bypass many locks on Android devices. These locks include passwords, PINs, patterns, fingerprints, and face locks.
@@ -109,10 +109,6 @@ Once the driver is downloaded, switch off your Nubia device. Now connect it to t
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3: How To Disable Nubia Red Magic 8S Pro FRP Easily
 
 Factory Reset Protection (FRP) is an important security feature that safeguards your data. However, there may be instances where you find it necessary to disable FRP. Disabling FRP can be helpful if you want to have complete control over your device. It will help you avoid any potential complications that may arise from FRP activation.
@@ -139,10 +135,6 @@ Each method has its own merits and limitations. However, we recommend considerin
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How To Bypass Nubia Red Magic 8S Pro FRP In 3 Different Ways
 
 Are you having trouble bypassing Nubia Red Magic 8S Pro FRP? If so, you're not alone. A lot of people are struggling with this particular task. But don't worry - We are here to help.
@@ -167,25 +159,13 @@ One of the most common reasons for needing to bypass FRP is that you simply forg
 
 Another common reason for wanting to bypass FRP is if you've purchased a second-hand phone. If the previous owner of the phone didn't correctly remove their Google account from the Nubia Red Magic 8S Pro device before selling it to you, then you'll be stuck with their account on the phone and won't be able to use it yourself until you bypass FRP.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Factory Reset In An Untrusted Environment
 
 If you've performed a factory reset on your phone to try and fix an issue or start fresh, you'll need to bypass FRP to use the Nubia Red Magic 8S Pro device again. It is because a factory reset will also remove your Google account from the phone, leaving you locked out unless you can remember the login credentials.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2: Bypass Nubia Red Magic 8S Pro FRP With 3 Easy Methods
 
 Bypassing FRP can be a bit tricky, but it's possible to do it if you have the right tools and know-how. If you're looking for a quick and easy way to bypass FRP on your Nubia Red Magic 8S Pro device, below are the methods you can use to Nubia Red Magic 8S Pro Hot 10 FRP bypass.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method #1: Recover the Google Account Of Your Device
 
@@ -232,6 +212,10 @@ Using FRP Bypass APK, you can unlock Google lock on the Nubia Red Magic 8S Pro H
 **Step 10:** Create a new Google account or skip the option to do so later.
 
 Nubia Red Magic 8S Pro Hot 8 FRP bypass using FRP Bypass APK is a simple method that a beginner can utilize.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method #3: Bypass Nubia Red Magic 8S Pro FRP Without PC Via Settings Menu
 
@@ -296,7 +280,7 @@ Having a clear understanding of what exactly Nubia Red Magic 8S Pro FRP entails 
 ![bypass Nubia Red Magic 8S Pro frp lock](https://images.wondershare.com/drfone/article/2023/07/vivo-y20-frp-lock-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What is Nubia Red Magic 8S Pro FRP?
@@ -330,7 +314,7 @@ Before proceeding with the Nubia Red Magic 8S Pro FRP bypass, there are some ess
 3. **Security Risks:** Bypassing FRP can potentially expose your device to security risks. Only follow trusted guides and sources to avoid installing malicious software.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Required Tools and Equipment
@@ -351,6 +335,10 @@ The best tool in this scenario to use is [Wondershare Dr.Fone](https://tools.tec
 
 A stable and reliable internet connection is vital for a smooth FRP bypass. Make sure your computer and Nubia Red Magic 8S Pro are connected to the internet throughout the process. FRP bypassing will need you to download related files to complete the procedure.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: Step-by-Step Guide: How To Bypass Nubia Red Magic 8S Pro FRP
 
 With the necessary preparations, it's time to embark on the step-by-step guide for the **Nubia Y15 FRP bypass**. This section will explore three different methods for bypassing FRP. The first method involves using your Google account credentials, the official way to bypass FRP:
@@ -363,12 +351,16 @@ Before attempting this method, ensure that you have access to the Google account
 
 ![connect to wifi](https://images.wondershare.com/drfone/article/2023/07/vivo-y20-frp-lock-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2:** When prompted to verify your Google account, enter the associated email address and password. Ensure that you have a working and high-speed Wi-Fi connection during this step.
 
 ![add the google account details](https://images.wondershare.com/drfone/article/2023/07/vivo-y20-frp-lock-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - **Step 3:** After entering the correct Google account credentials, the Nubia Red Magic 8S Pro device will verify the information. If the details are correct, FRP will be bypassed, and you will gain access to your Nubia Red Magic 8S Pro.
@@ -418,24 +410,32 @@ The third method on the list for Nubia Red Magic 8S Pro FRP bypass is using a co
 
 ![run the Nubia frp tool](https://images.wondershare.com/drfone/article/2023/07/vivo-y20-frp-lock-7.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 2:** To put Nubia Red Magic 8S Pro into Recovery Mode, you will need to simultaneously press and hold the “Power” and “Volume Up” keys together. Hold these keys until you see Fastboot Mode on the screen. Here use the Volume keys to select Recovery Mode.
 - **Step 3:** Within Recovery Mode, select "Advanced Options," and on the following screen, choose "Reboot with adb." Now wait for your phone to turn on and later connect it to the computer with FRP unlock tool installed.
 
 ![choose reboot with adb](https://images.wondershare.com/drfone/article/2023/07/vivo-y20-frp-lock-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 4:** On the [Nubia FRP lock](https://drfone.wondershare.com/unlock/vivo-password-unlock-tool.html) tool interface, tap any key and press enter to check if your device is properly connected. Now repeat the process once again and wait for your Nubia Red Magic 8S Pro to reboot. Once the rebooting process is completed, check to confirm if the FRP lock has been bypassed.
 
 ![complete Nubia frp tool process](https://images.wondershare.com/drfone/article/2023/07/vivo-y20-frp-lock-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4. Troubleshooting and Tips
 
 Navigating the workings of the **Nubia Red Magic 8S Pro FRP bypass** can be challenging. As with any security feature, FRP is designed to protect your data and device. It makes the bypassing process a delicate task. This part will address common issues faced during FRP bypass attempts.
 
 It will also offer valuable tips to ensure a successful process. Moreover, it will explore alternative methods should the initial approaches prove unsuccessful.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Common Issues Faced During Bypassing Nubia Red Magic 8S Pro FRP
 
@@ -479,20 +479,19 @@ It prioritizes data integrity and user privacy. Moreover, its clean interface en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-windows-11s-latest-traits-unveiled/"><u>[New] 2024 Approved Windows 11'S Latest Traits Unveiled</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-elevate-your-instagram-game-with-unique-highlight-images/"><u>[New] In 2024, Elevate Your Instagram Game with Unique Highlight Images</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-strategizing-superior-screen-snatchers/"><u>[New] Strategizing Superior Screen-Snatchers</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-mp3-to-youtube-converter-upload-mp3-to-youtube-3-steps/"><u>[Updated] MP3 to YouTube Converter Upload MP3 to YouTube [3 Steps]</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-navigating-the-nuances-of-spotify-advertising/"><u>[Updated] Navigating the Nuances of Spotify Advertising</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-honor-magic-vs-2-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Honor Magic Vs 2 FRP</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-can-we-bypass-tecno-spark-go-2023-frp-by-drfone-android/"><u>How Can We Bypass Tecno Spark Go (2023) FRP?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-wipe-iphone-xs-max-data-permanently-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Wipe iPhone XS Max Data Permanently? | Stellar</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-about-infinix-note-30-vip-racing-edition-frp-bypass-by-drfone-android/"><u>In 2024, About Infinix Note 30 VIP Racing Edition FRP Bypass</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-vivo-y56-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Vivo Y56 5G Phones with/without a PC</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-infinix-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Infinix Devices</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-tecno-pop-7-pro-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Tecno Pop 7 Pro Devices</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-digital-connections-with-leading-sites-facebook-twitter-instagram-and-youtube/"><u>Navigating Digital Connections with Leading Sites: Facebook, Twitter, Instagram, and YouTube</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-contemporary-elegance-of-taotronics-tt-dl16-a-comprehensive-review-of-its-stylish-design-and-performance/"><u>The Contemporary Elegance of TaoTronics TT-DL16: A Comprehensive Review of Its Stylish Design and Performance</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-from-xiaomi-14-ultra-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Xiaomi 14 Ultra FRP Bypass</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-quiet-browsing-of-fb-narratives/"><u>[New] 2024 Approved Quiet Browsing of FB Narratives</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-charting-success-top-online-video-channels/"><u>[Updated] In 2024, Charting Success Top Online Video Channels</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-pearl-like-pixels-tips-for-perfect-underwater-footage-with-gopro/"><u>[Updated] Pearl-Like Pixels Tips for Perfect Underwater Footage with GoPro</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-samsung-galaxy-xcover-7-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Samsung Galaxy XCover 7 FRP Bypass Instantly</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-xiaomi-redmi-12-5g-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Xiaomi Redmi 12 5G</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bridging-the-gap-ais-impact-on-paperclip-maximization/"><u>Bridging the Gap: AI's Impact on Paperclip Maximization</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209974029-9781612834627-conversations-with-god-book-2/"><u>Conversations With God, Book 2 | Free Book</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-honor-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Honor Phones with/without a PC</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-can-we-bypass-poco-c51-frp-by-drfone-android/"><u>How Can We Bypass Poco C51 FRP?</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-crafting-a-striking-online-presence-with-perfect-yt-dimensions/"><u>In 2024, Crafting a Striking Online Presence with Perfect YT Dimensions</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-can-we-bypass-vivo-v27-pro-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Vivo V27 Pro FRP?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-xiaomi-14-profrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Xiaomi 14 ProFRP Lock</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-the-art-of-viewing-youtube-video-reactions-and-votes-for-2024/"><u>Mastering the Art of Viewing YouTube Video Reactions and Votes for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/top-5-oneplus-nord-3-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 OnePlus Nord 3 5G Bypass FRP Tools for PC That Actually Work</u></a></li>
 </ul></div>
 

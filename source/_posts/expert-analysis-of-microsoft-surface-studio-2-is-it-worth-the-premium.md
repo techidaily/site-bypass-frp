@@ -1,7 +1,7 @@
 ---
 title: "Expert Analysis of Microsoft Surface Studio 2: Is It Worth the Premium?"
-date: 2024-12-22T17:08:47.329Z
-updated: 2024-12-27T16:50:18.145Z
+date: 2025-01-01T22:28:36.371Z
+updated: 2025-01-05T20:02:02.275Z
 categories:
   - BestProducts
 description: "This Article Describes Expert Analysis of Microsoft Surface Studio 2: Is It Worth the Premium?"
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/86157a99bb3c3d407e2d01671b40c89a0f41350bb
 ## Microsoft Surface Ergonomic Keyboard
 
 ![Microsoft Surface Ergonomic Keyboard](https://www.lifewire.com/thmb/vIxt4B-k5bknAa1sNqaFwB1GroY=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Microsoft_ErgoKeyboards_4LW4147386_HeroSquare-3ef573df092942b58b61bf36ce218fb3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Emily Isaacs
 
@@ -39,17 +43,9 @@ Lifewire / Emily Isaacs
 
 4.9
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Microsoft Surface Ergonomic Keyboard
 
 ![Microsoft Surface Ergonomic Keyboard](https://www.lifewire.com/thmb/OTYRC4PtfZO9h5RTG8oHiroYrDg=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Microsoft_ErgoKeyboards_4LW4147386_HeroSquare-3ef573df092942b58b61bf36ce218fb3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Lifewire / Emily Isaacs
 
@@ -73,7 +69,7 @@ Lifewire / Emily Isaacs
  Microsoft is no stranger to computers and their accessories, and it’s obvious with the Microsoft Surface Keyboard that they’ve put a considerable amount of thought into its design. This[ergonomic keyboard](https://www.lifewire.com/best-ergonomic-keyboards-4147386) is not only built with high-quality materials to ensure its longevity, but it’s comfortable and intuitive to use. We tested this keyboard over the period of a week, read on to see what we found.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Design: Sleek and comfortable**
@@ -81,6 +77,10 @@ Lifewire / Emily Isaacs
  The Surface is a sleek ergonomic keyboard and a welcome addition to the Microsoft family. Like many ergonomic keyboards, it’s designed to help your wrists sit at an instinctive, comfortable angle that encourages natural movement to prevent[repetitive stress injuries](https://www.lifewire.com/game-play-and-streaming-4781449) . The keys have a slight divot in the center so fingers naturally conform to their shape, making the keys comfortable and easy to type on.
 
 ![Microsoft Surface Ergonomic Keyboard](https://www.lifewire.com/thmb/XepNCNj18GnNs8V1INrxR7tnMGo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Microsoft_ErgoKeyboards_4LW4147386_04-1edde9a5b2264b4abb528945ffae167f.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Emily Isaacs
 
@@ -102,6 +102,10 @@ Lifewire / Emily Isaacs
 
  Lifewire / Emily Isaacs
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Features: Well-conceived function keys**
 
  The Surface has function keys for pausing multimedia, skipping forward or backward in multimedia, increasing or decreasing volume, muting volume, increasing brightness or decreasing brightness, and several others. It really feels like Microsoft thought of every way their users interact with keyboards and tried to meet their needs.
@@ -111,10 +115,6 @@ Lifewire / Emily Isaacs
  The keyboard[features Bluetooth 4.0 technology](https://www.lifewire.com/what-is-bluetooth-2377412) , so it’s able to establish a wireless connection of up to 32 feet with Bluetooth-capable devices. It’s worth noting that it does use two AAA[alkaline batteries](https://www.lifewire.com/best-aa-and-aaa-rechargeable-batteries-4134295) . These offer a shelf life of up to 12 months, so you’re not likely to run out of power anytime soon. If you do need to change them, it’s easy to press the battery compartment lid down so that it pops out to replace them. One drawback to this design, however, is that the keyboard doesn’t feature backlighting. While this isn’t the end of the world by any means, it is something we definitely missed when using it.
 
  The keyboard features Bluetooth 4.0 technology, so it’s able to establish a wireless connection of up to 32 feet with Bluetooth-capable devices.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Price: Expensive, but worth it for the quality**
 
@@ -127,10 +127,6 @@ Lifewire / Emily Isaacs
 [Microsoft Sculpt Ergonomic Keyboard Review](https://www.lifewire.com/microsoft-sculpt-ergonomic-keyboard-review-4780274)
 
 ![Microsoft Surface Ergonomic Keyboard](https://www.lifewire.com/thmb/V-eFQKJrpei_UnaKMYDEWLLNsYw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Microsoft_ErgoKeyboards_4LW4147386_02-4fa6aa53c9d249a6900cb4058b084301.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Lifewire / Emily Isaacs
 
@@ -147,6 +143,10 @@ Lifewire / Emily Isaacs
  **An almost flawless keyboard that’s worth the price.**
 
  The Microsoft Surface Ergonomic Keyboard is a quality, wireless ergonomic keyboard that’s well worth the investment if you spend a significant portion of your time typing on your computer. It’s a splurge to be sure, but it’s worth the price for the quality you receive.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -179,18 +179,20 @@ Lifewire / Emily Isaacs
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-in-depth-football-footage-top-youtube-infographics/"><u>[New] In 2024, In-Depth Football Footage Top YouTube Infographics</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-accelerated-learning-quick-start-to-becoming-a-lut-expert/"><u>2024 Approved Accelerated Learning Quick Start to Becoming a LUT Expert</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-tecno-pova-6-pro-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Tecno Pova 6 Pro 5G</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/exploring-unexpected-system-restarts-when-gaming-insights-and-solutions/"><u>Exploring Unexpected System Restarts When Gaming - Insights & Solutions</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-nubia-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Nubia FRP Locks</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-samsung-galaxy-f14-5g-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Samsung Galaxy F14 5G | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-vivo-s17-pro-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Vivo S17 Pro</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-tecno-spark-10c-by-drfone-android/"><u>In 2024, How to Bypass FRP from Tecno Spark 10C?</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/perfecting-pics-and-videos-on-iphones-and-androids-with-best-apps-for-2024/"><u>Perfecting Pics & Videos on iPhones and Androids with Best Apps for 2024</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/step-by-step-guide-adjusting-windows-defender-security-center-preferences-via-control-panel-tips-by-yl-technologies/"><u>Step-by-Step Guide: Adjusting Windows Defender Security Center Preferences via Control Panel - Tips by YL Technologies</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-12-drfone-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for iPhone 12 | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Infinix Smart 8 HD? | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-on-vivo-y78-5g-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Vivo Y78 5G FRP Bypass</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-top-android-3d-viewer-experience/"><u>[New] 2024 Approved Top Android 3D Viewer Experience</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-harnessing-youtubes-power-for-maximum-earnings-via-adsense/"><u>[Updated] Harnessing YouTube's Power for Maximum Earnings via AdSense</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-launch-into-action-quick-tips-to-start-going-live-on-facebook-immediately/"><u>[Updated] In 2024, Launch Into Action Quick Tips to Start Going Live on Facebook Immediately</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-unlocking-the-power-of-social-medias-fb-covers/"><u>2024 Approved Unlocking the Power of Social Media's FB Covers</u></a></li>
+<li><a href="https://blog-min.techidaily.com/6auy5pwi55qe5ykz5aqs562w55wl77ya5pya5paw6kej5rg65pa55qgi/"><u>高效的傳媒策略：最新解決方案</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/about-itel-s23-frp-bypass-by-drfone-android/"><u>About Itel S23 FRP Bypass</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-vivo-x100-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Vivo X100</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-samsung-galaxy-m14-4g-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Samsung Galaxy M14 4G FRP Locks</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-huawei-p60-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Huawei P60</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-transform-lives-10-cinematic-inspirations/"><u>In 2024, Transform Lives 10 Cinematic Inspirations</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-honor-90frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Honor 90FRP Lock</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-resolving-the-ntldr-is-missing-error-on-your-pc/"><u>Step-by-Step Guide: Resolving the 'NTLDR Is Missing' Error on Your PC</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-complete-guide-to-honor-x9a-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Honor X9a FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-updated-method-to-bypass-vivo-y36i-frp-by-drfone-android/"><u>The Updated Method to Bypass Vivo Y36i FRP</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-the-most-reliable-airtag-wallets-of-2024-in-depth-testing-results/"><u>Ultimate Guide to the Most Reliable AirTag Wallets of 2024: In-Depth Testing Results</u></a></li>
 </ul></div>
 

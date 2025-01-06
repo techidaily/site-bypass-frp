@@ -1,7 +1,7 @@
 ---
 title: "The Hidden Costs of AI: Understanding Why Generative Models May Not Fit Messaging Applications"
-date: 2024-12-22T16:55:16.841Z
-updated: 2024-12-27T17:17:52.329Z
+date: 2024-12-30T18:40:12.625Z
+updated: 2025-01-05T20:31:29.792Z
 tags:
   - chatgpt
   - open-ai
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/d50bbc29912cb43ec93cd3720edb01228fbd6306e
  ChatGPT’s Code Interpreter is by far the single most powerful feature available on the ChatGPT platform. Though many don't realize it, this tool has numerous exciting uses and can do far more than the handful of tasks it's currently being used for.
 
  So, what exactly can you do with ChatGPT's Code Interpreter plugin? We’ve put together some of the most useful ways you can use the Code Interpreter plugin right now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Create and Edit Images
 
@@ -44,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/d50bbc29912cb43ec93cd3720edb01228fbd6306e
 ![Blurring a face using ChatGPT Code Interpreter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/blurring-a-face-using-chatgpt-code-interpreter.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Apart from these editing tricks, you can also extract relevant metadata from an image as well. You can specify the specific metadata you want to extract, or you can simply prompt ChatGPT to extract all relevant metadata from the attached image. That's not all. You can also create an image from scratch using the plugin.
@@ -53,14 +57,10 @@ thumbnail: https://thmb.techidaily.com/d50bbc29912cb43ec93cd3720edb01228fbd6306e
 
 ![Word cloud created with ChatGPT Code Interpreter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/word-cloud-created-with-chatgpt-code-interpreter.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Of course, you can ask it to change the background color or use a different font. There are a lot of ways you play around with images using the Code Interpreter plugin. If you are short of ideas, just upload an image and ask ChatGPT to tell you what tasks it can perform on the image.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Create and Edit Videos
@@ -84,6 +84,10 @@ thumbnail: https://thmb.techidaily.com/d50bbc29912cb43ec93cd3720edb01228fbd6306e
 ![Extracting audio from a video file with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/extracting-audio-from-a-video-file.jpg)
 
  While the Code Interpreter plugin can perform a lot of video-related operations, practical usage, at least for now, is quite limited due to the limited size of video it can handle. It's not very clear the maximum size of video files Code Interpreter can handle, but you'll typically run into memory issues with larger videos. For the best results, use smaller video files, with lower resolutions whenever possible.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Create and Modify Audio Files
 
@@ -123,10 +127,6 @@ thumbnail: https://thmb.techidaily.com/d50bbc29912cb43ec93cd3720edb01228fbd6306e
 
  Of course, when tested, the project worked flawlessly after it added the feature. It might run into obstacles sometimes, but undoubtedly, working with a large code base is one of the most useful functionalities of the Code Interpreter feature.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Extract Text from Images (Optical Character Recognition)
 
  Have an image that contains text you need to copy? Code Interpreter can handle that with ease. Simply upload the image and ask ChatGPT to extract the text. It works great on screenshots, pictures of documents, images with superimposed text, and more.
@@ -134,7 +134,7 @@ thumbnail: https://thmb.techidaily.com/d50bbc29912cb43ec93cd3720edb01228fbd6306e
  It can also handle distorted or blurry text as well as text in different fonts, sizes, styles, orientations, and colors. You could, say, ask ChatGPT to create an MS Word document from a scanned copy of a document you uploaded, and you'll get a result in seconds.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A Powerful Tool at Your Fingertips
@@ -158,15 +158,19 @@ thumbnail: https://thmb.techidaily.com/d50bbc29912cb43ec93cd3720edb01228fbd6306e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-break-free-top-10-exclusive-web-photo-workstations/"><u>[New] Break Free Top 10 Exclusive Web Photo Workstations</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-mastering-the-art-of-haul-video-shopping-showcasing-and-editing/"><u>[Updated] In 2024, Mastering the Art of Haul Video Shopping, Showcasing & Editing</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-tecno-phantom-v-flip-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Tecno Phantom V Flip FRP Bypass Instantly</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-vivo-y36i-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Vivo Y36i Phones with/without a PC</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-infinix-hot-40-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Infinix Hot 40 to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-unlock-on-iphone-se-2022-how-to-fix-it-by-drfone-ios/"><u>In 2024, Apple ID Unlock On iPhone SE (2022)? How to Fix it?</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-tecno-pop-7-profrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Tecno Pop 7 ProFRP Lock</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/step-by-step-guide-to-adding-your-own-video-images-for-2024/"><u>Step-by-Step Guide to Adding Your Own Video Images for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/thoughtful-interactions-employing-gpt-ethically/"><u>Thoughtful Interactions: Employing GPT Ethically</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-on-tecno-spark-20-pro-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Tecno Spark 20 Pro FRP Bypass</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-protect-your-live-streams-the-periscope-video-howto/"><u>[Updated] 2024 Approved Protect Your Live Streams The Periscope Video HowTo</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-crafting-cozy-living-areas-with-daylight-for-2024/"><u>[Updated] Crafting Cozy Living Areas with Daylight for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-zte-blade-a73-5g-frp-by-drfone-android/"><u>5 Quick Methods to Bypass ZTE Blade A73 5G FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/about-lava-yuva-3-frp-bypass-by-drfone-android/"><u>About Lava Yuva 3 FRP Bypass</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exclusive-sites-for-youtube-content-surge-for-2024/"><u>Exclusive Sites For YouTube Content Surge for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gemini-pro-vs-gptplusplus-best-ai-showdown/"><u>Gemini Pro Vs. GPT++: Best AI Showdown</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-xiaomi-redmi-note-12r-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Xiaomi Redmi Note 12R Phones with/without a PC</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-vivo-s17e-by-drfone-android/"><u>How to Bypass FRP from Vivo S17e?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-xiaomi-civi-3-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Xiaomi Civi 3 FRP In 3 Different Ways</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-tecno-pop-7-pro-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Tecno Pop 7 Pro</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/mastering-the-art-of-preview-on-mac-your-ultimate-guide-to-hidden-photo-editing-tools/"><u>Mastering the Art of Preview on Mac: Your Ultimate Guide to Hidden Photo Editing Tools</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/tiempo-y-segundo-guia-para-iniciarse-en-espanol/"><u>Tiempo Y Segundo: Guía Para Iniciarse en Español</u></a></li>
+<li><a href="https://win-updates.techidaily.com/top-4-methods-for-effective-background-removal-in-images-desktop-and-mobile-solutions/"><u>Top 4 Methods for Effective Background Removal in Images: Desktop and Mobile Solutions</u></a></li>
+<li><a href="https://facebook.techidaily.com/virtual-venues-identifying-the-top-20-social-sites-and-apps/"><u>Virtual Venues: Identifying the Top 20 Social Sites and Apps</u></a></li>
 </ul></div>
 
