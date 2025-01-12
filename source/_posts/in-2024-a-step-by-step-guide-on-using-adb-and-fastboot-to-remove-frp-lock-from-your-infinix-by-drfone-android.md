@@ -1,7 +1,7 @@
 ---
 title: In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Infinix
-date: 2024-07-15T10:30:50.273Z
-updated: 2024-07-16T10:30:50.273Z
+date: 2025-01-10T20:34:23.533Z
+updated: 2025-01-12T21:00:22.936Z
 tags: 
   - unlock
   - bypass android frp
@@ -21,14 +21,8 @@ Factory Reset Protection is one of the security measures available on Android 5.
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/WXFUGH1uMcI"></iframe>
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: Quick Overview of ADB and Fastboot Commands
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. What are ADB and Fastboot?
 
 Standing for Android Debug Bridge, ADB and Fastboots are the methods through which communication with an Android device can be done through a computer. Under this method, the commands and the actions that are sent from the system are performed on your Android device.
@@ -37,14 +31,15 @@ Several issues can be resolved, and multiple functions can be performed using th
 
 For specific brands of Android phones, specific utility tools are available like the **Vivo ADB format tool** and the **Samsung ADB format tool**, which are used explicitly for Vivo and Samsung phones, respectively.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. How Do ADB and Fastboot Bypass FRP?
 
 Using the versatile ADB command-line tool and Fastboots, the Google FRP lock can be removed using several commands depending on the OS version. This is a client-server program that includes a client who sends the commands, a daemon used to run the commands on the Infinix Smart 8 Plus device, and a server that facilitates communication between the client and the daemon.
 
 ADB comes included in the Android SDK Platform-Tools package, and this can be downloaded using the SDK manager.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. What Are the Android Versions that ADB and Fastboot Command Support?
 
@@ -61,9 +56,6 @@ The Android versions on which ADB and Fastboot commands can be used are as follo
 
 To remove FRP lock using ADB, you first need to install and set up ADB and then remove them using the command. The steps for the same are enlisted below.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Steps to remove FRP using ADB
 
 ![adb install](https://images.wondershare.com/drfone/article/2022/04/adb-install.jpg)
@@ -104,9 +96,6 @@ After the execution of the commands, the FRP lock will be removed from your Andr
 - `_DEEP/HTC/Other Brands FRP_`
 - `_fastboot erase configfastboot reboot_`
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 3: Limitations of Using ADB and Fastboot Command Method
 
 The ADB and Fastboots command is a workable solution for removing the FRP lock on your Android device, the drawback is that the method is quite complicated and requires thorough technical know-how of ADB and its working. There are several limitations associated with this method as enlisted below.
@@ -131,23 +120,9 @@ ADB is a command-based method, and thus it is important that the commands are en
 
 ADB is a technical process aimed toward the geeks, and thus the overall process is not user-friendly and complicated.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4: The Best ADB Alternative to Bypass FRP Lock on Android Phones
 
 Considering the several limitations of the ADB and Fastboot command method, the need for a simple, user-friendly, and workable solution for removing FRP lock on Android devices arises. One of the best software here that we recommend is [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) which helps in removing and bypassing many Android phone screen locks including the one appearing due to FRP lock.
-
-
 
 ### Dr.Fone - Screen Unlock (Android)
 
@@ -166,9 +141,6 @@ The process of using the software is user-friendly and thus can also be used by 
 
 - **Step 1.** Launch the installed software and choose the **Screen Unlock** option from the main interface. Choose **Android** and then select the **Remove Google FRP Lock** option.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![drfone screen unlock homepage](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
 - **Step 2.** Select the model brans from the options shown on the interface, and then connect your phone to your PC using a USB cable. The connected device details will appear on the interface.
@@ -181,10 +153,6 @@ The process of using the software is user-friendly and thus can also be used by 
 
 The above is the brief steps for the process. You can check the [bypass Samsung FRP lock guide](https://drfone.wondershare.com/guide/google-frp-bypass.html) in detail.
 
-
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 If you are well versed with the commands of ADB and Fastboots you can go ahead and use the **ADB bypass FRP tool** for removing the FRP lock but if this command line method seems complicated for you, Dr.Fone Screen Unlock is the best tool to use.
@@ -203,9 +171,6 @@ The FRP lock activates if someone tries to do a [<u>factory reset</u>](https://t
 
 Then are you curious about the safety of the **Pangu FRP bypass tool**? What is this tool, and how does it work? If you have similar questions, this guide has the answers. Here, we'll show you what you need to know about the bypass tool and alternative software.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![google frp lock on android device](https://images.wondershare.com/drfone/article/2024/01/pangu-frp-bypass-01.jpg)
 
 ## Part 1: What Is Pangu FRP Bypass Tool?
@@ -229,6 +194,10 @@ If you purchased a used phone with a previous owner's Google account linked, the
 If you need to factory reset your phone but don't want to lose access to your Google account, it can help you bypass the FRP after the reset.
 
 ![reset android phone settings](https://images.wondershare.com/drfone/article/2024/01/pangu-frp-bypass-02.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 How Does It Work?
 
@@ -262,15 +231,16 @@ The Pangu FRP Bypass boasts extensive compatibility with several Android brands,
 
 Different devices and Android OS versions may have varying compatibility within each brand. That includes Oreo, Marshmallow, and Nougat. Some older or newer models may not support the **Pangu FRP Bypass APK**, even though it works well on many models. Its file size can also differ based on the version you download.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: How To Download and Install Pangu FRP Bypass APK?
 
 Before downloading the APK file, you'll need a USB drive and an OTG cable to connect your Android device to your PC. Once you have these ready, you can move on to the installation steps. Follow the steps below to download and install the **Pangu FRP Bypass** on your Android phone.
 
 - **Step 1:** Download the tool's APK from a trusted source. You can get it from the Pangu official website, if available.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![pangu frp unlocker apk](https://images.wondershare.com/drfone/article/2024/01/pangu-frp-bypass-04.jpg)
 
 - **Step 2:** Copy the downloaded tool to a USB drive using a computer.
@@ -283,10 +253,11 @@ Before downloading the APK file, you'll need a USB drive and an OTG cable to con
 
 - **Step 7:** Toggle off the **Scan apps with Play Protect** option and tap **Turn off** on the dialogue box. This setting allows the installation of apps from outside the Google Play Store.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![turn off app scanning](https://images.wondershare.com/drfone/article/2024/01/pangu-frp-bypass-06.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: How To Use Pangu FRP Unlocker on Android?
 
@@ -294,9 +265,6 @@ Before you start, ensure you have permission to unlock the FRP on the Android de
 
 - **Step 1:** Launch the **Pangu FRP bypass** on your phone and tap the **menu** icon in the top right.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![open frp bypass tool](https://images.wondershare.com/drfone/article/2024/01/pangu-frp-bypass-07.jpg)
 
 - **Step 2:** Follow the on-screen guide to detect and unlock your device.
@@ -305,9 +273,6 @@ Before you start, ensure you have permission to unlock the FRP on the Android de
 - **Step 5:** Wait for your details to upload. Once completed, restart your Android phone with the designated key combination.
 - **Step 6:** On the Google Mail account page, enter the profile details you created and tap **Next**. Your device will show, "**FRP is trying to accept Gmail + password.**"
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 5: Is Pangu FRP Bypass the Best FRP Removal Tool for You?
 
 **Pangu FRP bypass tool** is free and works on older Android versions. But there are reasons to consider other options. Let's explore them.
@@ -326,6 +291,10 @@ Limited Compatibility
 
 ![otg for android phone](https://images.wondershare.com/drfone/article/2024/01/pangu-frp-bypass-08.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Safety Concerns
 
 Some **Pangu FRP bypass APK** versions have been flagged as potentially containing malware or viruses. While this isn't always the case, it's crucial to be cautious and download the tool from a trusted source.
@@ -336,9 +305,6 @@ While the bypass tool can sometimes be effective, its success rate isn't guarant
 
 Choosing between Pangu and an alternative depends on your needs and tech skills. If you're comfortable with downloading APK, Pangu can work. But if you prefer ease of use, broader device compatibility, and safety, consider dedicated tools like [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) - Screen Unlock (Android).
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 6: Wondershare Dr.Fone - Screen Unlock for Android: Best Alternative to Pangu
 
 Dr.Fone is one of the best alternative tools for **Pangu FRP bypass**. With its user-friendly and intuitive interface, you can effortlessly remove the FRP lock in several steps. Dr.Fone is a reliable choice to [<u>bypass Google FRP </u>](https://drfone.wondershare.com/guide/google-frp-bypass.html) on Android, even if you don't have a Google account or PIN code. Dr.Fone - Screen Unlock can bypass FRP and is compatible with Samsung, Vivo, Realme, Oppo, Redmi, and Xiaomi Android phones.
@@ -354,31 +320,18 @@ If your Android OS is version 14 or below, Dr.Fone can help you eliminate the FR
 
 - **Step 1:** Connect your phone to your desktop using a USB cable, then select **Screen Unlock** from the **Toolbox** homepage.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dr.fone homepage interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
-
 
 - **Step 2:** Select **Android** as your device type to continue the FRP bypass process.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dr.fone supports android and ios devices](https://images.wondershare.com/drfone/guide/select-your-mobile-device-to-unlock.png)
 
 - **Step 3:** Select **Remove Google FRP Lock** on the next screen.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dr.fone screen unlock tools](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
 - **Step 4:** Select your phone brand from the list of supported brands, then click **Start** to proceed.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![select device brand to unlock frp](https://images.wondershare.com/drfone/guide/remove-android-frp-lock-1.png)
 
 - **Step 5:** Follow the next in-app instructions, which may vary based on the brand of your Android device.
@@ -390,6 +343,10 @@ If your Android OS is version 14 or below, Dr.Fone can help you eliminate the FR
 
 ![successfully removed frp lock on samsung](https://images.wondershare.com/drfone/guide/bypass-google-frp-on-samsung.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Bypassing FRP on Android can be challenging. Downloading APK tools like **Pangu FRP Bypass** may be unreliable and risky. They often lack support for newer devices and have an inconsistent success rate.
@@ -399,8 +356,9 @@ Wondershare Dr.Fone offers an easier, faster, and user-friendly solution for byp
 _**Tips:** Searching for a powerful FRP bypass tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
 
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Bypass FRP on Infinix Smart 8 Plus?
 
 Learning how to **FRP bypass on Infinix Smart 8 Plus** is vital in many ways. For instance, you might want to hard reset your phone to clear data and remove a bug or virus. Or, you may want to remove every bit of information before gifting or selling the phone. Whichever the case, learning how to bypass FRP on Infinix Smart 8 Plus is a cakewalk with this 3-minute read. We'll know how to do that with or without a PC.
@@ -421,9 +379,6 @@ Below are the quick steps for Galaxy S8 or S8 Plus:
 - 4\. Click Keyboard layout and feedback > Key-tap feedback. Then, choose Sound and vibration on the Tip section.
 - 5\. Next, click Answering and ending calls > Answer automatically. Now enable the toggle before using your two fingers to select “10 seconds” and “Customize.” You'll see a pop-up dialog where you'll click App Info > Call settings > Block numbers.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![block numbers](https://images.wondershare.com/drfone/article/2022/07/how-bypass-frp-on-android-9-1.jpg)
 
 - 6\. Click Recent > Emergency number > Message icon.
@@ -436,9 +391,6 @@ Below are the quick steps for Galaxy S8 or S8 Plus:
 - 10\. Click any link on the video description to launch Google Chrome. Search, download, and install Apex Launcher APK from frpfile.com.
 - 11\. After installing Apex Launcher, open it and then click Settings > Biometrics and security > Other security settings > Device admin apps > Find my Device > Deactivate.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![deactive find my device](https://images.wondershare.com/drfone/article/2022/07/how-bypass-frp-on-android-9-2.jpg)
 
 - 12\. Go back to the Settings screen, click Apps > Google Play Services > Disable. Also, disable Google Account Manager.
@@ -453,6 +405,10 @@ Below are the quick steps for Galaxy S8 or S8 Plus:
 - 15\. Navigate back to Settings and enable Google Play Services. Also, activate Find My Device. Now restart your phone and access it without FRP.
 
 Although this method can yield the desired results, it can be time-consuming and confusing if you're not a techie. So, read on to learn the easiest way to bypass FRP on any Samsung Infinix Smart 8 Plus device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to bypass FRP Infinix Smart 8 Plus with Dr.Fone – Screen Unlock (Android)?
 
@@ -475,17 +431,15 @@ Follow these steps to bypass FRP on Infinix Smart 8 Plus with Dr.Fone:
 
 **Step 1:** Install and run Dr.Fone on your PC and open the Screen Unlock feature. On the Screen Unlock window, tap Android before clicking Remove Google FRP Lock.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![screen unlock](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
 **Step 2:** Next, choose the Android operating system for your device. In this case, select Android 6/9/10. Now connect the locked Android phone to your PC using a USB cable and click Confirmed once the connection is successful.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![remove google frp lock](https://images.wondershare.com/drfone/guide/bypass-google-frp-on-android-6-9-10.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3:** On your phone, you'll see a Dr.Fone Unlock pop-up dialog. Click View and then install and launch Samsung Internet Browser. Now enter and search for <https://drfonetoolkit.com>. Click Android 6/9/10 and then tap Open Settings. After that, tap PIN > Do not require > Continue. Now set a PIN code that you can easily remember before clicking Skip.
 
@@ -493,17 +447,15 @@ Follow these steps to bypass FRP on Infinix Smart 8 Plus with Dr.Fone:
 
 **Step 5:** Click the “<” button to navigate back to the Wi-Fi connection screen before clicking Next. Enter the PIN you can set earlier before clicking Continue.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![enter pin](https://images.wondershare.com/drfone/guide/bypass-google-frp-on-android-6-9-10-5.png)
 
 **Step 6:** Hit the Skip button on the Google Sign-In page to successfully bypass FRP on your Samsung Infinix Smart 8 Plus phone. And there it that!
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![bypass frp on Infinix Smart 8 Plus](https://images.wondershare.com/drfone/guide/bypass-google-frp-on-samsung.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note:** Bypassing FRP on your Samsung phone using Dr.Fone is undoubtedly quick and easy. However, only use this software to bypass FRP on your Samsung phone or if you have consent from the original owner. Don't bypass FRP if you're not sure about the original owner of the phone.
 
@@ -522,14 +474,9 @@ Follow these steps:
 - **Step 3:** You'll see all the linked email accounts. Choose the one that you want to delete.
 - **Step 4:** Click Remove Account and then click Remove Account once again to confirm. That's it!
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 See, you can quickly bypass FRP on Infinix Smart 8 Plus with these methods. But remember that disabling FRP will leave your phone without security protection. Also, bypassing FRP using the YouTube method can be lengthy and complex. So, use Wondershare Dr.Fone to skip FRP on Android 6/7/8/9/10/11/12/13. Give it a try!
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -538,9 +485,24 @@ See, you can quickly bypass FRP on Infinix Smart 8 Plus with these methods. But 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-perfect-photo-placement-on-windows-machines-for-2024/"><u>[New] Perfect Photo Placement on Windows Machines for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-analyzing-the-need-for-verified-instagramselfies/"><u>[Updated] Analyzing the Need for Verified Instagramselfies</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-enhance-visibility-the-power-of-customized-youtube-templates/"><u>[Updated] Enhance Visibility The Power of Customized YouTube Templates</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-imovies-cropping-an-in-depth-look/"><u>[Updated] In 2024, IMovie's Cropping An In-Depth Look</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-seamless-tv-integration-looping-videos-from-youtube-on-large-screens/"><u>[Updated] Seamless TV Integration Looping Videos From YouTube on Large Screens</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-what-is-virtual-reality-video-in-2024/"><u>[Updated] What Is Virtual Reality Video, In 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-vivo-s17-pro-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Vivo S17 Pro FRP Bypass Instantly</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-xiaomi-13-ultra-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Xiaomi 13 Ultra FRP Bypass Instantly</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/best-practices-for-designing-compelling-youtube-video-thumbnails-for-2024/"><u>Best Practices for Designing Compelling YouTube Video Thumbnails for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-vivo-x100withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Vivo X100with/without a PC</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-on-realme-10t-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP on Realme 10T 5G?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-vivo-y100-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Vivo Y100 FRP Without Computer</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-poco-x6-pro-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Poco X6 Pro Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-vivo-y28-5gfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Vivo Y28 5GFRP Lock</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-xiaomi-redmi-note-12-proplus-5gfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Xiaomi Redmi Note 12 Pro+ 5GFRP Lock</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/learn-nft-creation-with-minimal-fuss-for-2024/"><u>Learn NFT Creation with Minimal Fuss for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/the-complete-process-of-logging-google-voice-calls-for-2024/"><u>The Complete Process of Logging Google Voice Calls for 2024</u></a></li>
+</ul></div>
 

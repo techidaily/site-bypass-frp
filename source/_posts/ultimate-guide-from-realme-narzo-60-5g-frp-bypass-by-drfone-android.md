@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide from Realme Narzo 60 5G FRP Bypass
-date: 2025-01-01T02:51:32.997Z
-updated: 2025-01-06T00:34:20.722Z
+date: 2025-01-06T20:37:49.019Z
+updated: 2025-01-12T21:20:17.971Z
 tags: 
   - unlock
   - bypass android frp
@@ -96,13 +96,13 @@ Let's walk through the simple steps:
 
 ![begin to remove android lock screen](https://images.wondershare.com/drfone/guide/unlock-android-screen-google.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **You can watch the video below to unlock Realme patterns, passwords, PINs, and fingerprints with Wondershare Dr.Fone**
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/QWpE8NykOWc"></iframe>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: How to Disable Google FRP Feature on Realme
 
@@ -119,19 +119,11 @@ And that's the best **Realme Android 11 FRP bypass** method. With TechnoCare APK
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Step-by-Step Tutorial: How To Bypass Realme Narzo 60 5G FRP
 
@@ -139,11 +131,19 @@ Smartphones are now integral to people's daily lives. In recent days Realme Narz
 
 While this feature has its advantages, it can pose a significant challenge when users. This is especially the case when they need to perform a factory reset but have forgotten their Google account credentials. In this comprehensive tutorial for 2023, we will guide you step by step on how to bypass the **Realme Narzo 60 5G FRP**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: Understanding the Realme Narzo 60 5G FRP
 
 Having a clear understanding of what exactly Realme Narzo 60 5G FRP entails is important. It will make the process of the **Realme Narzo 60 5G FRP bypass** easier and hassle-free. In this section, we will explore the concept of FRP, its purpose, and how it is activated on the Realme Narzo 60 5G:
 
 ![bypass Realme Narzo 60 5G frp lock](https://images.wondershare.com/drfone/article/2023/07/vivo-y20-frp-lock-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### What is Realme Narzo 60 5G FRP?
 
@@ -151,11 +151,19 @@ FRP, or Factory Reset Protection, is a security feature integrated into Android 
 
 That makes it mandatory to verify the account credentials after performing a hard reset. In other words, FRP acts as a protective barrier. It ensures only the rightful owner can access the Realme Narzo 60 5G device.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Purpose of Realme Narzo 60 5G FRP
 
 The primary purpose of Realme Narzo 60 5G FRP is to safeguard personal data and sensitive information stored on the Realme Narzo 60 5G device. It works as an important security measure in the unfortunate event of the Realme Narzo 60 5G device being lost or stolen. FRP ensures that no unauthorized individual can gain access to the Realme Narzo 60 5G device's contents. It does that by requiring the original owner's Google account login details.
 
 By requiring the user's Google account credentials, FRP reduces the chances of device misuse. Thus, it ultimately enhances the data security and privacy of your device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Activation Methods of Realme Narzo 60 5G FRP
 
@@ -183,10 +191,6 @@ To bypass Realme Narzo 60 5G FRP, you will need the following tools and equipmen
 2. A USB cable to connect your Realme Narzo 60 5G to the computer.
 3. Access to third-party software for bypassing FRP.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Backup Your Data
 
 If you have recently bought a used Realme Narzo 60 5G and don't know the Google account credentials, it can trigger FRP on factory reset. Before factory resetting your device, it is essential to back up the data. Since the Google account on your device doesn't belong to you, you will need to use third-party tools to create local backups.
@@ -197,13 +201,13 @@ The best tool in this scenario to use is [Wondershare Dr.Fone](https://tools.tec
 
 A stable and reliable internet connection is vital for a smooth FRP bypass. Make sure your computer and Realme Narzo 60 5G are connected to the internet throughout the process. FRP bypassing will need you to download related files to complete the procedure.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: Step-by-Step Guide: How To Bypass Realme Narzo 60 5G FRP
 
 With the necessary preparations, it's time to embark on the step-by-step guide for the **Realme Y15 FRP bypass**. This section will explore three different methods for bypassing FRP. The first method involves using your Google account credentials, the official way to bypass FRP:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 1: Using Google Account Credentials
 
@@ -244,6 +248,10 @@ Start by installing Wondershare Dr.Fone on your computer, then launch the applic
 
 ![choose to remove google frp lock](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - Step 2: Select Remove Google FRP Lock To Proceed
 
 On the following screen, select "Vivo" as the targeted phone brand and click "Start." Wondershare Dr.Fone will now download the necessary driver required for Realme Narzo 60 5G FRP bypassing.
@@ -251,7 +259,7 @@ On the following screen, select "Vivo" as the targeted phone brand and click "St
 ![choose Realme as device type](https://images.wondershare.com/drfone/guide/remove-android-frp-lock-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - Step 3: Complete the Realme Narzo 60 5G FRP Bypass Process
@@ -310,15 +318,15 @@ If you have bought the Realme Narzo 60 5G in used condition and it is FRP-locked
 
 Have you tried various methods to bypass FRP on your Realme Narzo 60 5G without success? It is the right time to contact professionals. Get in touch with Vivo's official customer services or visit an authorized service center. They have the expertise to handle device-related issues, including FRP lockouts. Explain your situation to the support staff, and they will guide you through the appropriate steps to regain access.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 In this comprehensive guide, we have explored various methods for the **Realme Narzo 60 5G FRP bypass**. While there are several methods available, we highly recommend using the Wondershare Dr.Fone as the best choice. Dr.Fone is a reputable and reliable tool that offers a seamless and secure FRP bypass process.
 
 It prioritizes data integrity and user privacy. Moreover, its clean interface ensures that even users with limited tech knowledge can use the bypassing process with ease.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How To Bypass Realme Narzo 60 5G FRP In 3 Different Ways
 
@@ -344,21 +352,17 @@ One of the most common reasons for needing to bypass FRP is that you simply forg
 
 Another common reason for wanting to bypass FRP is if you've purchased a second-hand phone. If the previous owner of the phone didn't correctly remove their Google account from the Realme Narzo 60 5G device before selling it to you, then you'll be stuck with their account on the phone and won't be able to use it yourself until you bypass FRP.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Factory Reset In An Untrusted Environment
 
 If you've performed a factory reset on your phone to try and fix an issue or start fresh, you'll need to bypass FRP to use the Realme Narzo 60 5G device again. It is because a factory reset will also remove your Google account from the phone, leaving you locked out unless you can remember the login credentials.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2: Bypass Realme Narzo 60 5G FRP With 3 Easy Methods
 
 Bypassing FRP can be a bit tricky, but it's possible to do it if you have the right tools and know-how. If you're looking for a quick and easy way to bypass FRP on your Realme Narzo 60 5G device, below are the methods you can use to Realme Narzo 60 5G Hot 10 FRP bypass.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method #1: Recover the Google Account Of Your Device
 
@@ -405,10 +409,6 @@ Using FRP Bypass APK, you can unlock Google lock on the Realme Narzo 60 5G Hot 8
 **Step 10:** Create a new Google account or skip the option to do so later.
 
 Realme Narzo 60 5G Hot 8 FRP bypass using FRP Bypass APK is a simple method that a beginner can utilize.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method #3: Bypass Realme Narzo 60 5G FRP Without PC Via Settings Menu
 
@@ -469,24 +469,18 @@ You can bypass the Realme Narzo 60 5G Hot 8 FRP by using a few practical methods
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-beijings-glacial-gala-the-olympics-of-winter-2022/"><u>[New] In 2024, Beijing's Glacial Gala The Olympics of Winter, 2022</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-obs-full-screen-glitch-resolution-dropped/"><u>[New] Obs Full Screen Glitch Resolution Dropped</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-organizing-your-youtube-content-with-ease/"><u>[Updated] 2024 Approved Organizing Your YouTube Content with Ease</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-compreran-exploration-of-giroptics-panorama-for-2024/"><u>[Updated] Compreran Exploration of Giroptic's Panorama for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-professional-film-techniques-for-drones/"><u>[Updated] Professional Film Techniques for Drones</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/st-vlogging-cameras-for-vloggers/"><u>12 Best Vlogging Cameras for Vloggers</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-xiaomi-redmi-note-12-5g-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Xiaomi Redmi Note 12 5G FRP Bypass Instantly</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-poco-c55-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Poco C55</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1155125-9781608682133-circle-of-stones/"><u>Circle of Stones | Free Book</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/effortless-guide-to-a-flawless-tunein-radio-installation/"><u>Effortless Guide to a Flawless TuneIn Radio Installation</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/explore-like-a-pro-with-tomtoms-actioncam-2023-for-2024/"><u>Explore Like a Pro with TomTom's ActionCam 2023 for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-itel-s23-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Itel S23 Devices</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-about-vivo-y78t-frp-bypass-by-drfone-android/"><u>In 2024, About Vivo Y78t FRP Bypass</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-honor-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Honor Devices</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-realme-11-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Realme 11 5G FRP Bypass</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-xiaomi-redmi-note-13-proplus-5g-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Xiaomi Redmi Note 13 Pro+ 5G FRP</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/the-complete-guide-to-vivo-y17s-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Vivo Y17s FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-on-vivo-x-fold-2-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Vivo X Fold 2 FRP Bypass</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/unified-media-playback-on-youtube-flv-files-tutorial-for-2024/"><u>Unified Media Playback on YouTube FLV Files Tutorial for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-the-path-to-connected-playlists-and-channels/"><u>[New] In 2024, The Path to Connected Playlists & Channels</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-expert-tips-for-safaris-picture-and-window-sharing-feature/"><u>[Updated] In 2024, Expert Tips for Safari's Picture and Window Sharing Feature</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-skyrocket-your-brands-impact-top-ten-seo-tips-for-facebook-marketers/"><u>[Updated] In 2024, Skyrocket Your Brand's Impact Top Ten SEO Tips for Facebook Marketers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-pulse-of-the-population-vllo-analysis/"><u>[Updated] The Pulse of the Population VLLO Analysis</u></a></li>
+<li><a href="https://win11.techidaily.com/breaking-down-and-repairing-windows-charmap-issues/"><u>Breaking Down and Repairing Windows' CharMap Issues</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-infinix-hot-30-5g-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Infinix Hot 30 5G FRP Locks</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Honor Magic5 Ultimate? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-honor-play-40c-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Honor Play 40C</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-infinix-smart-8-hd-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Infinix Smart 8 HD</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-can-we-bypass-vivo-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Vivo FRP?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-on-vivo-s18-pro-by-drfone-android/"><u>In 2024, How to Bypass FRP on Vivo S18 Pro?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-honor-90-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Honor 90 FRP Bypass</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-malfunctioning-drivers-with-windows-device-manager-in-windows-10-and-7-by-drivereasy-guide/"><u>Use Device Manager to identify malfunctioning drivers with Windows Device Manager in Windows 10 & 7</u></a></li>
 </ul></div>
 
