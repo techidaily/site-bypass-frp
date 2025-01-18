@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Tutorial How To Bypass ZTE Nubia Z60 Ultra FRP
-date: 2024-07-15T10:26:27.668Z
-updated: 2024-07-16T10:26:27.668Z
+date: 2025-01-14T19:20:19.917Z
+updated: 2025-01-17T20:18:11.059Z
 tags: 
   - unlock
   - bypass android frp
@@ -23,10 +23,15 @@ While this feature has its advantages, it can pose a significant challenge when 
 
 Having a clear understanding of what exactly ZTE Nubia Z60 Ultra FRP entails is important. It will make the process of the **ZTE Nubia Z60 Ultra FRP bypass** easier and hassle-free. In this section, we will explore the concept of FRP, its purpose, and how it is activated on the ZTE Nubia Z60 Ultra:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![bypass ZTE Nubia Z60 Ultra frp lock](https://images.wondershare.com/drfone/article/2023/07/vivo-y20-frp-lock-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### What is ZTE Nubia Z60 Ultra FRP?
 
@@ -34,9 +39,6 @@ FRP, or Factory Reset Protection, is a security feature integrated into Android 
 
 That makes it mandatory to verify the account credentials after performing a hard reset. In other words, FRP acts as a protective barrier. It ensures only the rightful owner can access the ZTE Nubia Z60 Ultra device.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Purpose of ZTE Nubia Z60 Ultra FRP
 
 The primary purpose of ZTE Nubia Z60 Ultra FRP is to safeguard personal data and sensitive information stored on the ZTE Nubia Z60 Ultra device. It works as an important security measure in the unfortunate event of the ZTE Nubia Z60 Ultra device being lost or stolen. FRP ensures that no unauthorized individual can gain access to the ZTE Nubia Z60 Ultra device's contents. It does that by requiring the original owner's Google account login details.
@@ -44,8 +46,9 @@ The primary purpose of ZTE Nubia Z60 Ultra FRP is to safeguard personal data and
 By requiring the user's Google account credentials, FRP reduces the chances of device misuse. Thus, it ultimately enhances the data security and privacy of your device.
 
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Activation Methods of ZTE Nubia Z60 Ultra FRP
 
 When you register a Google account on your device, the FRP gets activated automatically. If you remove the Google account from the ZTE Nubia Z60 Ultra device before performing a factory data reset, the FRP will be disabled. However, once the FRP is enabled, it will stop you from using your ZTE Nubia Z60 Ultra after a factory data reset in an untrusted environment.
@@ -57,13 +60,9 @@ In simple words, any other way to factory reset the ZTE Nubia Z60 Ultra device e
 Now that you have a comprehensive understanding of the **ZTE Y12 FRP bypass**, it's time to prepare for the bypassing process. This section will cover crucial preparations to ensure a successful [FRP bypass](https://drfone.wondershare.com/google-frp-unlock/bypass-frp-with-computer.html). By following these steps, you can avoid potential failures:
 
 <!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 1\. Important Notes and Warnings
 
 Before proceeding with the ZTE Nubia Z60 Ultra FRP bypass, there are some essential things to keep in mind:
@@ -80,9 +79,6 @@ To bypass ZTE Nubia Z60 Ultra FRP, you will need the following tools and equipme
 2. A USB cable to connect your ZTE Nubia Z60 Ultra to the computer.
 3. Access to third-party software for bypassing FRP.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Backup Your Data
 
 If you have recently bought a used ZTE Nubia Z60 Ultra and don't know the Google account credentials, it can trigger FRP on factory reset. Before factory resetting your device, it is essential to back up the data. Since the Google account on your device doesn't belong to you, you will need to use third-party tools to create local backups.
@@ -97,6 +93,10 @@ A stable and reliable internet connection is vital for a smooth FRP bypass. Make
 
 With the necessary preparations, it's time to embark on the step-by-step guide for the **ZTE Y15 FRP bypass**. This section will explore three different methods for bypassing FRP. The first method involves using your Google account credentials, the official way to bypass FRP:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1: Using Google Account Credentials
 
 Before attempting this method, ensure that you have access to the Google account associated with your ZTE Nubia Z60 Ultra. If you've forgotten your account details, use Google's account recovery options before proceeding. Here's how to bypass ZTE Nubia Z60 Ultra FRP using your Google account credentials:
@@ -107,9 +107,6 @@ Before attempting this method, ensure that you have access to the Google account
 
 - **Step 2:** When prompted to verify your Google account, enter the associated email address and password. Ensure that you have a working and high-speed Wi-Fi connection during this step.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add the google account details](https://images.wondershare.com/drfone/article/2023/07/vivo-y20-frp-lock-3.jpg)
 
 - **Step 3:** After entering the correct Google account credentials, the ZTE Nubia Z60 Ultra device will verify the information. If the details are correct, FRP will be bypassed, and you will gain access to your ZTE Nubia Z60 Ultra.
@@ -120,14 +117,8 @@ To bypass the FRP on ZTE Nubia Z60 Ultra, you can utilize a specialized tool des
 
 Apart from bypassing the FRP lock, this tool is also an expert in unlocking other device locks. These include PIN, pattern, password, fingerprint, and face locks. With the help of this tool, you can [unlock Samsung](https://drfone.wondershare.com/google-frp-unlock/samsung-a10-frp-bypass.html) and LG devices without data loss. Here are the step-by-step instructions to perform the **ZTE Nubia Z60 Ultra FRP bypass**:
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Dr.Fone - Screen Unlock (Android)
 
 The Best UnlockJunky Alternative to Bypass FRP and Solve Your Screen Locks
@@ -163,15 +154,20 @@ The third method on the list for ZTE Nubia Z60 Ultra FRP bypass is using a combi
 
 - **Step 1:** Begin by downloading the [ZTE FRP unlock tool](http://www.mediafire.com/file/73kkpacf53sw2au/VIVO_FRP_TOOL_V1.0_BY_TEAM_GD.rar/file) (**Password:** GADGETSDOCTOR) on your computer and extract it. Now run the .exe file from the extracted content to install it. Afterward, turn off your ZTE Nubia Z60 Ultra and put it into Recovery Mode.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![run the ZTE frp tool](https://images.wondershare.com/drfone/article/2023/07/vivo-y20-frp-lock-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2:** To put ZTE Nubia Z60 Ultra into Recovery Mode, you will need to simultaneously press and hold the “Power” and “Volume Up” keys together. Hold these keys until you see Fastboot Mode on the screen. Here use the Volume keys to select Recovery Mode.
 - **Step 3:** Within Recovery Mode, select "Advanced Options," and on the following screen, choose "Reboot with adb." Now wait for your phone to turn on and later connect it to the computer with FRP unlock tool installed.
 
 ![choose reboot with adb](https://images.wondershare.com/drfone/article/2023/07/vivo-y20-frp-lock-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 4:** On the [ZTE FRP lock](https://drfone.wondershare.com/unlock/vivo-password-unlock-tool.html) tool interface, tap any key and press enter to check if your device is properly connected. Now repeat the process once again and wait for your ZTE Nubia Z60 Ultra to reboot. Once the rebooting process is completed, check to confirm if the FRP lock has been bypassed.
 
@@ -183,9 +179,6 @@ Navigating the workings of the **ZTE Nubia Z60 Ultra FRP bypass** can be challe
 
 It will also offer valuable tips to ensure a successful process. Moreover, it will explore alternative methods should the initial approaches prove unsuccessful.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Common Issues Faced During Bypassing ZTE Nubia Z60 Ultra FRP
 
 - **Incorrect Google Account Credentials:** One of the most common issues during FRP bypass is entering incorrect Google account credentials. Double-check the email address and password associated with the ZTE Nubia Z60 Ultra device.
@@ -201,9 +194,6 @@ It will also offer valuable tips to ensure a successful process. Moreover, it wi
 4. **Read User Reviews:** If using third-party tools, read user reviews and forums. This will help you gauge their effectiveness and safety.
 5. **Follow Instructions Carefully:** Whether using official methods or alternative tools, follow instructions diligently to avoid mistakes.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Alternative Methods or Tools if the Initial Methods Fail
 
 If the initial methods discussed in this article are failed to bypass the ZTE Nubia Z60 Ultra FRP, then try these alternate methods to turn off the FRP lock:
@@ -215,7 +205,6 @@ If you have bought the ZTE Nubia Z60 Ultra in used condition and it is FRP-locke
 #### 2\. Contact ZTE Customer Services
 
 Have you tried various methods to bypass FRP on your ZTE Nubia Z60 Ultra without success? It is the right time to contact professionals. Get in touch with Vivo's official customer services or visit an authorized service center. They have the expertise to handle device-related issues, including FRP lockouts. Explain your situation to the support staff, and they will guide you through the appropriate steps to regain access.
-
 
 ## Conclusion
 
@@ -229,7 +218,9 @@ It prioritizes data integrity and user privacy. Moreover, its clean interface en
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Easy Guide to ZTE Nubia Z60 Ultra FRP Bypass With Best Methods
 
@@ -237,23 +228,14 @@ The Google Factory Reset Protection (FRP) lock is a security measure in Android 
 
 The first one is forgetting your Google ID details. The other situation is buying a second-hand device locked with the previous owner's Google ID. This article deals with **ZTE Nubia Z60 Ultra FRP bypass Android 11**. It provides three methods to bypass FRP, allowing you to access your ZTE Nubia Z60 Ultra again.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![performing tecno pop 5 frp bypass procedure](https://images.wondershare.com/drfone/article/2024/01/guide-to-tecno-pop-5-frp-bypass-with-best-methods-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 1: \[Direct Solution\] ZTE Nubia Z60 Ultra FRP Bypass Android 11 With Wondershare Dr.Fone
 
 For the first and foremost remedy of **ZTE Nubia Z60 Ultra LTE FRP bypass**, you can use effective software. While other methods are not as versatile and simple, you can take a few steps to unlock your device. The best software solution to bypass FRP on ZTE devices currently available is [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/). It is a comprehensive solution that offers functions ranging from bypassing screen locks to FRP locks.
 
 Dr.Fone – Screen Unlock (Android) goes beyond ZTE, extending its capability to bypass FRP locks on devices from diverse brands like MI, [<u>Samsung</u>](https://drfone.wondershare.com/google-frp-unlock/samsung-a10-frp-bypass.html), [<u>OPPO</u>](https://drfone.wondershare.com/google-frp-unlock/oppo-frp.html), and more. Additionally, it streamlines the unlocking process for various screen locks, covering passwords, PINs, fingerprints, and facial recognition. Dr.Fone is designed with a user-centric approach, ensuring accessibility for users of all types to unlock their devices effectively.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Features of Wondershare Dr.Fone
 
 1. If your locked device is Samsung or LG brand, you can remove the screen lock without any data loss.
@@ -268,11 +250,7 @@ By eliminating the FRP lock, Dr.Fone facilitates the option of having complete a
 
 You can begin with installing and launching Wondershare Dr.Fone. Go to the "Toolbox" tab and press "Screen Unlock." On the following screen, choose "Android" as the ZTE Nubia Z60 Ultra device type and click "Remove Google FRP Lock." Now, you will be asked to choose the ZTE Nubia Z60 Ultra device brand, after which you need to continue by clicking “Start.”
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![selecting the brand for frp unlock](https://images.wondershare.com/drfone/guide/remove-android-frp-lock-1.png)
-
 
 - Step 2. Successfully Bypass ZTE Nubia Z60 Ultra FRP Lock
 
@@ -290,6 +268,10 @@ The SIM card method is a favored FRP lock bypass approach among ZTE Nubia Z60 Ul
 
 ![add sim to tecno pop 5](https://images.wondershare.com/drfone/article/2024/01/guide-to-tecno-pop-5-frp-bypass-with-best-methods-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2.** Before inserting the SIM card, ensure at least one contact is saved on the card. It could be any random number, and you can do it by inserting the SIM card into another device. After inserting the SIM card, tap "Emergency," where the ZTE Nubia Z60 Ultra device asks you for the PIN of the SIM card.
 
 ![provide sim passcode](https://images.wondershare.com/drfone/article/2024/01/guide-to-tecno-pop-5-frp-bypass-with-best-methods-5.jpg)
@@ -300,30 +282,18 @@ The SIM card method is a favored FRP lock bypass approach among ZTE Nubia Z60 Ul
 
 - **Step 4.** Add the contact you saved as the owner's contact and make a call. During the call, tap "Contacts" to access your saved contacts, and select the one you saved. On tapping the three dots on the top, select "Share” and choose "Share as text."
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select and share saved contact](https://images.wondershare.com/drfone/article/2024/01/guide-to-tecno-pop-5-frp-bypass-with-best-methods-7.jpg)
 
 - **Step 5.** Choose "XShare Mini" as the sharing option, grant the necessary permissions, and leave the ZTE Nubia Z60 Ultra device on the "QR Code." Move to another device and access a web browser. Go to mobileteamofficials.com and download two apps: “Google Account Manager” and “Account Login/ FRP Bypass.”
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![download apps for frp unlock](https://images.wondershare.com/drfone/article/2024/01/guide-to-tecno-pop-5-frp-bypass-with-best-methods-8.jpg)
 
 - **Step 6.** On the other device you’re using, download the two apps from the Google Play Store: “Activity Launcher” and “XShare.” Now open the XShare app and grant all the required permissions. Tap "Receive" and scan the QR code from the ZTE device to complete the contact transfer process.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![transfer contact to second device](https://images.wondershare.com/drfone/article/2024/01/guide-to-tecno-pop-5-frp-bypass-with-best-methods-9.jpg)
 
 - **Step 7.** Now, select three apps: “Google Account Manager,” “Account Login/ FRP Bypass,” and “Activity Launcher” within XShare on the second device. On the ZTE device, tap "Receive" and scan the QR code to complete the process.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![transfer three apps for frp bypass](https://images.wondershare.com/drfone/article/2024/01/guide-to-tecno-pop-5-frp-bypass-with-best-methods-10.jpg)
 
 - **Step 8.** Once received, install all three apps on the ZTE device. Now, first open "Account Login/ FRP Bypass" and tap “three dots” from the top right corner to select "Browser Sign In." When it takes you to the Google sign-in page, log in using any Google ID.
@@ -332,9 +302,6 @@ The SIM card method is a favored FRP lock bypass approach among ZTE Nubia Z60 Ul
 
 - **Step 9.** After signing in, return to the apps and open the Activity Launcher app. Within the app, tap "Android Setup" on the following screen and scroll down to press the "Android Setup" entry. This will perform the **ZTE Nubia Z60 Ultra Lite FRP** **bypass** successfully.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![access activity launcher and unlock](https://images.wondershare.com/drfone/article/2024/01/guide-to-tecno-pop-5-frp-bypass-with-best-methods-12.jpg)
 
 **Here is a video for you to learn how to bypass FRP:**
@@ -347,23 +314,14 @@ While you consider other FRP bypassing methods instead of Wondershare Dr.Fone, t
 
 - **Step 1.** To begin, turn on your ZTE Android 11 Phone. Press “START” and link your phone to a Wi-Fi connection. Return to the Welcome Screen, then press “Start” and choose the option to “Add a New Network.”
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![start by adding network](https://images.wondershare.com/drfone/article/2024/01/guide-to-tecno-pop-5-frp-bypass-with-best-methods-13.jpg)
 
 - **Step 2.** Touch the “Microphone” icon and choose “Deny” across the pop-up. Go for the “Microphone” icon again, and opt for “Deny.” Lastly, touch the same icon again and opt for “Allow.” This will take you to the Gboard App information screen.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![workout with permissions](https://images.wondershare.com/drfone/article/2024/01/guide-to-tecno-pop-5-frp-bypass-with-best-methods-14.jpg)
 
 - **Step 3.** Choose “Permissions” and tap the “Search” icon at the top-right corner of the follow-up screen. Search for “Settings” and pick the respective app from the results list. Tap "Open" to access the Settings application. This action will direct you to the “Settings” interface.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![open gboard permissions for settings](https://images.wondershare.com/drfone/article/2024/01/guide-to-tecno-pop-5-frp-bypass-with-best-methods-15.jpg)
 
 - **Step 4.** Navigate to "App management" and select "App settings." Access the XShare APK, launch it, and ensure you have a secondary Android device available. Open the Play Store on the second device, and download and install the XShare App for further processing.
@@ -374,23 +332,18 @@ While you consider other FRP bypassing methods instead of Wondershare Dr.Fone, t
 
 [<u>https://tiny</u>](https://tiny/).cc/frptools or [<u>https://bit</u>](https://bit/).ly/2NkxXYs
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![download xshare app on new device](https://images.wondershare.com/drfone/article/2024/01/guide-to-tecno-pop-5-frp-bypass-with-best-methods-17.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 6.** Open the XShare APK on your second Android device. Navigate to the downloaded apps and tap “Send.” Return to the FRP phone and select “Receive” on it. Scan the QR code to establish a connection between the ZTE Nubia Z60 Ultra devices. Verify on your FRP phone that both FRP APK files have been received and proceed with the installation.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![share two apps for frp unlocking](https://images.wondershare.com/drfone/article/2024/01/guide-to-tecno-pop-5-frp-bypass-with-best-methods-18.jpg)
 
 - **Step 7.** Close and exit the XShare APK on the FRP phone to return to the “App settings” screen. Launch the FRP Bypass APK, tap the “three dots” upon opening, and choose “Browser Sign-In.” Sign in with your Google Account ID and password.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![open frp bypass tool to unlock](https://images.wondershare.com/drfone/article/2024/01/guide-to-tecno-pop-5-frp-bypass-with-best-methods-19.jpg)
 
 - **Step 8.** Return to the “App settings” Screen and uninstall the Google Account Manager APK. Proceed to the initial “Welcome” screen by tapping the back key repeatedly. Initiate the ZTE Nubia Z60 Ultra device setup procedure by tapping “Start.” You should now observe "Account Added," indicating successful FRP bypass on your **ZTE Nubia Z60 Ultra FRP bypass Android 11**.
@@ -403,16 +356,10 @@ In conclusion, **the ZTE Nubia Z60 Ultra LTE FRP unlock tool** demands varied ap
 
 _**Tips:** Are you searching for a powerful FRP bypass tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Bypass Google FRP Lock on ZTE Nubia Z60 Ultra Devices
 
 Technological advancements in the IT and telecommunication industry simplify your tasks and provide security against cyber malpractices. The advantages are numerous and appealing, but there are downsides too. One such inconvenience is caused by Google FRP lock in ZTE Nubia Z60 Ultra smartphones. The facility keeps your device information safe against unauthorized access. However, users often report issues like lockouts not being removed due to several causes. Such scenarios raise the demand for **ZTE Nubia Z60 Ultra Nord FRP bypass** solutions for seamless device access.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![google frp bypass in oneplus phones](https://images.wondershare.com/drfone/article/2022/08/how-to-bypass-google-frp-lock-on-any-oneplus-phones-01.jpg)
 
 ## Part 1. What Is Google FRP and How Does It Work?
@@ -425,9 +372,6 @@ If your device is under untrusted access and the FRP lock is enabled, the latter
 
 To remove the Google FRP lock on your ZTE Nubia Z60 Ultra device, you can follow any of the methods discussed below:
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Bypass Google FRP Lock on Your ZTE Nubia Z60 Ultra Phone
 
 - Switch on the Wi-Fi network of the ZTE Nubia Z60 Ultra phone and head to the 'Hello' screen.
@@ -447,9 +391,6 @@ _**System> Accessibility> Accessibility Menu> Toggle the Button to Turn it On> A
 - Head to the "Settings" app and tap "Apps and Notifications". Next, click on "See All Apps".
 - Find and disable the 'Android Setup' and 'Google Play Service' within the application list.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![disabling android setup and google play service](https://images.wondershare.com/drfone/article/2022/08/how-to-bypass-google-frp-lock-on-any-oneplus-phones-03.jpg)
 
 - Navigate back to the 'Hello' screen to completely disable the setup by taking the following path:
@@ -458,9 +399,6 @@ _**Start> Agree> Agree> Skip> Don't Copy> Ok> Agree**_
 
 - Skip the 'Set Screen Lock' task for completing the setup.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Using FRP Bypass APK
 
 This is a quick and smart way to address the FRP lock removal issue within several minutes. Here's what you need to do:
@@ -484,9 +422,6 @@ Removing the Google FRP lock using a computer is impossible in some instances. D
 
 - Launch the "Settings" app on your ZTE Nubia Z60 Ultra device.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![launching the 'settings' application on oneplus phone](https://images.wondershare.com/drfone/article/2022/08/how-to-bypass-google-frp-lock-on-any-oneplus-phones-05.jpg)
 
 - In the app's opening interface, click on the 'Accounts' tab to open the section.
@@ -511,9 +446,6 @@ Removing the Google FRP lock using a computer is impossible in some instances. D
 
 There may be instances when you require wiping out smartphone data to keep it safe against unauthorized access. Maybe you wish to pass on your device to another user or migrate to a different device. It is important to make sure that all accounts linked to the phone are deleted from the ZTE Nubia Z60 Ultra device. It should be understood here that a factory reset will not remove Google or other accounts from the ZTE Nubia Z60 Ultra device. The process restores the default factory settings of the phone that you got at the first purchase.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 2\. How to Enable Factory Reset Protection?
 
 Enabling the Factory Reset protection feature is a smart way to protect the important data on your phone. However, issues of unethical access in cases of theft or loss are quite prominent. You can enable the FRP functionality by taking the following steps:
@@ -527,19 +459,11 @@ These steps will cause the automatic configuration of the Factory Reset Protecti
 
 Developments in electronic technology have brought a series of benefits, covering easy access, security, and everything in between. One such feature is the Google Factory Reset Protection to protect your device data against untrusted access. The feature is undoubtedly credible, but there may be situations that require bypassing the FRP lock. For affordable solutions to address the concern on ZTE Nubia Z60 Ultra phones, pick the one that corresponds to your specific situation.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Dr.Fone - Screen Unlock (Android)
 
 Unlock Your ZTE Nubia Z60 Ultra Phone in a Flash
 
 - Remove 5 screen lock types: pattern, PIN, password, ingerprints & Face ID.
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 - Bypass Android FRP lock without a PIN or Google account.![New icon](https://images.wondershare.com/drfone/others/new_23.png)
 - Unlock mainstream Android brands like Samsung, Huawei, LG, Xiaomi, etc.
 - No tech knowledge required, Simple, click-through, process.
@@ -553,9 +477,21 @@ Unlock Your ZTE Nubia Z60 Ultra Phone in a Flash
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-elitesnap-solutions-ultimate-windowsmac-image-software/"><u>[New] EliteSnap Solutions Ultimate Windows/Mac Image Software</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-time-saving-strategies-mastering-video-playback-speed/"><u>[New] Time-Saving Strategies Mastering Video Playback Speed</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-from-genres-to-gems-building-a-personalized-youtube-music-mix-onlinemobile/"><u>[Updated] In 2024, From Genres to Gems Building a Personalized YouTube Music Mix Online/Mobile</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-depth-guide-to-simple-high-dynamic-range/"><u>[Updated] In-Depth Guide to Simple High Dynamic Range</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-camera-kings-battle-ultimate-sj6-vs-xiaomis-yi-kickstart-dream/"><u>2024 Approved Camera Kings Battle Ultimate SJ6 Vs. Xiaomi’s Yi Kickstart Dream</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/beat-the-freeze-resolve-minecrafts-lock-up-problems-for-pc-gamers-updated-guide/"><u>Beat The Freeze: Resolve Minecraft's Lock-Up Problems for PC Gamers (Updated Guide)</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-how-to-bypass-google-pixel-8-pro-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Google Pixel 8 Pro FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-vivo-x90s-frp-by-drfone-android/"><u>Full Guide to Bypass Vivo X90S FRP</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-nubia-red-magic-8s-pro-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Nubia Red Magic 8S Pro Devices</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-mastering-whiteboard-tech-in-online-classes-ios-android-and-macbooks/"><u>In 2024, Mastering Whiteboard Tech in Online Classes IOS, Android, and MacBooks</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-itel-p40-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Itel P40 Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-vivo-y36-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Vivo Y36 Phone FRP Lock</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-vivo-y78tfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Vivo Y78tFRP Lock</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ultimate-guide-top-8-convertors-for-sub-to-srt-harmony/"><u>Ultimate Guide Top 8 Convertors for Sub to Srt Harmony</u></a></li>
+</ul></div>
 
