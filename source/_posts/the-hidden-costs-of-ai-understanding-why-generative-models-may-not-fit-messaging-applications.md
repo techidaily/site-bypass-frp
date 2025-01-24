@@ -1,7 +1,7 @@
 ---
 title: "The Hidden Costs of AI: Understanding Why Generative Models May Not Fit Messaging Applications"
-date: 2025-01-13T22:49:00.202Z
-updated: 2025-01-17T19:11:21.374Z
+date: 2025-01-19T18:09:34.084Z
+updated: 2025-01-24T18:16:43.947Z
 tags:
   - chatgpt
   - open-ai
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/d50bbc29912cb43ec93cd3720edb01228fbd6306e
  ChatGPT’s Code Interpreter is by far the single most powerful feature available on the ChatGPT platform. Though many don't realize it, this tool has numerous exciting uses and can do far more than the handful of tasks it's currently being used for.
 
  So, what exactly can you do with ChatGPT's Code Interpreter plugin? We’ve put together some of the most useful ways you can use the Code Interpreter plugin right now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Create and Edit Images
 
@@ -50,10 +54,14 @@ thumbnail: https://thmb.techidaily.com/d50bbc29912cb43ec93cd3720edb01228fbd6306e
 ![Word cloud created with ChatGPT Code Interpreter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/word-cloud-created-with-chatgpt-code-interpreter.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Of course, you can ask it to change the background color or use a different font. There are a lot of ways you play around with images using the Code Interpreter plugin. If you are short of ideas, just upload an image and ask ChatGPT to tell you what tasks it can perform on the image.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Create and Edit Videos
 
@@ -71,13 +79,13 @@ thumbnail: https://thmb.techidaily.com/d50bbc29912cb43ec93cd3720edb01228fbd6306e
 
 ![Things you can do with a video using ChatGPT Code Interpreter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/things-you-can-do-with-a-video-using-chatgpt-code-interpreter.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In the example below, we asked ChatGPT to extract the audio from a small video file, and it did so in just a few seconds. The resulting audio file which was available for download was very crisp and clear.
 
 ![Extracting audio from a video file with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/extracting-audio-from-a-video-file.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  While the Code Interpreter plugin can perform a lot of video-related operations, practical usage, at least for now, is quite limited due to the limited size of video it can handle. It's not very clear the maximum size of video files Code Interpreter can handle, but you'll typically run into memory issues with larger videos. For the best results, use smaller video files, with lower resolutions whenever possible.
 
@@ -93,10 +101,6 @@ thumbnail: https://thmb.techidaily.com/d50bbc29912cb43ec93cd3720edb01228fbd6306e
 * Trim an audio to a specific time range.
 * Overlay an audio file with another audio
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Read, Edit and Create Documents
 
  File handling is undoubtedly one of Code Interpreter's strongest suits. The capabilities of the Code Interpreter extend far beyond just processing image, audio and video files.
@@ -110,7 +114,7 @@ thumbnail: https://thmb.techidaily.com/d50bbc29912cb43ec93cd3720edb01228fbd6306e
  Think of any twist you can encounter in real life usage. If it involves creating or reading from documents of any kind, there's a good chance the Code Interpreter plugin will be able to deal with it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Write and Analyze Code
@@ -126,10 +130,6 @@ thumbnail: https://thmb.techidaily.com/d50bbc29912cb43ec93cd3720edb01228fbd6306e
  When we asked for a new feature to be added to the project, the plugin could identify all the files that needed changes to add a new feature. When prompted, it could make these changes with no input from our end.
 
  Of course, when tested, the project worked flawlessly after it added the feature. It might run into obstacles sometimes, but undoubtedly, working with a large code base is one of the most useful functionalities of the Code Interpreter feature.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Extract Text from Images (Optical Character Recognition)
 
@@ -158,19 +158,19 @@ thumbnail: https://thmb.techidaily.com/d50bbc29912cb43ec93cd3720edb01228fbd6306e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/updated-from-silence-to-spotlight-the-solo-podcast-artists-journey/"><u>[Updated] From Silence to Spotlight The Solo Podcast Artist's Journey</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-converting-classics-digitizing-and-archiving-past-photos/"><u>[Updated] In 2024, Converting Classics Digitizing and Archiving Past Photos</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-windows-msc-error-the-printmanagement-glitch/"><u>Addressing Windows MSC Error: The 'Printmanagement' Glitch</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-the-best-9-uses-of-chatgpt-for-improving-your-health-journey/"><u>Discover the Best 9 Uses of ChatGPT for Improving Your Health Journey</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-can-vivo-y02tmirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Vivo Y02TMirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-rectify-the-invisible-wi-fi-network-dilemma/"><u>How to Rectify the Invisible Wi-Fi Network Dilemma?</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-vivo-y27s-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Vivo Y27s Phones with/without a PC</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-on-tecno-spark-10c-by-drfone-android/"><u>In 2024, How to Bypass FRP on Tecno Spark 10C?</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-xiaomi-13-ultra-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Xiaomi 13 Ultra Devices</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-vivo-y200e-5g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Vivo Y200e 5G to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-vivo-y77t-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Vivo Y77t Phone FRP Lock</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-is-your-iphone-12-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/"><u>In 2024, Is Your iPhone 12 in Security Lockout? Proper Ways To Unlock | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-honor-x50i-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Honor X50i FRP Bypass</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/why-samsung-galaxy-ring-is-a-lost-cause-for-repairs/"><u>Why Samsung Galaxy Ring Is a Lost Cause for Repairs</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-hands-on-tips-for-masterful-video-edits-with-youtube-studio/"><u>[New] 2024 Approved Hands-On Tips for Masterful Video Edits with YouTube Studio</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-social-media-gold-rush-prime-hashes-for-viewership/"><u>[New] In 2024, Social Media Gold Rush Prime Hashes for Viewership</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-flipping-scripts-generating-parody-content/"><u>[Updated] 2024 Approved Flipping Scripts Generating Parody Content</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-poco-x6-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Poco X6</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-vivo-y77t-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Vivo Y77t</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/about-tecno-spark-go-2024-frp-bypass-by-drfone-android/"><u>About Tecno Spark Go (2024) FRP Bypass</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-poco-x6-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Poco X6 FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-honor-x50-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Honor X50? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-tecno-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Tecno Phones with/without a PC</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Realme 11 Pro? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/realme-gt-neo-5-se-messages-recovery-recover-deleted-messages-from-realme-gt-neo-5-se-by-fonelab-android-recover-messages/"><u>Realme GT Neo 5 SE Messages Recovery - Recover Deleted Messages from Realme GT Neo 5 SE</u></a></li>
+<li><a href="https://some-tips.techidaily.com/score-big-with-prime-day-aftermath-the-latest-apple-ipad-gen-10-sets-at-a-steal-for-just-299-coverage-by-zdnet/"><u>Score Big with Prime Day Aftermath: The Latest Apple iPad Gen 10 Sets at a Steal for Just $299 | Coverage by ZDNet</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/top-downloader-apps-youtube-videos-on-android-compared/"><u>Top Downloader Apps YouTube Videos on Android Compared</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-a-new-dimension-of-reality-with-apple-vision-pro-enter-the-marvel-world-today/"><u>Unlock a New Dimension of Reality with Apple Vision Pro – Enter the Marvel World Today!</u></a></li>
 </ul></div>
 

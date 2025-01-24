@@ -1,7 +1,7 @@
 ---
 title: In 2024, The Updated Method to Bypass Honor Magic 6 Lite FRP
-date: 2024-12-30T03:28:15.145Z
-updated: 2025-01-06T02:26:16.625Z
+date: 2025-01-18T18:36:08.919Z
+updated: 2025-01-24T18:13:43.641Z
 tags: 
   - unlock
   - bypass android frp
@@ -45,6 +45,10 @@ Honor Magic 6 Lite FRP Lock Removal Made Easy
 - Bypass Android FRP lock without a PIN or Google account.![New icon](https://images.wondershare.com/drfone/others/new_23.png)
 - Unlock mainstream Android brands like Samsung, Redmi, Xiaomi, etc.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - No tech knowledge required, Simple, click-through, process.
 
 **3,981,454** people have downloaded it
@@ -56,10 +60,6 @@ Step 1: Launch Wondershare Dr.Fone first and choose Toolbox > Screen Unlock > An
 Step 2: Select Remove Google FRP Lock.
 
 ![choose remove Google frp lock](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 3: Choose Honor among the Honor Magic 6 Lite device brands.
 
@@ -73,6 +73,10 @@ Step 5: Wait for a few minutes and when it’s done, click Done button.
 
 ![remove frp successfully](https://images.wondershare.com/drfone/guide/remove-android-frp-lock-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: How To Bypass Honor Magic 6 Lite FRP in Traditional Method
 
 With each phone, operating system, and version of Android having its own technique, bypassing **Honor  FRP** on the most recent versions of Google's operating system is becoming increasingly challenging. You can use the FRP bypass software that works with your device to employ the free FRP bypass approach.
@@ -81,25 +85,29 @@ With each phone, operating system, and version of Android having its own techniq
 
 ![add network settings](https://images.wondershare.com/drfone/article/2023/05/how-to-bypass-xiaomi-redmi-frp-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - In the SSID field, type any random text you like and long-press to pick it. To share it with Gmail, tap the share icon. Tap Notifications > Additional Settings on the App Info screen.
 
 ![add network options](https://images.wondershare.com/drfone/article/2023/05/how-to-bypass-xiaomi-redmi-frp-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - Click the three dots in the top right corner and select "Help and Feedback."
 
 ![general settings](https://images.wondershare.com/drfone/article/2023/05/how-to-bypass-xiaomi-redmi-frp-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - Open the search bar and type "Delete and disable apps on Android." Tap "Tap to go to Application Settings" on the following screen.
 
 ![support menu](https://images.wondershare.com/drfone/article/2023/05/how-to-bypass-xiaomi-redmi-frp-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - Enable the Accessibility Menu Shortcut by selecting Settings > Additional Settings > Accessibility > Accessibility menu.
 
@@ -124,10 +132,6 @@ With each phone, operating system, and version of Android having its own techniq
 - To get back to the Connect to the Network screen, press the back button and the Next icon.
 
 ![settings](https://images.wondershare.com/drfone/article/2023/05/how-to-bypass-xiaomi-redmi-frp-10.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - Tap the person icon in the lower-right corner of the screen to access Google Assistant > Settings on the Checking for Updates page. To access the Google Play services App information page, repeat this process numerous times. To enable Google Play Services, select Enable.
 - Wait until the procedure is finished before going back to the Checking for Updates page. When the procedure is finished, select More, then select Accept.
@@ -169,10 +173,6 @@ Disabling FRP on Honor Magic 6 Lite/Poco devices is relatively simple. Once you'
 
 - You might be asked to enter your device password or PIN to finish the process.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Summary
 
 In conclusion, unlocking Honor Magic 6 Lite FRP can be difficult, but it can be done quickly with the correct tools. You can either use the traditional method, which may prove quite long. We would recommend using the **Honor FRP bypass tool**. The top Honor Magic 6 Lite Google FRP Unlock tools, such as [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/), have been covered in this article. Since Dr.Fone - Screen Unlock (Android) is an all-in-one solution for Samsung, Xiaomi, Redmi, Oppo, Realme, Vivo FRP unlocking, we advise readers to give it a try.
@@ -192,7 +192,7 @@ In this article, we'll learn about the **Honor Magic 6 Lite FRP bypass** process
 ![Honor Magic 6 Lite FRP unlock tool](https://images.wondershare.com/drfone/article/2024/01/quick-guide-to-tecno-bd4a-frp-bypass-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1. Things To Keep in Mind Before Bypassing Honor Magic 6 Lite
@@ -247,17 +247,9 @@ Using the SIM card process for **Honor Magic 6 Lite FRP bypass** is a viable opt
 
 ![receive frp apps](https://images.wondershare.com/drfone/article/2024/01/quick-guide-to-tecno-bd4a-frp-bypass-6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 6.** As soon as the apps are received, install them and "Open" the Account Login/FRP Bypass tool. When it requires a password for sign-in, hit the "three-dots” and choose the "Browse Sign-In" option. Provide your Email and Password to sign in to your Google account.
 
 ![browse sign in with google account](https://images.wondershare.com/drfone/article/2024/01/quick-guide-to-tecno-bd4a-frp-bypass-7.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 7.** After Google signs in, "Open" the Activity Launcher app and wait until the package is loaded. From the appearing menu, select "Android Setup" and then choose the following option:
 
@@ -393,6 +385,10 @@ Proceed by clicking "Remove FRP" on your computer. It's essential to be aware th
 
 ![How to use GSM Flasher ADB tool](https://images.wondershare.com/drfone/article/2024/01/gsm-flasher-adb-bypasser-frp-tool-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3. Quick and Easy Bypasser FRP Tool Alternative
 
 If your phone model is not compatible with **GSM Flasher ADB** or if the tool doesn't seem to suit your needs, a reliable and swift alternative for FRP bypass is [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/). Dr.Fone offers the Screen Unlock feature that is intricately crafted to streamline the FRP bypass process, ensuring both ease and efficiency.
@@ -413,10 +409,6 @@ Launch Wondershare Dr.Fone on your computer and connect your Android devices. Go
 
 ![Open Dr.Fone Screen Unlock tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 2:** Select Remove Google FRP Lock.
 
 On the next screen, choose Android as your device type and select Remove Google FRP Lock to proceed.
@@ -429,15 +421,15 @@ Pick your Android device model and proceed by clicking the Start button.
 
 ![Select the Android device model](https://images.wondershare.com/drfone/guide/remove-android-frp-lock-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 4:** Choose the Android version.
 
 Now, specify your Android version. If you're unsure about the Android OS version on your Android or prefer the quickest method to eliminate the Google Lock, select the All Android versions (One-Click Removal) option. Click “Start” to continue.
 
 ![Choose the Android version](https://images.wondershare.com/drfone/guide/remove-google-frp-unknown-os-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 5:** Follow the instructions to access an Emergency Call.
 
@@ -451,9 +443,17 @@ Now, your Android screen will display a notification to enable USB debugging. On
 
 ![Enable USB debugging on Android](https://images.wondershare.com/drfone/guide/remove-google-frp-unknown-os-6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 On your computer, the next screen will show that the FRP lock is being removed from your Android device. Once it's successfully removed, a window will pop up saying it's done. Click "Done" if you've completed the process successfully.
 
 _**Tips:** Are you searching for a powerful FRP Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -470,20 +470,21 @@ As an alternative, tools like Dr.Fone can be explored for additional compatibili
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-prepare-yourself-7-must-have-tech-in-the-digital-frontier/"><u>[New] Prepare Yourself 7 Must-Have Tech in the Digital Frontier</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-screenplay-savvy-filmoras-faqs-for-2024/"><u>[New] Screenplay Savvy Filmora's FAQs for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-android-moba-gems-discovering-the-classics/"><u>2024 Approved Android MOBA Gems Discovering the Classics</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/finding-frame-frames-the-art-of-isolating-images-on-windows-10-for-2024/"><u>Finding Frame Frames The Art of Isolating Images on Windows 10 for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/get-your-system-ready-for-gaomon-s620-drivers/"><u>Get Your System Ready for Gaomon S620 Drivers</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-vivo-s18e-by-drfone-android/"><u>How to Bypass FRP from Vivo S18e?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-a14-5g-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Samsung Galaxy A14 5G PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-itel-a70-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Itel A70</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-to-realme-11-proplus-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Realme 11 Pro+ FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-infinix-hot-40-pro-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Infinix Hot 40 Pro FRP Locks</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-on-xiaomi-14-by-drfone-android/"><u>In 2024, How to Bypass FRP on Xiaomi 14?</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-nubia-red-magic-8s-pro-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Nubia Red Magic 8S Pro FRP Bypass</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-poco-m6-pro-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Poco M6 Pro 5G FRP Bypass</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-realme-v30t-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Realme V30T? Fixed | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/secure-the-official-logitech-driving-force-gt-driver-for-your-gaming-pc-running-any-version-of-windows/"><u>Secure the Official Logitech Driving Force GT Driver for Your Gaming PC Running Any Version of Windows</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-obs-studio-streamlining-your-professional-skype-broadcasts-for-2024/"><u>[Updated] OBS Studio Streamlining Your Professional Skype Broadcasts for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-become-a-successful-smm-in-10-steps/"><u>2024 Approved Become a Successful SMM in 10 Steps</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-mastering-the-art-of-instagram-voice-transformation/"><u>2024 Approved Mastering the Art of Instagram Voice Transformation</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-minute-movie-narrative-blueprint/"><u>2024 Approved Minute Movie Narrative Blueprint</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-vivo-v27-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Vivo V27 FRP</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-xiaomi-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Xiaomi</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/elite-selection-of-high-quality-server-enclosures-and-rack-systems/"><u>Elite Selection of High-Quality Server Enclosures & Rack Systems</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/expert-techniques-to-efficiently-manipulate-whiteboards-in-web-conferencing-tools/"><u>Expert Techniques to Efficiently Manipulate Whiteboards in Web Conferencing Tools</u></a></li>
+<li><a href="https://fox-info.techidaily.com/get-the-perfect-slideshow-design-10-places-to-download-for-inspiration-for-2024/"><u>Get the Perfect Slideshow Design 10 Places to Download for Inspiration for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-zte-blade-a73-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on ZTE Blade A73 5G Phones with/without a PC</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-honor-magic-vs-2-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Honor Magic Vs 2 FRP</u></a></li>
+<li><a href="https://network-issues.techidaily.com/swift-remedy-non-stuttering-views-only/"><u>Swift Remedy: Non-Stuttering Views Only</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-complete-guide-to-honor-x9b-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Honor X9b FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/top-5-infinix-hot-40i-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Infinix Hot 40i Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-on-itel-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Itel FRP Bypass</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/ultimate-guide-thorough-file-deletion-techniques-for-your-iphone-6-or-6-plus/"><u>Ultimate Guide: Thorough File Deletion Techniques for Your iPhone 6 or 6 Plus</u></a></li>
 </ul></div>
 
