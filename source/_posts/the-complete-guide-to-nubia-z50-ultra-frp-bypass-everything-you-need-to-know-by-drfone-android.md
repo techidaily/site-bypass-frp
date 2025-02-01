@@ -1,7 +1,7 @@
 ---
 title: The Complete Guide to Nubia Z50 Ultra FRP Bypass Everything You Need to Know
-date: 2025-01-18T16:08:59.120Z
-updated: 2025-01-24T21:09:20.295Z
+date: 2025-01-30T01:32:08.247Z
+updated: 2025-02-01T00:46:11.207Z
 tags: 
   - unlock
   - bypass android frp
@@ -52,6 +52,10 @@ That's why it's better to use the bypassing concept of FRP lock in your Nubia ph
 ## 2.1 How to Bypass Google Account on Nubia without PC?
 
 If you are looking for a solution to bypass Google Account on your Nubia device without a PC, there are 4 ways that will work as decent solutions. These methods all have their limitations, you can choose the one that is most suitable for you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Reset all your settings in Safe Mode
 
@@ -120,6 +124,10 @@ Another method of bypassing your device's FRP lock is using the [QuickShortcutMa
 
 ![switch on your frp device](https://images.wondershare.com/drfone/article/2022/09/switch-on-your-frp-device.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2**: Open the quick shortcut maker apk and search for Google account manager.
 
 ![quick shortcut maker apk](https://images.wondershare.com/drfone/article/2022/09/open-the-quick-shortcut-maker.jpg)
@@ -132,6 +140,10 @@ Another method of bypassing your device's FRP lock is using the [QuickShortcutMa
 - **Step 5:** Once done, a new window will open where you need to click on Try.
 
 ![click on try](https://images.wondershare.com/drfone/article/2022/09/new-window-will-open.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 6:** When the white page appears for re-typing the password, click on the 3 dots present at the top right corner.
 - **Step 7:** Select the browser sign-in option and enter your Google ID with the password. Finish the entire process and then restart your Android device.
@@ -169,10 +181,6 @@ Talkback is another beautiful application through which you can unlock the FRP p
 
 ![select the browser sign in option](https://images.wondershare.com/drfone/article/2022/09/click-the-help-and-feedback-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 5:** Play the video tutorial and then click the share button. There will be 3 dots underneath, which you need to tap. Once you do so, you will be directed to the official website over the application of YouTube.
 - **Step 6:** Pause the video and click on the 3 dots at the screen's top right corner. Click on the terms and privacy policy option.
 - **Step 7:** Choose a feasible browser from the decided list to bypass the FRP lock successfully.
@@ -190,10 +198,6 @@ Talkback is another beautiful application through which you can unlock the FRP p
 #### Limitations
 
 It is a bit difficult, and you won't be able to access it in any recent Android version. Also, the mobile needs to be connected to the WiFi network for the Talkback feature to work seamlessly.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2.2. How to Bypass Google Account on Nubia with PC ？
 
@@ -251,10 +255,6 @@ This is probably the most accessible tool to remove the FRP lock from your Nubia
 
 You need to get the key after purchasing it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Nubia FRP & ID Bypass Tool
 
 This is a free application from Nubia. You can easily bypass the FRP lock and access your device. However, you will require your PC to download the lock tool, especially the latest version.
@@ -266,12 +266,16 @@ This is a free application from Nubia. You can easily bypass the FRP lock and ac
 
 ![extract the Nubia frp](https://images.wondershare.com/drfone/article/2022/09/extract-the-huawei-frp.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3**: As the tool opens, click on read info and enable the ADB option. It usually takes around 22 seconds maximum to allow the ADB to function on your smartphone, automatically rebooting the entire device.
 
 ![enable the adb option](https://images.wondershare.com/drfone/article/2022/09/enable-the-adb-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - **Step 4**: A pop-up option will show where you need to click on allow USB debugging.
@@ -302,10 +306,6 @@ The major limitation of this process is its dependency on a computer or laptop. 
 One of the best ways to bypass FRP lock is to disable it beforehand. To do so, go to your settings and click the accounts option. All the accounts like WhatsApp, Facebook, Instagram, and Google will open up. Click on Google and remove all the saved and active Google accounts. This will automatically disable the FRP lock.
 
 ![bypass frp and id](https://images.wondershare.com/drfone/article/2022/09/automatically-disable-the-frp-lock.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Bonus Tip: How to Unlock Nubia Screen Lock without Google Account?
 
@@ -341,10 +341,6 @@ The program can be used without worrying about any malware or virus. Steps for r
 
 ![select device model](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 4.** Choose "100% Remove Screen lock" after taping Nubia icon. Dr.Fone will start to unlock your Nubia phone screen after getting into the specific mode. And then wait for the unlock process to complete.
 
 ![begin to remove android lock screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-6.png)
@@ -369,11 +365,11 @@ Factory Reset Protection is one of the security measures available on Android 5.
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/WXFUGH1uMcI"></iframe>
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: Quick Overview of ADB and Fastboot Commands
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. What are ADB and Fastboot?
 
@@ -382,6 +378,10 @@ Standing for Android Debug Bridge, ADB and Fastboots are the methods through whi
 Several issues can be resolved, and multiple functions can be performed using the **ADB format tool** and Fastboots, and this also includes removing the FRP lock on your Android device. To use this method, USB debugging should be enabled on the Nubia Z50 Ultra device.
 
 For specific brands of Android phones, specific utility tools are available like the **Vivo ADB format tool** and the **Samsung ADB format tool**, which are used explicitly for Vivo and Samsung phones, respectively.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. How Do ADB and Fastboot Bypass FRP?
 
@@ -399,10 +399,6 @@ The Android versions on which ADB and Fastboot commands can be used are as follo
 - `_Android 8- Oreo_`
 - `_Android 9- Pie_`
 - `_Android 10 – Q (expected to work though not tested as yet)_`
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: How to Set Up ADB and Fastboot Commands to Remove FRP Lock on Android?
 
@@ -429,10 +425,6 @@ To remove FRP lock using ADB, you first need to install and set up ADB and then 
 - `_name:s:user_setup_complete –bind value:s:1_`
 
 ![adb frp command](https://images.wondershare.com/drfone/article/2022/04/adb-frp-command.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 After the execution of the commands, the FRP lock will be removed from your Android device.
 
@@ -475,6 +467,10 @@ ADB is a command-based method, and thus it is important that the commands are en
 - **The process is not user-friendly**
 
 ADB is a technical process aimed toward the geeks, and thus the overall process is not user-friendly and complicated.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: The Best ADB Alternative to Bypass FRP Lock on Android Phones
 
@@ -537,10 +533,6 @@ One of the most common reasons for needing to bypass FRP is that you simply forg
 
 Another common reason for wanting to bypass FRP is if you've purchased a second-hand phone. If the previous owner of the phone didn't correctly remove their Google account from the Nubia Z50 Ultra device before selling it to you, then you'll be stuck with their account on the phone and won't be able to use it yourself until you bypass FRP.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Factory Reset In An Untrusted Environment
 
 If you've performed a factory reset on your phone to try and fix an issue or start fresh, you'll need to bypass FRP to use the Nubia Z50 Ultra device again. It is because a factory reset will also remove your Google account from the phone, leaving you locked out unless you can remember the login credentials.
@@ -595,6 +587,10 @@ Using FRP Bypass APK, you can unlock Google lock on the Nubia Z50 Ultra Hot 8 FR
 
 Nubia Z50 Ultra Hot 8 FRP bypass using FRP Bypass APK is a simple method that a beginner can utilize.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method #3: Bypass Nubia Z50 Ultra FRP Without PC Via Settings Menu
 
 Do you want to bypass the Google account verification FRP on the Nubia Z50 Ultra Smart 5 phone? Using this method, you can bypass the FRP on Nubia Z50 Ultra Smart 5.
@@ -639,6 +635,10 @@ Wait until the Nubia Z50 Ultra Hot 8 reboots and prompts you to select a languag
 
 Bypassing the FRP on your Nubia Z50 Ultra Smart 5 is as simple as following these steps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Conclusion
 
 It is not illegal to bypass Google verification when you are doing a factory reset in case you forget your password or don't remember your Google account. The Nubia Z50 Ultra Smart 5 FRP bypass becomes useless if you don't bypass the FRP lock, so FRP bypass Nubia Z50 Ultra Hot S matters.
@@ -654,24 +654,14 @@ You can bypass the Nubia Z50 Ultra Hot 8 FRP by using a few practical methods li
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-pioneering-techniques-youtube-to-facebook-amplification/"><u>[Updated] 2024 Approved Pioneering Techniques YouTube to Facebook Amplification</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-vivo-y100a-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Vivo Y100A FRP</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-vivo-y56-5g-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Vivo Y56 5G</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/bedtime-videos-breakdown-stories-and-reviews-for-2024/"><u>Bedtime Videos Breakdown Stories and Reviews for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-and-installation-of-realtek-audiophile-drivers-on-your-windows-10-pc/"><u>Download and Installation of RealTek Audiophile Drivers on Your Windows 10 PC</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/download-facebook-videos-swiftly-discover-the-top-10-android-downloader-tools/"><u>Download Facebook Videos Swiftly Discover the Top 10 Android Downloader Tools</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-vivo-y100t-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Vivo Y100t FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-honor-magic-5-lite-by-drfone-android/"><u>How to Bypass FRP from Honor Magic 5 Lite?</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-on-vivo-y56-5g-by-drfone-android/"><u>How to Bypass FRP on Vivo Y56 5G?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-xiaomi-14-pro-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Xiaomi 14 Pro Phone that is Locked?</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-full-guide-to-bypass-honor-play-7t-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Honor Play 7T FRP</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-xiaomi-redmi-note-13-pro-5g-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Xiaomi Redmi Note 13 Pro 5G FRP In 3 Different Ways</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-share-on-apple-iphone-13-drfone-by-drfone-ios/"><u>In 2024, How to Screen Share on Apple iPhone 13? | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-infinix-zero-30-5g-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Infinix Zero 30 5G FRP</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-depth-analysis-navigating-zoom-for-webinars-and-livestreams-for-2024/"><u>In-Depth Analysis Navigating Zoom for Webinars and Livestreams for 2024</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/leading-ios-devices-data-destruction-tools-best-picks/"><u>Leading iOS Devices Data Destruction Tools – Best Picks!</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/top-5-vivo-y27s-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Vivo Y27s Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/top-virtual-reality-games-oculus-vs-htc-vive-vs-playstation-vr-showdown/"><u>Top Virtual Reality Games Oculus vs HTC Vive vs PlayStation VR Showdown</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>Ways to trade pokemon go from far away On Apple iPhone 15 Pro? | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-best-youtube-title-generators/"><u>[New] 2024 Approved Best YouTube Title Generators</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-turn-your-youtube-tracks-into-mp3-with-macos/"><u>[Updated] 2024 Approved Turn Your YouTube Tracks Into MP3 with MacOS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-guide-to-vr-game-engine-picks-2023/"><u>2024 Approved The Ultimate Guide to VR Game Engine Picks, 2023</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-google-pixel-7a-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Google Pixel 7a</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-how-to-bypass-tecno-spark-go-2024-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Tecno Spark Go (2024) FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-itel-p40-by-drfone-android/"><u>How to Bypass FRP from Itel P40?</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/in-2024-transforming-content-into-multilingual-masterpieces-a-filmora-based-approach-to-video-dubbing/"><u>In 2024, Transforming Content Into Multilingual Masterpieces A Filmora-Based Approach to Video Dubbing</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/latest-guide-how-to-bypass-vivo-g2-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Vivo G2 FRP Without Computer</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-key-distinctions-cat5-vs-cat6-networking-cables/"><u>Understanding Key Distinctions: Cat5 vs Cat6 Networking Cables</u></a></li>
 </ul></div>
 
